@@ -1,0 +1,68 @@
+name: BankGuard — validación sin servicios IA
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  bankguard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      UV_PYTHON: "3.12"
+      LANGSMITH_TRACING: "false"
+      LANGCHAIN_TRACING_V2: "false"
+      RUN_BANKGUARD_INTEGRATION: "0"
+      MPLBACKEND: Agg
+    steps:
+      - name: Obtener código
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: Preparar Python 3.12
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Preparar uv
+        uses: astral-sh/setup-uv@07a047e608db84b3d8c06cd9a7c7dcc9c355c18e # v10.3.2
+        with:
+          version: "0.9.13"
+
+      - name: Instalar dependencias bloqueadas
+        run: uv sync --frozen --dev
+
+      - name: Ejecutar pruebas sin integración
+        run: uv run --no-sync python -m pytest tests/bankguard -q -m "not integration" -p no:cacheprovider
+
+      - name: Verificar CLI con los CSV de entrega
+        shell: bash
+        run: |
+          uv run --no-sync python agents/10_bankguard_agent.py \
+            --client C003 --start 2026-10-01 --end 2026-10-31 \
+            --no-compliance --no-charts --no-alert > "$RUNNER_TEMP/bankguard-c003.json"
+          uv run --no-sync python agents/10_bankguard_agent.py \
+            --client C006 --start 2026-10-01 --end 2026-10-31 \
+            --no-compliance --no-charts --no-alert > "$RUNNER_TEMP/bankguard-c006.json"
+          uv run --no-sync python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          results = Path(os.environ["RUNNER_TEMP"])
+          high = json.loads((results / "bankguard-c003.json").read_text())
+          inconclusive = json.loads((results / "bankguard-c006.json").read_text())
+          assert not high["errors"], high["errors"]
+          assert high["risk"]["level"] == "alto"
+          assert high["risk"]["score"] >= 70
+          assert not inconclusive["errors"], inconclusive["errors"]
+          assert inconclusive["risk"]["level"] == "no_concluyente"
+          assert inconclusive["risk"]["score"] is None
+          assert high["compliance"] is None and inconclusive["compliance"] is None
+          print("CLI correcta: C003 alto y C006 no concluyente, sin servicios IA.")
+          PY
