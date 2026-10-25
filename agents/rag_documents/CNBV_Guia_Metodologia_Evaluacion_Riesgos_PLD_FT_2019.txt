@@ -1,0 +1,767 @@
+                                                     Ciudad de México, 6 de septiembre de 2019
+
+La Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los artículos
+4, fracciones XXXVI y XXXVIII de la Ley de la Comisión Nacional Bancaria y de Valores; 43,
+fracción VI del Reglamento Interior de la Comisión Nacional Bancaria y de Valores, así como
+en la 21ª-6 de las Disposiciones de carácter general a que se refiere el artículo 115 de la Ley de
+Instituciones de Crédito; 19ª-6 de las Disposiciones de carácter general a que se refiere el
+artículo 212 de la Ley del Mercado de Valores; 9ª-6 de las Disposiciones de carácter general a
+que se refiere el artículo 226 Bis de la Ley del Mercado de Valores, aplicables a los asesores en
+inversiones; 14ª-6 de las Disposiciones de carácter general a que se refiere el artículo 95 de la
+Ley General de Organizaciones y Actividades Auxiliares del Crédito, aplicables a las casas de
+cambio; 14ª-6 de las Disposiciones de carácter general a que se refiere el artículo 95 de la Ley
+General de Organizaciones y Actividades Auxiliares del Crédito aplicables a los Almacenes
+Generales de Depósito; 22ª-6 de las Disposiciones de carácter general a que se refieren los
+artículos 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de
+Ahorro y Préstamo; 23ª-6 de las Disposiciones de carácter general a que se refiere el artículo
+124 de la Ley de Ahorro y Crédito Popular; 15ª-6 de las Disposiciones de carácter general a que
+se refiere el artículo 129 de la Ley de Uniones de Crédito; 17ª-6ª de las Disposiciones de carácter
+general a que se refieren los artículos 115 de la Ley de Instituciones de Crédito en relación con
+el 87-D de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y 95-Bis de
+este último ordenamiento, aplicables a las sociedades financieras de objeto múltiple; 11ª-6 de
+las Disposiciones de carácter general a que se refiere el artículo 95 Bis de la Ley General de
+Organizaciones y Actividades Auxiliares del Crédito, aplicables a los centros cambiarios a que
+se refiere el artículo 81-A del mismo ordenamiento; 12ª-6 de las Disposiciones de carácter
+general a que se refiere el artículo 95 Bis de la Ley General de Organizaciones y Actividades
+Auxiliares del Crédito, aplicables a los transmisores de dinero a que se refiere el artículo 81-A
+Bis del mismo ordenamiento, 17ª-6 de las Disposiciones de carácter general a que se refiere el
+artículo 91 de la Ley de Fondos de Inversión y el artículo 9 de las Disposiciones de carácter
+general a que se refiere el artículo 58 de la Ley para Regular las Instituciones de Tecnología
+Financiera, y contando con la previa opinión de la Secretaría de Hacienda y Crédito Público, ha
+resuelto expedir la siguiente:
+
+
+ GUÍA PARA LA ELABORACIÓN DE UNA METODOLOGÍA DE EVALUACIÓN DE RIESGOS EN
+ MATERIA DE PREVENCIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+                     Y FINANCIAMIENTO AL TERRORISMO
+
+
+A)    DEFINICIONES
+
+En adición a las definiciones contenidas en las Disposiciones que resulten aplicables, para
+efectos de la presente Guía se entenderá, en singular o plural, por:
+
+I.    Contexto, al conjunto de circunstancias de tiempo, modo y lugar en los que el Sujeto
+      Supervisado lleva a cabo sus operaciones, y que serán determinantes en el diseño de la
+      Metodología de Evaluación de Riesgos, al formar parte de los supuestos de
+      identificación de los Indicadores de los Elementos de Riesgo.
+
+II.   Disposiciones, a las Disposiciones de carácter general a que se refiere el artículo 115 de
+      la Ley de Instituciones de Crédito; Disposiciones de carácter general a que se refiere el
+      artículo 212 de la Ley del Mercado de Valores; Disposiciones de carácter general a que se
+      refiere el artículo 226 Bis de la Ley del Mercado de Valores, aplicables a los asesores en
+      inversiones; Disposiciones de carácter general a que se refiere el artículo 95 de la Ley
+      General de Organizaciones y Actividades Auxiliares del Crédito, aplicables a las casas de
+      cambio; Disposiciones de carácter general a que se refiere el artículo 95 de la Ley
+      General de Organizaciones y Actividades Auxiliares del Crédito aplicables a los
+      Almacenes Generales de Depósito; Disposiciones de carácter general a que se refieren
+        los artículos 71 y 72 de la Ley para Regular las Actividades de las Sociedades
+        Cooperativas de Ahorro y Préstamo; Disposiciones de carácter general a que se refiere
+        el artículo 124 de la Ley de Ahorro y Crédito Popular; Disposiciones de carácter general a
+        que se refiere el artículo 129 de la Ley de Uniones de Crédito; Disposiciones de carácter
+        general a que se refieren los artículos 115 de la Ley de Instituciones de Crédito en
+        relación con el 87-D de la Ley General de Organizaciones y Actividades Auxiliares del
+        Crédito y 95-Bis de este último ordenamiento, aplicables a las sociedades financieras de
+        objeto múltiple; Disposiciones de carácter general a que se refiere el artículo 95 Bis de la
+        Ley General de Organizaciones y Actividades Auxiliares del Crédito, aplicables a los
+        centros cambiarios a que se refiere el artículo 81-A del mismo ordenamiento;
+        Disposiciones de carácter general a que se refiere el artículo 95 Bis de la Ley General de
+        Organizaciones y Actividades Auxiliares del Crédito, aplicables a los transmisores de
+        dinero a que se refiere el artículo 81-A Bis del mismo ordenamiento; las Disposiciones de
+        carácter general a que se refiere el artículo 91 de la Ley de Fondos de Inversión y las
+        Disposiciones de carácter general a que se refiere el artículo 58 de la Ley para Regular
+        las Instituciones de Tecnología Financiera.
+
+III.    Evaluación Nacional de Riesgos, al ejercicio de autoevaluación que realiza el gobierno
+        mexicano con la finalidad de orientar la política de prevención y combate de los riesgos
+        que implican la comisión de los delitos de lavado de dinero, financiamiento al
+        terrorismo, así como a las conductas de financiamiento a la proliferación de armas de
+        destrucción masiva, de manera que se asignen los recursos a la mitigación de los
+        mayores riesgos identificados.
+
+IV.     Elementos de Riesgo, a los factores genéricos que se observan en el desarrollo de la
+        actividad de los Sujetos Supervisados y que pudieran afectar en mayor o menor medida
+        el Riesgo a que están expuestas, considerando al menos los siguientes: Clientes y/o
+        Usuarios; países y áreas geográficas; productos y servicios; transacciones y canales de
+        envío o distribución vinculados con las Operaciones del Sujeto Supervisado con sus
+        Clientes y con sus Usuarios.
+
+V.      Financiamiento al Terrorismo, al delito tipificado en el artículo 139 Quáter del Código
+        Penal Federal.
+
+VI.     Indicadores, al conjunto de características específicas de riesgo que permiten conocer
+        y evaluar cómo y en qué medida se puede encontrar expuesto el Sujeto Supervisado al
+        Riesgo para cada uno de los Elementos de Riesgo identificados.
+
+VII.    LD/FT, a los delitos de Operaciones con Recursos de Procedencia Ilícita y
+        Financiamiento al Terrorismo.
+
+VIII.   Metodología de Evaluación de Riesgos, al conjunto de procesos para la identificación,
+        medición y mitigación de los Riesgos de LD/FT a los que están expuestos los Sujetos
+        Supervisados.
+
+IX.     Operaciones con Recursos de Procedencia Ilícita, al delito tipificado en el artículo 400
+        Bis del Código Penal Federal.
+
+X.      Sujeto Supervisado, a los almacenes generales de depósito, asesores en inversiones,
+        casas de bolsa, casas de cambio, centros cambiarios, instituciones de crédito,
+        instituciones de financiamiento colectivo, instituciones de fondos de pago electrónico,
+        sociedades autorizadas para operar con modelos novedosos, sociedades cooperativas
+        de ahorro y préstamo con niveles de operaciones I a IV, sociedades financieras de objeto
+        múltiple, sociedades financieras populares, sociedades financieras comunitarias con
+        niveles de operaciones I a IV, organismos de integración financiera rural, sociedades
+        distribuidoras de acciones de fondos de inversión, sociedades operadoras de fondos de
+        inversión, transmisores de dinero y uniones de crédito.
+
+
+B)      OBJETIVO
+La presente Guía tiene como objetivo señalar los criterios mínimos que los Sujetos
+Supervisados podrán considerar para un mejor cumplimiento a lo previsto en el Capítulo II Bis
+o el Título Segundo de las Disposiciones, según corresponda, que prevén la obligación de
+diseñar e implementar una metodología para llevar a cabo una evaluación de los Riesgos a los
+que se encuentran expuestos dichos Sujetos Supervisados, derivado de los productos,
+servicios, Clientes y/o Usuarios, países o áreas geográficas, transacciones y canales de envío o
+distribución vinculados con sus Operaciones y con sus Clientes y/o Usuarios, y para el caso de
+las Instituciones de Tecnología Financiera, la Infraestructura Tecnológica con los que operan,
+de acuerdo con lo señalado en las leyes financieras aplicables para cada Sujeto Supervisado.
+
+En la “Guía para un enfoque basado en riesgo” emitida por el Grupo de Acción Financiera
+(GAFI) en octubre de 2014, se define al enfoque basado en riesgo como el deber por parte de
+los países, autoridades competentes e instituciones financieras de identificar, evaluar y
+entender los Riesgos a los que están expuestos y adoptar medidas adecuadas para mitigar de
+manera efectiva dichos Riesgos.
+
+Específicamente para el caso de los Sujetos Supervisados, el enfoque basado en Riesgo debe
+permitirles entender cómo y hasta qué punto son vulnerables a los Riesgos, lo cual le
+permitirá asignar eficientemente sus recursos y aplicar procesos de gestión de dichos Riesgos
+adecuados a sus características propias. Es importante que los Sujetos Supervisados
+identifiquen la diferencia entre los riesgos financieros de la institución y los Riesgos de LD/FT.
+
+C)    METODOLOGÍA DE EVALUACIÓN DE RIESGOS
+
+Los Sujetos Supervisados deberán considerar que la realización de los delitos de LD/FT u otras
+actividades ilegales a través del propio Sujeto Supervisado, pueden emanar de diferentes
+fuentes, aunque algunos productos, servicios, tipo de Clientes y/o Usuarios, países y áreas
+geográficas, transacciones y canales de envío o distribución, pueden ser más vulnerables.
+
+El Riesgo asociado a ciertos productos, servicios, Clientes y/o Usuarios, países y áreas
+geográficas, transacciones y canales de envío o distribución no es el mismo para todos los
+Sujetos Supervisados y diversos Indicadores como la frecuencia, el volumen de las
+Operaciones, el carácter de las relaciones y el modo de interactuar con el Cliente y/o Usuario,
+deben tenerse en cuenta cuando el Sujeto Supervisado desarrolle su Metodología de
+Evaluación de Riesgos. Considerando lo anterior, los Indicadores varían de un Sujeto
+Supervisado a otro.
+
+Por lo anterior, el diseño de la Metodología de Evaluación de Riesgos de cada Sujeto
+Supervisado establecerá los procesos que se llevarán a cabo para la identificación, medición y
+mitigación de sus Riesgos, para lo cual deberá tomar en cuenta los Elementos de Riesgo y sus
+correspondientes Indicadores, utilizando diversas fuentes de información, entre las que
+deberá considerar la información aplicable, dado su Contexto, contenida en la Evaluación
+Nacional de Riesgos y sus actualizaciones, que la Secretaría dé a conocer por conducto de la
+Comisión.
+
+El documento que describa el diseño de la Metodología de Evaluación de Riesgos deberá
+establecer y describir todos los procesos que se llevarán a cabo para la identificación,
+medición y mitigación de los Riesgos en la materia, presentándolos de una manera clara,
+concisa y organizada.
+
+Asimismo, la Metodología de Evaluación de Riesgos debe permitirle al Sujeto Supervisado
+identificar su propio nivel de Riesgo, así como el de todos los Indicadores y Elementos de
+Riesgo definidos, ya que comprender dicho nivel le permitirá aplicar procesos de gestión de
+Riesgos adecuados a su exposición, así como identificar y corregir de manera oportuna las
+deficiencias en sus procedimientos.
+
+El desarrollo de la Metodología de Evaluación de Riesgos comprende tres fases: diseño,
+implementación y valoración, las cuales se describen a continuación.
+             ESQUEMA DE LA METODOLOGÍA DE LA EVALUACIÓN DE RIESGOS
+
+                     CONTEXTO O ENTORNO DEL SUJETO SUPERVISADO
+
+
+
+
+     I. DISEÑO                                                             II. IMPLEMENTACIÓN
+
+
+
+
+                                       III. VALORACIÓN
+
+
+
+I.      Diseño
+
+Es la primera fase del desarrollo de la Metodología de Evaluación de Riesgos y comprende los
+procesos siguientes:
+
+1.      Identificación de los Elementos de Riesgo y sus correspondientes Indicadores
+
+Aunque los actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o
+cooperación de cualquier especie para la comisión de los delitos de LD/FT u otras actividades
+ilícitas a través de un Sujeto Supervisado pueden realizarse de distintas formas, algunos
+productos, servicios, tipo de Clientes y/o Usuarios, países o áreas geográficas, tipos de
+transacciones y canales de envío o distribución vinculados con las operaciones pueden ser
+más vulnerables. De esta manera, el grado de exposición al Riesgo de LD/FT no es el mismo
+para todos los Sujetos Supervisados y por lo tanto los Indicadores también serán distintos de
+uno a otro.
+
+Dentro del proceso de identificación de los Elementos de Riesgo, con sus correspondientes
+Indicadores, deberán ser considerados al menos el total de productos, servicios, tipos de
+Clientes y/o Usuarios, países o áreas geográficas, transacciones y canales de envío o
+distribución con los que opera cada Sujeto Supervisado.
+
+La granularidad dependerá de cada Sujeto Supervisado de acuerdo a sus propias necesidades
+y el Contexto en el que se desenvuelve.
+
+Una vez que los Elementos de Riesgo hayan sido definidos, los Sujetos Supervisados deberán
+identificar para cada uno de estos los Indicadores que brinden un análisis integral del
+Elemento de Riesgo al que pertenecen.
+
+De esta forma, la identificación de los Indicadores es el proceso mediante el cual se
+determinarán ciertos componentes para identificar un mayor o menor índice de Riesgo dado
+el Elemento de Riesgo en cuestión. Los Indicadores podrán ser de carácter cualitativo o
+cuantitativo y deberán reflejar los atributos que en su operación el Sujeto Supervisado
+considere propios de sus Elementos de Riesgo. Asimismo, la identificación y determinación de
+los Indicadores deberá explicarse en el documento que describa el diseño de la Metodología
+de Evaluación de Riesgos.
+
+Es importante destacar que se deberán incluir Indicadores específicos relacionados con el
+Riesgo tanto de Operaciones con Recursos de Procedencia Ilícita como de Financiamiento al
+Terrorismo para cada Elemento de Riesgo definido.
+
+De forma enunciativa, más no limitativa, en la siguiente tabla se muestran algunos
+componentes para la definición de Indicadores para cada uno de los Elementos de Riesgo
+establecidos, como mínimos, en las Disposiciones:
+
+
+  ELEMENTOS DE RIESGO                                   INDICADORES
+
+                                Características propias de cada servicio y producto con los que
+                                opera el Sujeto Supervisado que faciliten la realización de
+                                operaciones de LD/FT, incluyendo, entre otras:
+    Productos y servicios       *Anonimato o falta de identificación del Cliente o Usuario o de
+                                alguna persona involucrada en la operación.
+                                *Productos o servicios de alto nivel de valor.
+                                *Productos o servicios que facilitan la transferencia de valor.
+                                Características propias del tipo de Clientes y/o Usuarios con
+                                los que opera el Sujeto Supervisado que lo haga más
+                                susceptible a estar vinculado con la realización de operaciones
+                                de LD/FT, incluyendo, entre otras:
+Tipo de Clientes y/o Usuarios   *Tipo de persona (física/ moral/ fideicomiso).
+                                *Edad/fecha de constitución.
+                                *Nacionalidad.
+                                *Domicilio.
+                                *Actividad económica/giro mercantil.
+                                Características propias de los países y de las áreas geográficas
+                                nacionales relacionados con las Operaciones del Sujeto
+                                Supervisado, que lo haga más susceptible a estar vinculado
+                                con la realización de operaciones de LD/FT, incluyendo, entre
+                                otras:
+                                Para países:
+                                *Regímenes fiscales preferentes.
+                                *Países con medidas deficientes en materia de LD/FT.
+                                *Países con un alto nivel de corrupción, economía informal,
+ Países y áreas geográficas     delincuencia, etc.
+                                *Países identificados por el Sujeto Supervisado como de
+                                mayor Riesgo.
+                                Para áreas geográficas nacionales:
+                                *Incidencia delictiva.
+                                *Nivel de marginación.
+                                *Lugares de frontera o con puertos de entrada y salida
+                                internacionales.
+                                *Áreas identificadas por el Sujeto Supervisado como de mayor
+                                Riesgo.
+                                Características propias de los canales de envío o distribución,
+                                así como de las transacciones realizadas por los Clientes y/o
+ Transacciones y canales de     Usuarios del Sujeto Supervisado, que lo haga más susceptible
+    envío o distribución        a estar vinculado con la realización de operaciones de LD/FT,
+     vinculados con las         incluyendo, entre otras:
+   Operaciones del Sujeto       Para canales:
+    Supervisado, con sus        *Canales de envío no presenciales (como cajeros, medios
+    Clientes y/o Usuarios       electrónicos, etc.)
+                                *Canales con acceso inmediato a los recursos.
+                                *Canales que permitan operaciones por montos altos.
+      ELEMENTOS DE RIESGO                                 INDICADORES
+
+                                   Para el caso de transacciones, se deberán definir una serie de
+                                   transacciones o escenarios de Riesgo, dado el modelo de
+                                   negocio de cada Sujeto Supervisado, los cuales deberán
+                                   contemplar, entre otros, algunos de los siguientes factores:
+                                   *Frecuencia y monto de las transacciones.
+                                   *Instrumento monetario, moneda o medios de pago de
+                                   Riesgo.
+
+Las fuentes de información internas a considerar deben incluir la totalidad de los productos,
+servicios, tipos de Clientes y/o Usuarios, países o áreas geográficas, transacciones y canales de
+envío o distribución con los que opera el Sujeto Supervisado, y podrán considerar, entre otros,
+el subconjunto de estos relacionados con Operaciones Inusuales.
+
+Dentro del Contexto del Sujeto Supervisado se deberán considerar la información que le
+resulte aplicable de la Evaluación Nacional de Riesgos, y sus actualizaciones, que dé a conocer
+la Secretaría, así como el marco normativo aplicable, que servirá como una fuente de
+información externa para la identificación y determinación de los Indicadores que se
+consideren para los Elementos de Riesgo, los cuales deberán reflejar cómo y en qué medida
+los Riesgos nacionales identificados afectan a cada Sujeto Supervisado dada su operación, lo
+cual deberá quedar documentado.
+
+i.       Productos y servicios
+
+Para la identificación y determinación de los Indicadores relacionados con el presente
+Elemento de Riesgo, los Sujetos Supervisados deberán comprender y evaluar el Riesgo
+específico que implican la totalidad de los productos y servicios con los que operan. Algunos
+productos y servicios ofrecidos pueden generar un mayor Riesgo según las características del
+producto o del servicio específico, tales como el facilitar un mayor grado de anonimato, la falta
+de identificación del Cliente y/o Usuario o de alguna persona involucrada en la operación,
+implicar la manipulación de grandes volúmenes de recursos, facilitar la transferencia de valor
+o el movimiento de recursos entre países, entre otros.
+
+ii.      Clientes y/o Usuarios
+
+Para la identificación y determinación de los Indicadores relacionados con el presente
+Elemento de Riesgo, los Sujetos Supervisados deben determinar las características que hacen
+a los Clientes y/o Usuarios potencialmente riesgosos a realizar o prestar ayuda a la realización
+de operaciones de LD/FT, tales como si se trata de personas físicas, morales o fideicomisos, la
+edad o fecha de constitución, nacionalidad, lugar del domicilio, el carácter de sus actividades
+económicas o giros mercantiles, el motivo de la relación comercial, entre otras, con el objeto
+de comprender y evaluar el Riesgo específico que representan.
+
+Algunos de los tipos de Clientes y/o Usuarios que pudieran representar mayor Riesgo se
+describen a continuación:
+
+a)       Instituciones financieras extranjeras.
+
+b)       Personas Políticamente Expuestas nacionales o extranjeras, los miembros más
+         cercanos de su familia (el cónyuge, la concubina, el concubinario y las personas con las
+         que mantengan parentesco por consanguinidad o afinidad hasta el segundo grado), así
+         como las personas morales con las que mantenga vínculos patrimoniales, debido a que
+         son susceptibles a realizar actos de corrupción.
+
+c)       Negocios que manejan un alto flujo de efectivo, ya que podrían facilitar el ingreso de
+         recursos ilícitos a la economía y al sistema financiero, pues en ocasiones no se cuenta
+         con una prueba de la procedencia de dichos recursos (por ejemplo, restaurantes,
+         tiendas minoristas, licorerías, distribuidores de cigarrillos, operadores de máquinas
+         expendedoras, gasolineras y estacionamientos públicos de vehículos).
+e)     Organizaciones no gubernamentales y empresas de beneficencia no reguladas
+       (nacionales y extranjeras), ya que de manera internacional son reconocidas por ser
+       vulnerables a ser utilizadas o abusadas para la realización de operaciones de
+       Financiamiento al Terrorismo.
+
+f)     Empresas de reciente creación, con accionistas jóvenes de bajo perfil, domicilio o
+       teléfonos en común con otras empresas o clientes, accionistas o apoderados legales en
+       común quienes tienen la posibilidad de determinar las operaciones que realizan en los
+       productos contratados a nombre de la persona moral.
+
+iii.   Países o áreas geográficas
+
+Para la identificación y determinación de los Indicadores relacionados con el presente
+Elemento de Riesgo, los Sujetos Supervisados deben entender y evaluar el Riesgo que implica
+abrir cuentas, celebrar contratos o realizar Operaciones, por ejemplo: i) en ciertas áreas
+geográficas de mayor Riesgo y ii) facilitar Operaciones relacionadas con ellas.
+
+Identificar las áreas geográficas de operación es fundamental para que los Sujetos
+Supervisados den debido cumplimiento al régimen en materia de prevención de LD/FT.
+
+De forma enunciativa, más no limitativa, se mencionan algunos ejemplos de áreas geográficas
+nacionales o extranjeras que pueden generar un mayor Riesgo:
+
+a)     Países que la legislación mexicana considere que aplican regímenes fiscales
+       preferentes.
+
+b)     Países que a juicio de las autoridades mexicanas, organismos internacionales o
+       agrupaciones intergubernamentales en materia de prevención de LD/FT de los que
+       México sea miembro, no cuenten con medidas para prevenir, detectar y combatir
+       dichas operaciones, o bien, cuando la aplicación de dichas medidas sea deficiente.
+       Como, por ejemplo, las resoluciones del Consejo de Seguridad de las Naciones Unidas,
+       las listas de países y jurisdicciones emitidas por el Grupo de Acción Financiera, entre
+       otros.
+
+c)     Otros países identificados por el Sujeto Supervisado como de mayor Riesgo debido a
+       experiencia previa u otros factores (por ejemplo, consideraciones jurídicas o altos
+       niveles de corrupción o delincuencia).
+
+d)     Las áreas geográficas nacionales identificadas por el Sujeto Supervisado como de
+       mayor Riesgo debido a su experiencia previa u otros factores (zonas con altos índices de
+       delincuencia o de marginación, zonas fronterizas, puertos de entrada y salida
+       internacionales, centros financieros importantes, etc.).
+
+Para lo anterior, los Sujetos Supervisados deberán tomar en consideración la “Guía para
+identificación de países de Riesgo e indicadores en materia de financiamiento al terrorismo”,
+elaborada por la Unidad de Inteligencia Financiera de la Secretaría, en la que se pone a
+disposición información trascendente para la identificación de las áreas referidas.
+
+iv.    Transacciones y canales de envío o distribución vinculados con las Operaciones del
+       Sujeto Supervisado, con sus Clientes y/o Usuarios
+
+Para la identificación y determinación de los Indicadores relacionados con el presente
+Elemento de Riesgo, los Sujetos Supervisados deben comprender y evaluar el Riesgo de LD/FT
+específico que implican la totalidad de las transacciones realizadas con sus Clientes y/o
+Usuarios, así como los canales de envío o distribución utilizados en estas. Este Elemento de
+Riesgo podría ser separado en dos (uno para canales de envío o distribución y otro para
+transacciones), si el Sujeto Supervisado así lo determina.
+Algunas transacciones y canales de envío o distribución exponen en mayor medida a los
+Sujetos Supervisados a ser utilizados para la realización de operaciones relacionadas con los
+delitos de LD/FT, según las características de los mismos.
+
+Como ejemplo, para el caso de las transacciones, se pueden definir una serie de transacciones
+o escenarios de Riesgo, dado el modelo de negocio de cada Sujeto Supervisado, los cuales
+podrán contemplar, entre otros factores, el tipo, monto, número, frecuencia, naturaleza,
+instrumento monetario, moneda o medio de pago de las mismas; mientras que para el caso
+de los canales de envío o distribución se debe considerar si son o no presenciales o si se utiliza
+a un intermediario facultado para celebrar operaciones a nombre y por cuenta de los propios
+Sujetos Supervisados (tales como comisionistas o agentes relacionados), la rapidez de acceso
+a los recursos, el volumen de recursos que pueden ser operados, entre otros.
+
+    A continuación, se definen los canales presenciales y no presenciales:
+
+a)       Canales presenciales: aquellos a través de los cuales el Sujeto Supervisado ofrece
+         atención personalizada a Clientes y/o Usuarios (por ejemplo, ventanillas, servicios
+         bancarios como banca privada o apertura de cuentas o realización de Operaciones a
+         través de comisionistas).
+
+b)       Canales no presenciales: aquellos en los cuales el Cliente y/o Usuario no tiene contacto
+         directo con personal del Sujeto Supervisado y se ejecutan electrónicamente (por
+         ejemplo, cajeros automáticos o banca electrónica o móvil).
+
+2.         Medición de los Riesgos
+
+Es el segundo proceso del diseño de la Metodología de Evaluación de Riesgos e implica
+examinar de manera más precisa, así como cuantificar el Riesgo al que está expuesto cada
+Sujeto Supervisado, dada la calificación y ponderación de Riesgo asignada a cada uno de los
+Elementos de Riesgo y sus correspondientes Indicadores definidos durante la etapa de
+Identificación.
+
+Este proceso supone la selección de un método exhaustivo para la medición de los Riesgos de
+manera efectiva, debiendo constar al menos de tres niveles de detalle: Indicadores, Elementos
+de Riesgo y Sujeto Supervisado, por lo que se deberá contar con una cuantificación de los
+Riesgos en los tres niveles mencionados y no solo en uno o algunos de ellos.
+
+El método deberá establecer una relación entre los Indicadores referidos en el apartado 1
+anterior y el Elemento de Riesgo al que pertenecen, a fin de asignar un peso o porcentaje a
+cada uno de ellos de manera consistente en función de su importancia para describir el
+Riesgo asociado a dicho Elemento de Riesgo. A su vez, se deberá asignar un peso a cada uno
+de los Elementos de Riesgo definidos de manera consistente en función de su importancia
+para describir los Riesgos a los que está expuesto cada Sujeto Supervisado. Asimismo, se
+deberá definir la escala o rango que se utilizará para dar una calificación o valoración de
+Riesgo a cada Indicador, Elemento de Riesgo y al propio Sujeto Supervisado. El método
+deberá estar documentado y debe contar con información debidamente sustentada de
+acuerdo con la complejidad y los procesos específicos que contemple.
+
+Es importante destacar que la definición de la escala o rango que se utilizará para dar una
+calificación o valoración de Riesgo a cada Indicador, Elemento de Riesgo y al Riesgo del propio
+Sujeto Supervisado, es un proceso distinto e independiente a la asignación de un peso o
+porcentaje a cada Indicador respecto del Elemento de Riesgo al que pertenece y a cada
+Elemento respecto del Riesgo del Sujeto Supervisado.
+
+Para medir o evaluar el Riesgo del Sujeto Supervisado, se deberá considerar la combinación
+entre la probabilidad de ocurrencia de que se lleve a cabo una operación de LD/FT (mas no la
+frecuencia de eventos), y el posible impacto, el cual deberá ser medido en relación a la
+concentración del negocio1 (y no en términos financieros o de montos de posibles multas).
+
+
+1
+ La concentración del negocio puede medirse con el porcentaje de número de Clientes y/o Usuarios o contratos, el
+porcentaje de número de Operaciones y/o el porcentaje de monto operado.
+Cabe señalar que la probabilidad de ocurrencia de que se lleve a cabo una operación de LD/FT
+deberá ser calculada con la combinación de la escala o rango que se utilizará para dar una
+calificación o valoración de Riesgo y el peso o porcentaje asignado en cada caso.
+
+Lo anterior puede verse ejemplificado en el siguiente diagrama:
+
+              Indicadores                                    Elementos de Riesgo                       Riesgo Sujeto
+                                                                                                       Supervisado
+                           2. Asignar un               3. Definir la escala o      4. Asignar un        5. Definir la escala o
+                               peso o                 rango que se utilizará           peso o          rango que se utilizará
+     1. Definir la                                                                  porcentaje a
+                            porcentaje a            para dar una calificación                        para dar una calificación
+   escala o rango                                                                 cada Elemento
+                          cada Indicador            o valoración de Riesgo a                         o valoración al Riesgo al
+   que se utilizará
+                           en función de            los Elemento de Riesgo,      en función de su       que está expuesto el
+    para dar una
+                          su importancia                  con base en las        importancia para    Sujeto Supervisado, con
+    calificación o
+                          para describir el               calificaciones o          describir los    base en las calificaciones
+    valoración de                                                                Riesgos a los que
+                          Riesgo asociado            valoraciones de Riesgo                          o valoraciones de Riesgo
+   Riesgo a cada                                                                  está expuesto el
+                          al Elemento de              de los Indicadores, los                         de los Elementos y los
+      Indicador
+                           Riesgo al que             pesos asignados a cada            Sujeto        pesos asignados a cada
+                            pertenecen.             uno de ellos y el impacto.     Supervisado.             uno de ellos.
+
+
+
+
+ Ejemplos de escala o          Los pesos en
+ rangos de Riesgo:             general son
+ - Alto, Medio, Bajo           expresados en
+ - Valores del 0 al 100        forma de
+ - 1, 2, 3, 4 y 5              porcentajes:
+                               - Indicador 1: 50%
+                               - Indicador 2: 30%
+                               - Indicador 3: 20%
+
+
+
+El método seleccionado debe ser flexible, de manera que permita realizar ajustes cuando la
+operación del Sujeto Supervisado así lo requiera. El nivel y la complejidad del análisis deberá
+ser proporcional a la naturaleza y alcance de la operación de cada Sujeto Supervisado.
+
+Existen muchos métodos eficaces que pueden ser utilizados para llevar a cabo una medición
+de Riesgos. La elección y adecuación del método exige la participación de la alta dirección o
+gerencia del Sujeto Supervisado, del área de cumplimiento en la materia, es decir, las
+estructuras internas de las unidades de negocio operativas y funcionales y de cualquier otra
+que se considere conveniente con el fin de fomentar un sistema integral de gestión de
+Riesgos al interior del Sujeto Supervisado. Este proceso deberá ser documentado de manera
+exhaustiva, oportuna, clara, concisa y organizada, exponiendo los motivos por los cuales el
+método seleccionado se ajusta a las necesidades del Sujeto Supervisado.
+
+La siguiente gráfica es un ejemplo de una herramienta para la representación de la medición
+o evaluación de los Riesgos; los Sujetos Supervisados deberán documentar el resultado de su
+medición o evaluación y la justificación de su resultado mediante la metodología que se
+hubiera elegido aplicar para este proceso.
+La Evaluación Nacional de Riesgos representa una visión general de los Riesgos a los que está
+expuesto el país en su conjunto. Dado que todos los Sujetos Supervisados se encuentran
+inmersos y se ven afectados por el Contexto nacional, cada Sujeto Supervisado en lo individual
+y atendiendo a su Contexto de negocio, deberá analizar el contenido de la Evaluación
+Nacional de Riesgos y reflejar el resultado de dicho análisis, en lo que corresponda, en la
+valoración del grado de Riesgo de cada uno de los Indicadores señalados en las secciones
+anteriores.
+
+3.       Mitigantes
+
+Es el tercer proceso del diseño de la Metodología de Evaluación de Riesgos y comprende la
+identificación de los Mitigantes implementados por los Sujetos Supervisados, incluyendo los
+recursos de cumplimiento que contribuyen a administrar, controlar y disminuir (no evitar o
+anular), la exposición a los Riesgos.
+
+Este proceso implica que los Sujetos Supervisados deberán tomar en cuenta el 100% de los
+Mitigantes que tengan establecidos al momento del diseño de la Metodología de Evaluación
+de Riesgos, debiendo considerar al menos todas las políticas, criterios, medidas y
+procedimientos internos contenidos en su Manual de Cumplimiento y los contenidos en sus
+demás manuales que contribuyan a mitigar el Riesgo de alguna manera, y definir el efecto
+que cada uno de ellos tendrá en la medición de los Riesgos.
+
+En este sentido, a fin de determinar el efecto que los Mitigantes tendrán sobre la calificación o
+valoración de Riesgos del Sujeto Supervisado, se deberá considerar no solo su existencia en el
+Manual de Cumplimiento o en cualquier otro manual, sino también la efectividad en la
+aplicación de dichos Mitigantes, tomando en cuenta factores como la periodicidad, el nivel de
+automatización, entre otros. El efecto que cada uno de los Mitigantes tendrán sobre la
+calificación o valoración de Riesgos del Sujeto Supervisado deberá ser proporcional, razonable
+y coherente con el perfil de Riesgo del mismo. Además, se deberá definir cuál es el nivel
+adecuado de detalle de la Metodología de Evaluación de Riesgos (Indicador, Elemento de
+Riesgo o Sujeto Supervisado) sobre el cual debe ser aplicado el efecto de cada Mitigante
+considerado.
+
+Esto quiere decir que no todos los Mitigantes deberán de tener el mismo efecto sobre la
+medición del Riesgo y que dicho efecto podrá aplicarse a distintos niveles de detalle de la
+Metodología de Evaluación de Riesgos.
+
+En este sentido, se deberá tomar en cuenta que la correcta aplicación de los Mitigantes
+establecidos podrá disminuir el nivel de Riesgo de cada Indicador, Elemento de Riesgo o
+Sujeto Supervisado; mientras que la falta de aplicación de los mismos o deficiencias en su
+implementación podrá, en algunos casos, aumentar el nivel de Riesgo en cuestión. Esta
+evaluación inicial servirá como referencia de la eficiencia en la implementación de los
+Mitigantes.
+
+De manera enunciativa, mas no limitativa, se señalan algunos de los Mitigantes que los
+Sujetos Supervisados pueden considerar, dependiendo de su estructura y operativa, cuyo
+efecto podrá verse reflejado a nivel Sujeto Supervisado:
+
+     •    Gobierno corporativo. Indica de forma general la cultura de administración a nivel
+          organizacional, la cultura empresarial de un Sujeto Supervisado dependerá en gran
+          medida del tipo y vigor del gobierno corporativo, ya que establecerá la pauta para la
+          realización y administración del Riesgo, a través de sus actividades importantes en sus
+          líneas de negocios y unidades operativas.
+
+          La responsabilidad del cumplimiento comienza desde el nivel jerárquico más alto
+          dentro del Sujeto Supervisado, con lo cual se busca permear a todos los niveles del
+          mismo. Desde ahí se dirigen esfuerzos y recursos humanos y materiales para la
+          identificación y mitigación de los Riesgos a través de una efectiva implementación de
+          controles.
+      •    Auditoría en materia de prevención de LD/FT. Implica una revisión independiente
+           de la adecuada ejecución de las políticas, criterios, medidas y procedimientos
+           establecidos al efecto. La detección oportuna de deficiencias en los controles o la falta
+           de aplicación de los mismos por parte de las estructuras internas o del control interno,
+           permite a los Sujetos Supervisados realizar medidas correctivas para mitigar los
+           Riesgos correspondientes a dichas deficiencias.
+
+           La revisión por parte de un auditor externo, o bien, del área de auditoría interna,
+           brinda una visión global del Sujeto Supervisado para mantener una continuidad en la
+           implementación de mejoras para combatir o reducir las inconsistencias detectadas,
+           dando como resultado una mitigación de Riesgos y deberá existir una constancia
+           documental de dicha revisión.
+
+           En este sentido, además de poder ser un Mitigante en sí mismo, el resultado de dicha
+           auditoría podría ser utilizada como insumo para definir la efectividad de los Mitigantes
+           con los que cuenta el Sujeto Supervisado al momento de realizar la evaluación y así
+           definir adecuadamente el efecto que estos tendrán sobre la medición de los Riesgos.
+
+      •    Estructuras internas. Es uno de los principales Mitigantes del Riesgo en materia de
+           prevención de LD/FT, comprende, en su caso, el establecimiento del Comité y la
+           designación del Oficial de Cumplimiento o Representante, incluyendo la capacitación
+           de estos y el cumplimiento de sus funciones como elementos clave. Su evaluación
+           individual es fundamental para la administración del Riesgo, el control interno y el
+           cumplimiento normativo en la materia, por lo que se requiere diferenciarla de la
+           actividad genérica realizada por el gobierno corporativo.
+
+      •    Capacitación. Los Sujetos Supervisados deberán desarrollar programas de
+           capacitación y difusión, mismos que se impartirán al menos una vez al año, y estarán
+           dirigidos especialmente a los miembros de sus respectivos consejos de
+           administración o administrador único, directivos, funcionarios y empleados,
+           incluyendo aquellos que laboren en áreas de atención al público o de administración
+           de recursos, y que contemplen, entre otros aspectos, los relativos al contenido en su
+           Manual de Cumplimiento, y cualquier criterio, política y procedimiento en materia de
+           prevención de LD/FT, así como sobre las actividades, productos y servicios, que ofrezca
+           el Sujeto Supervisado.
+
+           Los temas de la capacitación deben ser coherentes con los resultados de la
+           implementación de su Metodología de Evaluación de Riesgos, y adecuarse a las
+           responsabilidades de los miembros de sus respectivos consejos de administración o
+           administrador único, directivos, funcionarios y empleados.
+
+           Un programa de capacitación robusto deberá incluir información relacionada con los
+           rubros de la actividad comercial aplicables. Es idóneo que la alta dirección esté
+           informada de los cambios en la normativa aplicable. Si bien la alta dirección puede no
+           requerir el mismo nivel de capacitación que el personal de operaciones del Sujeto
+           Supervisado, es necesario que comprenda la importancia de las exigencias normativas
+           en la materia, las implicaciones del incumplimiento y los Riesgos a los que se enfrenta
+           el Sujeto Supervisado. Sin una comprensión general del tema, la alta dirección no
+           podrá supervisar adecuadamente el cumplimiento en materia de prevención de
+           LD/FT, ni aprobar las políticas, criterios, medidas y los procedimientos, o proporcionar
+           suficientes recursos al área de prevención de LD/FT.
+
+II.       Implementación
+
+Es la segunda fase del desarrollo de la Metodología de Evaluación de Riesgos e implica poner
+en funcionamiento la misma, lo cual dará como resultado conocer el grado de exposición al
+Riesgo que cada Sujeto Supervisado tiene, con base en las calificaciones o valoraciones de
+Riesgo dadas a cada uno de los Elementos de Riesgo e Indicadores definidos, una vez
+considerados los efectos de los Mitigantes existentes, conocido como “riesgo residual”.
+En la implementación de la Metodología de Evaluación de Riesgos, los Sujetos Supervisados
+deberán asegurarse de que no existan inconsistencias entre la información que incorporen a
+esta y la que obre en sus sistemas automatizados y de utilizar, al menos, la información
+correspondiente al total del número de Clientes, número de operaciones y monto operado
+correspondiente a un periodo que no podrá ser menor a doce meses.
+
+Sin importar si el riesgo residual del Sujeto Supervisado se encuentra o no fuera de los niveles
+de tolerancia aceptables definidos por el mismo, cuando se detecte la existencia de mayores o
+nuevos Riesgos, se deberán modificar las políticas, criterios, medidas y procedimientos que
+correspondan, contenidos en el Manual de Cumplimiento, o bien, en algún otro documento o
+manual, a fin de establecer los Mitigantes que considere necesarios en función de los Riesgos
+identificados, así como para mantenerlos en un nivel de tolerancia aceptable de conformidad
+con lo establecido en el Manual de Cumplimiento, lo cual forma parte de la aplicación de
+procesos de gestión de Riesgos adecuados a sus características propias y de la mitigación
+oportuna de las deficiencias en sus procedimientos.
+
+En este sentido, se espera que cada Sujeto Supervisado, con los resultados de la
+implementación de la Metodología para la Evaluación de Riesgos, adapte su Manual de
+Cumplimiento u otros manuales o, en su defecto, que tenga un plan de trabajo para hacerlo, a
+fin de que sus políticas, criterios, medidas y procedimientos sean razonables a fin de gestionar
+y mitigar los Riesgos a los que está expuesto.
+
+Las modificaciones a las políticas, criterios, medidas y procedimientos internos a que se refiere
+el párrafo anterior, derivadas de los resultados de la implementación de la Metodología de
+Evaluación de Riesgos, deberán realizarse en un plazo no mayor a doce meses contados a
+partir de que el Sujeto Supervisado cuente con los resultados de su implementación, y estar
+claramente identificadas y señaladas, indicando al menos el año y mes en que se hubieren
+obtenido los resultados de la implementación de la Metodología de Evaluación de Riesgos
+que hubiera dado lugar a dichas modificaciones.
+
+Una vez concluida la implementación de la Metodología de Evaluación de Riesgos deberá
+verificarse si el resultado obtenido es el adecuado. Esta evaluación final será el inicio de la
+valoración.
+
+III.   Valoración
+
+Es la tercera fase del desarrollo de la Metodología de Evaluación de Riesgos que comprende
+una revisión de la eficiencia y eficacia de la misma y abre la posibilidad de realizar
+actualizaciones o modificaciones en el diseño.
+
+Una Metodología de Evaluación de Riesgos eficaz debe ser un proceso continuo, no un
+ejercicio que deba realizarse una sola vez. El Sujeto Supervisado debe revisar y, en su caso,
+actualizar su Metodología de Evaluación de Riesgos en un plazo no mayor a 12 meses
+contados a partir de que cuente con los resultados de su implementación, cuando se detecte
+la existencia de nuevos Riesgos o cuando se actualice la Evaluación Nacional de Riesgos; lo
+anterior, con el objeto de identificar los cambios en el grado de exposición al Riesgo, según
+sea necesario (por ejemplo, cuando se incorporan nuevos productos, prácticas, tecnologías y
+servicios, se modifican los existentes, los Clientes de mayor Riesgo abren o cierran cuentas o el
+Sujeto Supervisado se expande o se divide a través de fusiones, adquisiciones o escisiones),
+con independencia de la auditoría anual que se realice en términos de las Disposiciones.
+
+El Sujeto Supervisado deberá revisar la presencia y el funcionamiento de los diferentes
+procesos de la administración del Riesgo a lo largo del tiempo, mediante actividades
+permanentes de monitoreo, evaluaciones independientes o una combinación de ambas
+técnicas.
+
+Para el monitoreo se deben tomar en cuenta, entre otros factores:
+
+a)     Realizar un seguimiento que facilite la rápida detección o corrección de las deficiencias
+       en los procesos de la administración del Riesgo.
+b)    Realizar un seguimiento del Riesgo por cada Indicador y del consolidado por Elemento
+      de Riesgo, así como evaluar la efectividad de los criterios, medidas, políticas y
+      procedimientos implementados.
+
+c)    Establecer señales de alerta descriptiva y prospectiva que indiquen potenciales fuentes
+      de Riesgo.
+
+Lo anterior, permitirá a los Sujetos Supervisados desarrollar informes que les permitan
+establecer la evolución del Riesgo y la eficiencia y eficacia de sus criterios, medidas, políticas y
+procedimientos implementados, así como realizar las adecuaciones que resulten necesarias
+en dicha Metodología de Evaluación de Riesgos.
+
+La clasificación que los Sujetos Supervisados realicen de sus Clientes y/o Usuarios por su
+Grado de Riesgo, de conformidad con las Disposiciones, debe ser coherente con los resultados
+de la implementación de la Metodología de Evaluación de Riesgos. Sin embargo, es
+importante resaltar que la Metodología de Evaluación de Riesgos con que cuente cada Sujeto
+Supervisado deberá ser distinta e independiente al modelo o criterios utilizados para clasificar
+a sus Clientes y/o Usuarios por Grado de Riesgo; ya que la primera le servirá para medir el
+Riesgo al que se encuentra expuesto como Sujeto Supervisado y el segundo es utilizado para
+medir el Riesgo específico de cada Cliente o Usuario en lo particular.
+
+D)    METODOLOGÍA DE EVALUACIÓN DE RIESGOS A NIVEL GRUPO FINANCIERO
+
+Los Sujetos Supervisados que formen parte de grupos financieros en términos de la Ley para
+Regular las Agrupaciones Financieras, deberán establecer en el diseño de su Metodología de
+Evaluación de Riesgos cómo se tomarán en cuenta los resultados de la Metodología de
+Evaluación de Riesgos que, en su caso, hayan implementado las demás entidades financieras
+que integren el grupo correspondiente. Adicional a lo anterior, es recomendable que a nivel
+grupo financiero exista una coordinación y estrategia para la mitigación del Riesgo.
+
+La determinación de los Riesgos a nivel grupo financiero puede permitir identificar de manera
+óptima los Riesgos y las exposiciones dentro de los rubros específicos de la actividad
+comercial o categorías de productos, por separado y en conjunto a nivel de grupo.
+
+Los resultados de esta evaluación permiten que la alta dirección o la gerencia del grupo
+financiero comprendan y mitiguen de manera adecuada los Riesgos en toda la organización.
+
+E)    DOCUMENTACIÓN DE LA METODOLOGÍA DE EVALUACIÓN DE RIESGOS
+
+El diseño de la Metodología de Evaluación de Riesgos, así como los procesos para su uso y
+validación, dada la actualización periódica de la misma, podrán estar contenidos en un
+documento diferente al Manual de Cumplimiento.
+
+La documentación del diseño de la Metodología de Evaluación de Riesgos, deberá considerar
+la descripción de todos los procesos que se llevarán a cabo para la identificación, medición y
+mitigación de los Riesgos, incluidos sus detalles operativos. Asimismo, se deberán
+documentar las modificaciones realizadas y las áreas responsables de realizarlas, así como las
+áreas involucradas en su operación, incluidas las estructuras internas y las de control interno.
+
+La documentación deberá contener los elementos suficientes para probar el cumplimiento
+por parte del Sujeto Supervisado de los requisitos mínimos con los que debe contar el diseño
+de la Metodología de Evaluación de Riesgos, en términos de las Disposiciones y de la presente
+Guía. Además, debe proporcionar la claridad y el detalle necesarios para que el personal del
+Sujeto Supervisado o un tercero puedan comprender el proceso y evaluar su idoneidad.
+
+Los Sujetos Supervisados deberán conservar toda la información generada para el diseño,
+implementación y valoración de la Metodología de Evaluación de Riesgos durante un plazo no
+menor a cinco años y proporcionarla a la Secretaría y a la Comisión, a requerimiento de esta
+última, dentro del plazo que la propia Comisión establezca.
+El Oficial de Cumplimiento deberá someter la Metodología de Evaluación de Riesgos a la
+aprobación del Comité, así como los resultados de su implementación. Por su parte, el Comité
+deberá presentar al consejo de administración, directivo, o administrador único del Sujeto
+Supervisado, según corresponda, los resultados de su implementación. Lo anterior, tendrá
+que ocurrir en un periodo menor a 12 meses a partir de la fecha de la última modificación a la
+citada Metodología. Tratándose de Representantes, se ajustarán a lo que establezcan las
+Disposiciones aplicables.
+

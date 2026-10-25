@@ -1,0 +1,7 @@
+client_id,client_name,segment,onboarding_date,history_available_from,typical_amount,max_typical_amount,expected_weekly_frequency,expected_currency,expected_transaction_types,expected_channels,expected_locations,scenario_description
+C001,Cliente Ficticio 001,personas,2024-02-12,2026-07-01,2500.0,7500.0,1.8,MXN,transferencia|pago,movil|web,Ciudad de Mexico,Comportamiento habitual estable
+C002,Cliente Ficticio 002,pyme,2023-08-04,2026-07-01,6000.0,18000.0,2.3,MXN,transferencia|deposito,web|sucursal,Guadalajara,Incremento moderado de montos en octubre
+C003,Cliente Ficticio 003,personas,2024-11-20,2026-07-01,3000.0,9000.0,1.8,MXN,transferencia|pago,movil|web,Ciudad de Mexico,Aumento fuerte de montos y operaciones concentradas fuera del perfil
+C004,Cliente Ficticio 004,personas,2025-01-08,2026-07-01,1200.0,4000.0,1.4,MXN,transferencia|pago,movil,Puebla,Frecuencia atipica y rafaga de operaciones
+C005,Cliente Ficticio 005,pyme,2023-05-15,2026-07-01,8000.0,24000.0,1.5,MXN,transferencia|deposito,web|sucursal,Monterrey,Concentracion por una operacion de monto elevado
+C006,Cliente Ficticio 006,personas,2026-10-15,2026-10-15,2500.0,7500.0,1.5,MXN,transferencia|pago,movil,Merida,Cliente nuevo con historial insuficiente

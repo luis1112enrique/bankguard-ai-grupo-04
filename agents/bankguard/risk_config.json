@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "weights": {
+    "historical_deviation": 0.4,
+    "atypical_frequency": 0.25,
+    "amount_concentration": 0.2,
+    "profile_inconsistency": 0.15
+  },
+  "profile_weights": {
+    "amount": 0.4,
+    "channel": 0.2,
+    "location": 0.2,
+    "transaction_type": 0.1,
+    "currency": 0.1
+  },
+  "medium_threshold": 40,
+  "high_threshold": 70,
+  "history_lookback_days": 92,
+  "minimum_analysis_transactions": 3,
+  "minimum_history_transactions": 8,
+  "minimum_history_days": 30,
+  "concentration_window_days": 3,
+  "outlier_mad_z": 3.5,
+  "burst_minimum_transactions": 4,
+  "burst_rate_multiplier": 3,
+  "maximum_analysis_days": 366,
+  "allowed_currencies": ["MXN", "USD"]
+}

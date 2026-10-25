@@ -1,0 +1,203 @@
+transaction_id,client_id,date,amount,currency,transaction_type,channel,location
+TX-2026-0001,C005,2026-07-01,8559.67,MXN,deposito,web,Monterrey
+TX-2026-0002,C003,2026-07-05,2781.18,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0003,C004,2026-07-06,1191.29,MXN,transferencia,movil,Puebla
+TX-2026-0004,C002,2026-07-07,7763.11,MXN,deposito,web,Guadalajara
+TX-2026-0005,C001,2026-07-08,2650.0,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0006,C003,2026-07-08,3643.36,MXN,pago,web,Ciudad de Mexico
+TX-2026-0007,C004,2026-07-08,1285.81,MXN,transferencia,movil,Puebla
+TX-2026-0008,C005,2026-07-08,11384.98,MXN,transferencia,sucursal,Monterrey
+TX-2026-0009,C002,2026-07-09,6591.25,MXN,transferencia,sucursal,Guadalajara
+TX-2026-0010,C001,2026-07-10,2319.42,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0011,C005,2026-07-10,8363.16,MXN,deposito,web,Monterrey
+TX-2026-0012,C001,2026-07-13,2524.09,MXN,pago,web,Ciudad de Mexico
+TX-2026-0013,C002,2026-07-13,6329.63,MXN,deposito,web,Guadalajara
+TX-2026-0014,C003,2026-07-13,2973.92,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0015,C004,2026-07-13,1500.54,MXN,pago,movil,Puebla
+TX-2026-0016,C003,2026-07-14,4654.33,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0017,C004,2026-07-14,987.92,MXN,pago,movil,Puebla
+TX-2026-0018,C003,2026-07-15,2939.59,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0019,C002,2026-07-17,6630.81,MXN,transferencia,sucursal,Guadalajara
+TX-2026-0020,C003,2026-07-18,2145.83,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0021,C001,2026-07-19,3604.94,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0022,C005,2026-07-19,8180.04,MXN,transferencia,web,Monterrey
+TX-2026-0023,C001,2026-07-20,1999.13,MXN,pago,web,Ciudad de Mexico
+TX-2026-0024,C005,2026-07-20,8266.23,MXN,transferencia,sucursal,Monterrey
+TX-2026-0025,C002,2026-07-21,4501.11,MXN,deposito,sucursal,Guadalajara
+TX-2026-0026,C003,2026-07-22,3152.53,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0027,C004,2026-07-22,1056.49,MXN,pago,movil,Puebla
+TX-2026-0028,C004,2026-07-24,743.37,MXN,transferencia,movil,Puebla
+TX-2026-0029,C002,2026-07-25,6489.84,MXN,deposito,web,Guadalajara
+TX-2026-0030,C003,2026-07-26,3382.46,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0031,C002,2026-07-27,5461.25,MXN,deposito,web,Guadalajara
+TX-2026-0032,C005,2026-07-27,7583.24,MXN,deposito,sucursal,Monterrey
+TX-2026-0033,C002,2026-07-28,7509.81,MXN,deposito,sucursal,Guadalajara
+TX-2026-0034,C003,2026-07-28,2479.44,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0035,C001,2026-07-29,2217.05,MXN,pago,web,Ciudad de Mexico
+TX-2026-0036,C002,2026-07-29,6604.23,MXN,transferencia,web,Guadalajara
+TX-2026-0037,C004,2026-07-29,922.32,MXN,transferencia,movil,Puebla
+TX-2026-0038,C002,2026-07-30,6192.92,MXN,transferencia,sucursal,Guadalajara
+TX-2026-0039,C002,2026-07-31,6115.71,MXN,deposito,web,Guadalajara
+TX-2026-0040,C003,2026-07-31,2750.07,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0041,C001,2026-08-02,2229.73,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0042,C002,2026-08-02,8453.91,MXN,deposito,web,Guadalajara
+TX-2026-0043,C001,2026-08-03,3605.29,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0044,C002,2026-08-03,4088.06,MXN,transferencia,web,Guadalajara
+TX-2026-0045,C003,2026-08-03,3209.24,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0046,C005,2026-08-03,11434.24,MXN,transferencia,sucursal,Monterrey
+TX-2026-0047,C005,2026-08-04,9634.11,MXN,deposito,web,Monterrey
+TX-2026-0048,C001,2026-08-05,2232.12,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0049,C005,2026-08-05,9072.25,MXN,transferencia,web,Monterrey
+TX-2026-0050,C002,2026-08-06,6251.92,MXN,transferencia,sucursal,Guadalajara
+TX-2026-0051,C005,2026-08-06,8783.04,MXN,deposito,web,Monterrey
+TX-2026-0052,C003,2026-08-07,3191.41,MXN,pago,web,Ciudad de Mexico
+TX-2026-0053,C001,2026-08-09,3312.54,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0054,C002,2026-08-10,7346.4,MXN,transferencia,sucursal,Guadalajara
+TX-2026-0055,C003,2026-08-10,4884.63,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0056,C004,2026-08-10,1504.07,MXN,pago,movil,Puebla
+TX-2026-0057,C003,2026-08-11,4685.29,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0058,C003,2026-08-12,2833.12,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0059,C004,2026-08-12,1279.24,MXN,pago,movil,Puebla
+TX-2026-0060,C002,2026-08-13,5677.11,MXN,transferencia,sucursal,Guadalajara
+TX-2026-0061,C004,2026-08-13,1213.78,MXN,pago,movil,Puebla
+TX-2026-0062,C003,2026-08-15,2857.77,MXN,pago,web,Ciudad de Mexico
+TX-2026-0063,C004,2026-08-15,1013.74,MXN,pago,movil,Puebla
+TX-2026-0064,C005,2026-08-15,6529.03,MXN,deposito,web,Monterrey
+TX-2026-0065,C005,2026-08-16,7706.2,MXN,deposito,web,Monterrey
+TX-2026-0066,C005,2026-08-17,8260.81,MXN,deposito,web,Monterrey
+TX-2026-0067,C002,2026-08-18,5787.46,MXN,deposito,web,Guadalajara
+TX-2026-0068,C003,2026-08-18,2222.9,MXN,pago,web,Ciudad de Mexico
+TX-2026-0069,C002,2026-08-19,8290.31,MXN,transferencia,sucursal,Guadalajara
+TX-2026-0070,C003,2026-08-19,3140.88,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0071,C002,2026-08-20,7707.84,MXN,deposito,web,Guadalajara
+TX-2026-0072,C003,2026-08-20,2165.31,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0073,C001,2026-08-22,2088.63,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0074,C001,2026-08-24,5197.54,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0075,C002,2026-08-24,5971.14,MXN,transferencia,web,Guadalajara
+TX-2026-0076,C001,2026-08-25,3107.33,MXN,pago,web,Ciudad de Mexico
+TX-2026-0077,C002,2026-08-25,8503.86,MXN,transferencia,web,Guadalajara
+TX-2026-0078,C003,2026-08-25,3206.78,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0079,C005,2026-08-27,8141.58,MXN,transferencia,web,Monterrey
+TX-2026-0080,C001,2026-08-28,2097.39,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0081,C002,2026-08-28,7363.47,MXN,transferencia,sucursal,Guadalajara
+TX-2026-0082,C005,2026-08-28,7237.53,MXN,deposito,web,Monterrey
+TX-2026-0083,C003,2026-08-29,2984.25,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0084,C001,2026-08-30,2531.59,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0085,C001,2026-09-02,3725.82,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0086,C005,2026-09-02,5546.82,MXN,transferencia,web,Monterrey
+TX-2026-0087,C001,2026-09-03,2896.72,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0088,C002,2026-09-05,4537.97,MXN,deposito,sucursal,Guadalajara
+TX-2026-0089,C005,2026-09-05,9051.43,MXN,transferencia,web,Monterrey
+TX-2026-0090,C004,2026-09-07,1027.63,MXN,pago,movil,Puebla
+TX-2026-0091,C004,2026-09-09,768.18,MXN,pago,movil,Puebla
+TX-2026-0092,C001,2026-09-10,3012.85,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0093,C005,2026-09-10,10726.16,MXN,transferencia,web,Monterrey
+TX-2026-0094,C002,2026-09-12,5425.84,MXN,deposito,sucursal,Guadalajara
+TX-2026-0095,C004,2026-09-12,826.1,MXN,pago,movil,Puebla
+TX-2026-0096,C003,2026-09-13,3167.95,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0097,C002,2026-09-14,7433.17,MXN,transferencia,web,Guadalajara
+TX-2026-0098,C004,2026-09-14,583.05,MXN,transferencia,movil,Puebla
+TX-2026-0099,C001,2026-09-15,2680.51,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0100,C004,2026-09-15,1243.22,MXN,pago,movil,Puebla
+TX-2026-0101,C002,2026-09-17,6008.55,MXN,transferencia,sucursal,Guadalajara
+TX-2026-0102,C005,2026-09-18,4481.0,MXN,transferencia,sucursal,Monterrey
+TX-2026-0103,C001,2026-09-19,2285.42,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0104,C001,2026-09-20,2826.72,MXN,pago,web,Ciudad de Mexico
+TX-2026-0105,C002,2026-09-20,4725.61,MXN,transferencia,web,Guadalajara
+TX-2026-0106,C002,2026-09-22,5963.13,MXN,transferencia,sucursal,Guadalajara
+TX-2026-0107,C005,2026-09-22,7053.1,MXN,transferencia,sucursal,Monterrey
+TX-2026-0108,C002,2026-09-23,5356.48,MXN,transferencia,web,Guadalajara
+TX-2026-0109,C003,2026-09-23,4574.12,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0110,C004,2026-09-23,1420.67,MXN,transferencia,movil,Puebla
+TX-2026-0111,C004,2026-09-24,1396.25,MXN,pago,movil,Puebla
+TX-2026-0112,C001,2026-09-25,2207.33,MXN,pago,web,Ciudad de Mexico
+TX-2026-0113,C001,2026-09-27,1794.71,MXN,pago,web,Ciudad de Mexico
+TX-2026-0114,C001,2026-09-28,2116.08,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0115,C002,2026-09-28,4347.74,MXN,transferencia,web,Guadalajara
+TX-2026-0116,C003,2026-09-30,2967.41,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0117,C001,2026-10-01,2426.93,MXN,pago,web,Ciudad de Mexico
+TX-2026-0118,C002,2026-10-01,18449.66,MXN,deposito,sucursal,Guadalajara
+TX-2026-0119,C003,2026-10-01,2327.12,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0120,C004,2026-10-01,1300.63,MXN,transferencia,movil,Puebla
+TX-2026-0121,C003,2026-10-02,2716.19,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0122,C004,2026-10-02,1984.44,MXN,pago,movil,Puebla
+TX-2026-0123,C004,2026-10-04,1344.66,MXN,pago,movil,Puebla
+TX-2026-0124,C005,2026-10-04,7954.95,MXN,deposito,web,Monterrey
+TX-2026-0125,C002,2026-10-05,11986.33,MXN,transferencia,sucursal,Guadalajara
+TX-2026-0126,C003,2026-10-05,3730.69,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0127,C003,2026-10-07,3476.71,MXN,pago,web,Ciudad de Mexico
+TX-2026-0128,C003,2026-10-08,3280.78,MXN,pago,web,Ciudad de Mexico
+TX-2026-0129,C004,2026-10-08,1642.67,MXN,pago,movil,Puebla
+TX-2026-0130,C003,2026-10-09,2182.06,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0131,C004,2026-10-09,1251.15,MXN,transferencia,movil,Puebla
+TX-2026-0132,C002,2026-10-10,14105.86,MXN,deposito,web,Guadalajara
+TX-2026-0133,C002,2026-10-11,11524.47,MXN,deposito,web,Guadalajara
+TX-2026-0134,C003,2026-10-11,2531.76,MXN,pago,web,Ciudad de Mexico
+TX-2026-0135,C004,2026-10-11,1061.56,MXN,pago,movil,Puebla
+TX-2026-0136,C003,2026-10-12,2936.02,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0137,C004,2026-10-12,851.62,MXN,transferencia,movil,Puebla
+TX-2026-0138,C004,2026-10-12,954.48,MXN,pago,movil,Puebla
+TX-2026-0139,C004,2026-10-12,1094.59,MXN,transferencia,movil,Puebla
+TX-2026-0140,C004,2026-10-12,1551.36,MXN,pago,movil,Puebla
+TX-2026-0141,C005,2026-10-12,9292.67,MXN,deposito,web,Monterrey
+TX-2026-0142,C002,2026-10-13,19542.4,MXN,deposito,web,Guadalajara
+TX-2026-0143,C004,2026-10-13,962.13,MXN,transferencia,movil,Puebla
+TX-2026-0144,C004,2026-10-13,992.99,MXN,transferencia,movil,Puebla
+TX-2026-0145,C004,2026-10-13,1164.8,MXN,pago,movil,Puebla
+TX-2026-0146,C004,2026-10-13,1510.5,MXN,transferencia,movil,Puebla
+TX-2026-0147,C005,2026-10-13,8878.8,MXN,transferencia,sucursal,Monterrey
+TX-2026-0148,C001,2026-10-14,2782.38,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0149,C002,2026-10-14,7841.89,MXN,transferencia,web,Guadalajara
+TX-2026-0150,C004,2026-10-14,846.04,MXN,transferencia,movil,Puebla
+TX-2026-0151,C004,2026-10-14,897.74,MXN,pago,movil,Puebla
+TX-2026-0152,C004,2026-10-14,902.97,MXN,transferencia,movil,Puebla
+TX-2026-0153,C004,2026-10-14,1130.3,MXN,transferencia,movil,Puebla
+TX-2026-0154,C004,2026-10-14,1545.07,MXN,transferencia,movil,Puebla
+TX-2026-0155,C001,2026-10-15,2706.74,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0156,C003,2026-10-15,3160.39,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0157,C004,2026-10-15,805.14,MXN,transferencia,movil,Puebla
+TX-2026-0158,C001,2026-10-16,2061.25,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0159,C003,2026-10-16,2058.92,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0160,C002,2026-10-17,12040.61,MXN,deposito,web,Guadalajara
+TX-2026-0161,C005,2026-10-17,6279.93,MXN,deposito,sucursal,Monterrey
+TX-2026-0162,C005,2026-10-18,120000.0,MXN,transferencia,web,Monterrey
+TX-2026-0163,C002,2026-10-19,12571.62,MXN,deposito,web,Guadalajara
+TX-2026-0164,C003,2026-10-19,3004.35,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0165,C004,2026-10-19,1335.84,MXN,transferencia,movil,Puebla
+TX-2026-0166,C001,2026-10-20,2290.42,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0167,C003,2026-10-20,2980.94,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0168,C003,2026-10-20,23759.4,MXN,deposito_efectivo,sucursal,Monterrey
+TX-2026-0169,C003,2026-10-20,24876.39,MXN,deposito_efectivo,sucursal,Monterrey
+TX-2026-0170,C003,2026-10-20,40100.19,MXN,deposito_efectivo,sucursal,Tijuana
+TX-2026-0171,C003,2026-10-20,41354.45,MXN,deposito_efectivo,sucursal,Tijuana
+TX-2026-0172,C004,2026-10-20,1478.25,MXN,pago,movil,Puebla
+TX-2026-0173,C005,2026-10-20,5981.15,MXN,deposito,web,Monterrey
+TX-2026-0174,C001,2026-10-21,1961.26,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0175,C002,2026-10-21,8309.89,MXN,transferencia,web,Guadalajara
+TX-2026-0176,C003,2026-10-21,19309.35,MXN,deposito_efectivo,sucursal,Tijuana
+TX-2026-0177,C003,2026-10-21,19964.13,MXN,deposito_efectivo,sucursal,Monterrey
+TX-2026-0178,C003,2026-10-21,21139.7,MXN,deposito_efectivo,sucursal,Tijuana
+TX-2026-0179,C003,2026-10-21,24687.72,MXN,deposito_efectivo,sucursal,Monterrey
+TX-2026-0180,C004,2026-10-21,1434.51,MXN,pago,movil,Puebla
+TX-2026-0181,C005,2026-10-21,8361.4,MXN,transferencia,web,Monterrey
+TX-2026-0182,C006,2026-10-21,2710.66,MXN,pago,movil,Merida
+TX-2026-0183,C001,2026-10-22,2888.92,MXN,transferencia,movil,Ciudad de Mexico
+TX-2026-0184,C003,2026-10-22,20760.39,MXN,deposito_efectivo,sucursal,Tijuana
+TX-2026-0185,C003,2026-10-22,28246.08,MXN,deposito_efectivo,sucursal,Tijuana
+TX-2026-0186,C003,2026-10-22,28447.95,MXN,deposito_efectivo,sucursal,Monterrey
+TX-2026-0187,C003,2026-10-22,35734.77,MXN,deposito_efectivo,sucursal,Monterrey
+TX-2026-0188,C006,2026-10-22,2044.63,MXN,pago,movil,Merida
+TX-2026-0189,C002,2026-10-23,10567.31,MXN,transferencia,sucursal,Guadalajara
+TX-2026-0190,C004,2026-10-23,1529.54,MXN,transferencia,movil,Puebla
+TX-2026-0191,C006,2026-10-24,2481.7,MXN,transferencia,movil,Merida
+TX-2026-0192,C003,2026-10-26,2269.33,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0193,C005,2026-10-26,8781.71,MXN,deposito,sucursal,Monterrey
+TX-2026-0194,C001,2026-10-27,2495.08,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0195,C004,2026-10-27,1251.29,MXN,transferencia,movil,Puebla
+TX-2026-0196,C004,2026-10-28,1358.13,MXN,pago,movil,Puebla
+TX-2026-0197,C005,2026-10-28,8994.23,MXN,transferencia,web,Monterrey
+TX-2026-0198,C003,2026-10-29,2748.98,MXN,pago,movil,Ciudad de Mexico
+TX-2026-0199,C005,2026-10-29,10844.74,MXN,transferencia,sucursal,Monterrey
+TX-2026-0200,C006,2026-10-29,3595.03,MXN,transferencia,movil,Merida
+TX-2026-0201,C003,2026-10-30,3370.44,MXN,transferencia,web,Ciudad de Mexico
+TX-2026-0202,C003,2026-10-31,3111.44,MXN,pago,web,Ciudad de Mexico

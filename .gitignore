@@ -9,6 +9,14 @@ wheels/
 # Virtual environments
 .venv
 .env
+.env.*
+!.env.example
 .python-version
 tools.py
 tools.py
+
+# Local demo/runtime artifacts
+outputs/
+.pytest_cache/
+.DS_Store
+.history/

@@ -1,0 +1,2777 @@
+================ PÁGINA 1 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN RIESGO PARA EL SECTOR BANCARIO
+
+
+
+
+   GUÍA PARA UN ENFOQUE BASADO EN
+               RIESGO
+
+
+
+    EL SECTOR BANCARIO
+
+
+
+
+Octubre, 2014
+Octubre 2014
+
+                                                            1
+
+================ PÁGINA 2 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+
+
+
+GRUPO DE ACCIÓN FINANCIERA INTERNACIONAL
+
+
+
+El Grupo de Acción Financiera Internacional (GAFI) es un organismo intergubernamental independiente
+
+que desarrolla y promueve políticas para proteger el sistema financiero mundial contra el lavado de
+
+activos, el financiamiento del terrorismo y el financiamiento de la proliferación de armas de destrucción
+
+masiva. Las Recomendaciones del GAFI son reconocidas por ser una guía a nivel mundial contra el lavado
+
+de activos (ALA) y el estándar internacional sobre la lucha contra el financiamiento del terrorismo (CFT).
+
+                     Para obtener más información acerca del GAFI, visite el sitio web:
+
+
+
+
+                                            www.faft-gafi.org
+
+
+
+
+                                © 2014 GAFI/OCDE. Derechos reservados
+   Queda prohibida la reproducción o traducción de esta publicación sin permiso previo por escrito.
+        Para obtener la autorización para la totalidad o parte de esta publicación, diríjase a la
+        Secretaría del GAFI, 2 rue André Pascal 75775 Paris Cedex 16, Francia (fax: +33 1 44 30 61
+        37 o al correo electrónico: contact@fatf-gafi.org).
+
+================ PÁGINA 3 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+
+
+
+                                                   ÍNDICE
+
+
+
+TABLA DE SIGLAS ................................................................................................................................. 4
+INTRODUCCIÓN................................................................................................................................... 5
+   A.       ANTECEDENTES Y CONTEXTO .................................................................................................. 5
+   B.       PROPÓSITO DE ESTA GUÍA ....................................................................................................... 6
+   C.       PÚBLICO A QUIEN VA DIRIGIDO, ESTATUS Y CONTENIDO DE LA GUÍA......................................... 6
+SECCIÓN I – EL ENFOQUE BASADO EN RIESGO DEL GAFI PARA EFECTOS DE ALA/CFT ............................ 8
+   A.       ¿QUÉ ES EL ENFOQUE BASADO EN RIESGO? ............................................................................. 8
+   B.       LA RAZÓN DE SER DE UN NUEVO ENFOQUE.............................................................................. 8
+   C.       APLICACIÓN DEL ENFOQUE BASADO EN RIESGO ....................................................................... 9
+   D.       RETOS………………………………………………………………………………………………………………………………………...10
+SECCIÓN II - GUÍA PARA SUPERVISORES ............................................................................................. 14
+   A.       EL ENFOQUE BASADO EN RIESGO EN MATERIA DE SUPERVISIÓN ............................................. 14
+   B.       SUPERVISIÓN DEL ENFOQUE BASADO EN RIESGO ................................................................... 17
+SECCIÓN III - GUÍA PARA BANCOS ...................................................................................................... 20
+   A.       EVALUACIÓN DE RIESGOS...................................................................................................... 20
+   B.       MITIGACIÓN DE RIESGOS ...................................................................................................... 22
+   C.       CONTROLES INTERNOS, GOBIERNO CORPORATIVO Y MONITOREO .......................................... 25
+ANEXO 1 - EJEMPLOS DE PRÁCTICAS DE SUPERVISIÓN DE LOS PAÍSES PARA LA APLICACIÓN DEL
+DEL ENFOQUE BASADO EN RIESGO PARA EL SECTOR BANCARIO ......................................................... 30
+ANEXO 2 - PRINCIPIOS BÁSICOS DE BASILEA DESIGNADOS POR EL GAFI COMO RELEVANTES PARA LA
+SUPERVISIÓN ALA/CFT (R. 26)…………………………………………………………………………………..…………………………..…..49
+BIBLIOGRAFÍA ................................................................................................................................... 51
+
+================ PÁGINA 4 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN RIESGO PARA EL SECTOR BANCARIO
+
+
+
+
+                             TABLA DE SIGLAS
+
+ALA/CFT          Anti-Lavado de Activos/Contra el Financiamiento del Terrorismo
+CSBB             Comité de Supervisión Bancaria de Basilea
+PBB              Principios Básicos de Basilea
+DDC              Debida Diligencia respecto del Cliente
+APNFD            Actividades y Profesiones no Financieras Designadas
+UIF              Unidad de Inteligencia Financiera
+NI []            Nota Interpretativa de la Recomendación []
+LA               Lavado de Activos
+PEP              Personas Expuestas Políticamente
+EBR              Enfoque Basado en Riesgo
+R. []            Recomendación []
+FT               Financiamiento del Terrorismo
+
+
+
+
+                                                                                  4
+
+================ PÁGINA 5 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN RIESGO PARA EL SECTOR BANCARIO
+
+
+GUÍA DEL ENFOQUE BASADO EN RIESGO PARA EL SECTOR BANCARIO
+
+Este documento debe consultarse junto con:
+     
+           las Recomendaciones del GAFI (Grupo de Acción Financiera Internacional), en
+           particular las Recomendaciones
+                                         1 y 26(R 1, R. 26) y sus Notas Interpretativas (NI), así
+          como el Glosario.
+     
+           otros documentos relevantes del GAFI, como la Guía del GAFI sobre la Evaluación
+           Nacional del Riesgo de Lavado de Activos y Financiamiento del Terrorismo, la Guía del
+           GAFI sobre Personas  Expuestas Políticamente, o la Guía del GAFI sobre ALA/CFT y la
+           Inclusión Financiera.
+
+
+
+INTRODUCCIÓN
+
+A.       ANTECEDENTES Y CONTEXTO
+1.       El enfoque basado en riesgo (EBR) es una parte fundamental para la aplicación efectiva de
+         los Estándares Internacionales Revisados del GAFI sobre la Lucha contra el Lavado de Activos
+         y el Financiamiento del Terrorismo y la Proliferación, que fueron adoptados en 20121. El
+         GAFI ha realizado una revisión de su guía sobre el enfoque basado en riesgo para el sector
+         financiero con objeto de que éste guarde relación con los nuevos requerimientos del GAFI2
+         y refleje la experiencia que las autoridades públicas y el sector privado adquirieron durante
+         la aplicación del enfoque basado en riesgo a lo largo de los años. La versión revisada se
+         centra en el sector bancario3, y en una guía por separado se desarrollarán estándares para
+         el sector de valores. El GAFI también analizará sus otros documentos guía basados en las
+         Recomendaciones de 20034.
+2.       Un grupo de miembros del GAFI codirigido por el Reino Unido y México5 se encargó de
+
+
+1
+    GAFI (2012)
+2
+ Las normas del GAFI se componen de las Recomendaciones del GAFI, sus Notas Interpretativas y las
+definiciones aplicables del Glosario.
+3
+  Las actividades bancarias son las actividades u operaciones que se describen en el Glosario de GAFI en
+"Instituciones Financieras", en particular, 1., 2. y 5. La presente Guía está dirigida a las instituciones que
+prestan estos servicios.
+4
+ Entre junio de 2007 y octubre de 2009, el GAFI adoptó una serie de documentos en forma de Guía sobre la
+aplicación del Enfoque basado en el Riesgo para los diferentes sectores comerciales: el sector financiero, los
+agentes de bienes raíces, contadores, servicios fiduciarios y proveedores de servicios (TCSP), comerciantes
+de metales y piedras preciosas, casinos, licenciados en derecho, negocios de servicios monetarios (MSB) y el
+sector de seguros de vida (www.faft-gafi.org/documents/riskbasedapproach /).
+5
+ El grupo de Proyecto del GAFI estaba compuesto por representantes de miembros de (Argentina; Australia;
+Austria; Bélgica; Brasil; China; India; Italia: Japón; México; España; Suiza; Países Bajos; Reino Unido; Estados
+Unidos), Miembros asociados (Grupo de Asia/ Pacifico sobre el Lavado Dinero (APG) – a través de
+Bangladesh y Tailandia y MONEYVAL – a través de Polonia) y Observadores (Comité de Supervisión
+Bancaria de Basilea(CBSB), Organización para la Seguridad y la Cooperación en Europa (OSCE),
+Organización Internacional de Comisiones de Valores (IOSCO), Asociación Internacional de Supervisores de
+Aseguradoras (IAIS), Grupo de Supervisores de Centros de Finanzas Internacionales (GIFCS), el Fondo
+Monetario Internacional (FMI) y el Banco Mundial).
+
+                                                                                                              5
+
+================ PÁGINA 6 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN RIESGO PARA EL SECTOR BANCARIO
+
+       elaborar la guía de EBR para el sector bancario. Representantes del sector privado
+       estuvieron involucrados en los trabajos6 y fueron consultados en el borrador revisado del
+       documento7.
+
+3. El GAFI adoptó esta Guía del Enfoque Basado en Riesgo para el sector bancario en su Sesión
+Plenaria de octubre de 2014.
+
+B.     PROPÓSITO DE LA GUÍA
+4.     El propósito de la Guía es:
+                       
+                           Preparar los principios que deben ponerse
+                                                                    en práctica en la aplicación de
+                          un enfoque basado en riesgo de ALA/CFT;
+                       
+                           Colaborar con los países, las autoridades competentes y los bancos para
+                           el diseño y puesta en práctica de un enfoque basado en riesgo de
+                           ALA/CFT  al compartir ejemplos y directrices generales de las prácticas
+                          actuales;
+                       
+                           Contribuir para una supervisión y puesta en marcha efectiva de las
+                           medidas nacionales de ALA/CFT,
+                                                          centrándose en los riesgos y en las
+                          medidas de mitigación; y
+                       
+                           Sobre todo, fomentar el desarrollo de un entendimiento común en cuanto
+                           a lo que es el enfoque basado en riesgo de ALAL/CFT y lo que implica.
+
+C.     PÚBLICO A QUIEN VA DIRIGIDO, ESTATUS Y CONTENIDO DE LA GUÍA
+
+5.    La Guía está dirigida a los países y a sus autoridades competentes, incluyendo a los
+supervisores bancarios. También está dirigida a los profesionales del sector bancario.
+
+6.     Consta de tres secciones. La Sección I establece los elementos clave del enfoque basado en
+el riesgo y debe consultarse de forma conjunta junto con las Secciones II y III, que ofrecen una guía
+específica a los supervisores bancarios sobre una implementación efectiva de un EBR (Sección II)
+y a los bancos (Sección III).
+
+
+
+
+7.    La Guía tiene presente el hecho de que un EBR efecto toma como punto de partida el
+enfoque legal y normativo del país, así como su naturaleza, diversidad y madurez de su sector
+
+6
+ Amex, la Asociación de Instituciones Financieras para el Desarrollo de Asia y el Pacífico (ADFIAP), la
+Asociación Europea de Banca Cooperativa (EACB), la Asociación Europea de Bancos Públicos (EAPB), la
+Federación Bancaria Europea (EBF), el Comité de la Industria Bancaria Europea (EBIC), la Federación
+Latinoamericana de Bancos (FELABAN), la Federación Internacional de Bancos (IBFed), SWIFT (la Sociedad
+para las Comunicaciones Interbancarias y Financieras Mundiales) , la Asociación Bancaria de Sudáfrica, el
+Grupo Wolfsberg, la Unión de Bancos Árabes (UAB), El Consejo Mundial de Cooperativas de Ahorro y Crédito
+(WOCCU) y el Instituto Mundial de Cajas de Ahorro/Grupo Europeo de Cajas de Ahorro (WSBI/ESBG),
+designaron representantes al Grupo de Proyecto.
+7
+ Se recibieron comentarios de la Asociación Bancaria de Sudáfrica, EBF, EBIC, EAPB, EACB, FELABAN,
+WOCCU, WSBI/ESBG, así como del Consejo Internacional de la Asociación de Valores, la Asociación
+Internacional de Redes de Transferencia de Dinero, el Consorcio Internacional de Asociaciones de Bienes
+Raíces, y la Asociación Rusa de Dinero Electrónico.
+
+
+
+                                                                                                       6
+
+================ PÁGINA 7 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN RIESGO PARA EL SECTOR BANCARIO
+bancario y su perfil de riesgo. Establece los parámetros que los países deben considerar en el
+diseño y aplicación del EBR; pero no anula el campo de acción de las autoridades competentes. Las
+autoridades nacionales deberán, al considerar las normas generales esbozadas en la Guía, tomar
+en cuenta su contexto nacional, incluyendo el enfoque de supervisión y el marco legal.
+
+8. Este documento guía no tiene efecto jurídico vinculante. Se basa en las experiencias de países y
+del sector privado y puede ser de ayuda para que las autoridades competentes e instituciones
+financieras apliquen de forma efectiva algunas de las Recomendaciones.
+
+
+
+
+                                                                                                 7
+
+================ PÁGINA 8 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN RIESGO PARA EL SECTOR BANCARIO
+
+
+SECCIÓN I – EL ENFOQUE BASADO EN RIESGO DEL GAFI PARA EFECTOS
+DE ALA/CFT
+
+A.          ¿QUÉ ES EL EBR?
+
+9.     El EBR de ALA/CFT significa que los países, autoridades competentes e instituciones
+financieras8, deben identificar, evaluar y entender los riesgos en LA/FT a los que están expuestos y
+adoptar las medidas adecuadas para mitigar de manera efectiva dichos riesgos.
+
+10. Al evaluar estos riesgos9, los países, autoridades competentes e instituciones financieras,
+deben analizar y tratar de entender la forma en que los riesgos identificados los afectan; de esta
+manera, la evaluación del riesgo proporciona una base para la aplicación sensible de medidas contra
+ALA/CFT.10 El EBR no es un enfoque infalible; habrá ocasiones en las que una institución haya
+tomado todas las medidas razonables para identificar y mitigar los riesgos de ALA/CFT e incluso así,
+se le siga utilizando para los fines de LA/FT.
+
+11. Un enfoque basado en riesgo no exime a países, autoridades competentes e instituciones
+financieras de mitigar los riesgos de LA/FT si estos riesgos han sido evaluados como bajos11.
+
+
+B.          LA RAZÓN DE SER DE UN NUEVO ENFOQUE
+
+12. En 2012, el GAFI actualizó sus Recomendaciones con objeto de fortalecer las salvaguardas
+globales y proteger más la integridad del sistema financiero al proporcionar a los gobiernos
+herramientas más sólidas para poder tomar medidas contra los delitos financieros.
+
+13. Uno de los cambios más importantes fue un mayor énfasis en el EBR de ALA/CFT, en especial
+en lo que concierne a medidas preventivas y de supervisión. Mientras que las Recomendaciones de
+2003 sugerían la aplicación de EBR en algunas áreas, las Recomendaciones de 2012 consideran que
+el EBR es un “fundamento esencial” del marco jurídico de ALA/CFT de un país12. Este es un requisito
+primordial que debe aplicarse a todas las Recomendaciones importantes del GAFI.
+
+14. De acuerdo con la Introducción de las 40 Recomendaciones, el EBR “permite que los países,
+adopten medidas más flexibles para orientar los recursos de manera más efectiva y aplicar medidas
+preventivas acordes con la naturaleza de los riesgos, para focalizar sus esfuerzos de manera más
+efectiva".
+
+
+8
+ Incluyendo personas tanto físicas como naturales, ver definición de “Instituciones financieras” en el Glosario
+GAFI.
+9
+    GAFI (2013a), par. 10.
+10
+ GAFI (2013a), par. 10. Ver además Sección I D para más detalles sobre identificación y evaluación de riesgo
+LA/FT.
+11
+  Cuando los riesgos LA/FT han sido evaluados como bajos, la Nota Interpretaiva de la Recomendación 1
+permite que los países no apliquen algunas de las Recomendaciones del GAFI, mientras que la Nota
+Interpretativa de la Recomendación 10 permite la aplicación de medidas de debida diligencia simplificada
+para tomar en cuenta la naturaleza de un riesgo inferior – véase Nota Interpretativa de la Recomendación 1
+Apartados 6, 11 y 12 y La Nota Interpretaiva de la Recomendación 10, Apartados 16 y 21.
+12
+     R. 1
+                                                                                                               8
+
+================ PÁGINA 9 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN RIESGO PARA EL SECTOR BANCARIO
+
+15. La aplicación de EBR no es entonces opcional, sino s un pre-requisito para lograr la aplicación
+efectiva de los Estándares del GAFI13.
+
+
+C.        APLICACIÓN DEL ENFOQUE BASADO EN EL RIESGO
+
+16.       La Recomendación 1 establece el alcance de la aplicación de EBR. Se aplica con respecto a:
+                      
+                         Quién y qué debe estar sujeto al régimen de ALA/CFT de un país: Además
+                         de los sectores y actividades ya incluidas en el alcance de las
+                         Recomendaciones del GAFI14, los países deberían incluir en su régimen a
+                         otras instituciones, sectores o actividades, si se sospecha que éstos
+                         representan un mayor riesgo de LA/FT. Los países también podrían
+                         considerar exentar a algunas instituciones, sectores o actividades de
+                         algunas de sus obligaciones en ALA/CFT si se cumplieran ciertas
+                         condiciones, como la realización de una evaluación de riesgos de LA/FT
+                         que concluyera
+                                      que los riesgos asociados con esos sectores o actividades
+
+                        son bajos .
+                                  15
+
+                            
+                                La manera en que deben vigilarse las personas o instituciones sujetas al
+                                régimen de ALA/CFT para que cumplan con el régimen: Los supervisores
+                                de ALA/CFT deben tomar en cuenta la evaluación de riesgo y mitigación
+                                del banco y reconocer el grado de discreción permitido por el EBR
+                                nacional, mientras que la Nota Interpretativa de la Recomendación 26
+                                requiere que los propios supervisores
+                                                                     adopten un EBR en cuanto a la
+                                supervisión de ALA/CFT; y
+                            
+                                La forma de cumplir de aquellos sujetos al régimen de ALA/CFT: cuando el
+                                riesgo de LA/FT asociado con una situación es mayor, las autoridades
+                                competentes así como los bancos deben reforzar las medidas
+                                implementadas para mitigar este mayor riesgo. Esto implica que el alcance,
+                                grado, frecuencia o intensidad de los controles puestos en práctica deben
+                                reforzarse. Por el contrario, cuando el riesgo de LA/FT es menor, las
+                                medidas pueden reducirse, lo cual quiere decir que las medidas se
+                                aplicarán, pero el grado de aplicación, frecuencia o intensidad de los
+                                                                              
+                                controles llevados a cabo pueden ser menor16.
+
+
+
+
+13
+  La eficacia de las medidas de prevención y mitigación de riesgos será evaluada como parte de la evaluación
+mutua del regimen nacional en materia de ALA/CFT. La evaluación de eficacia medirá el grado en que un país
+logra un conjunto de resultados que son fundamentales para un sistema sólido de ALA/CFT y analizará hasta
+qué punto éste está logrando los resultados esperados en el marco legal e institucional del país. Los
+evaluadores deberán tomar en cuenta los riesgos y la flexibilidad que ofrece el EBR cuando se trata de
+determinar si existen deficiencias en las medidas de ALA/CFT del país, así como su importancia – GAFI
+(2013b).
+14
+  Véase definiciones de “Instituciones Financieras” y “Actividades y Profesiones no Financieras Designadas”
+en el glosario de GAFI (2012).
+15
+     NI 1, párrafo 6.
+16
+     R. 10; NI 10, pie de página 33.
+                                                                                                              9
+
+================ PÁGINA 10 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN RIESGO PARA EL SECTOR BANCARIO
+
+
+D.          RETOS
+17.         Poner en práctica el EBR puede plantear una serie de desafíos:
+
+
+ASIGNACIÓN DE RESPONSABILIDADES EN UN EBR
+
+18. Un régimen eficaz basado en el riesgo toma como punto de partida el enfoque legal y
+normativo del país, así como su naturaleza, diversidad y madurez de su sector financiero, y su perfil
+de riesgo. La evaluación e identificación de los bancos en cuanto a su propio riesgo en LA/FT debe
+tomar en cuenta las evaluaciones de riesgo nacionales de conformidad con la Recomendación 1, y
+considerar el marco legal y normativo nacional, incluyendo las áreas normativas de riesgos
+importantes y las medidas de mitigación establecidas a nivel legal o normativo. Cuando los riesgos
+de LA/FT son mayores, los bancos siempre deberán aplicar la debida diligencia reforzada, incluso
+cuando las leyes o normas nacionales no indiquen de forma clara cómo mitigar estos riesgos
+mayores (ej.; mediante la variación del grado continuo de monitoreo reforzado)17
+
+19. Es posible que a los bancos se les otorgue cierta flexibilidad para decidir cuál es la manera
+más eficaz de abordar otros riesgos, incluyendo los que ya han sido identificados en la evaluación
+nacional de riesgo o por ellos mismos. La estrategia de los bancos dirigida a mitigar los riesgos debe
+tomar en cuenta los marcos legales, normativos y de supervisión nacionales correspondientes y
+aplicables. Al momento de decidir la libertad que tendrán los bancos para decidir formas de
+mitigación de riesgo, los países deben tomar en cuenta, entre otras cosas, la capacidad que tiene su
+sector bancario para identificar y gestionar de forma eficaz los riesgos de LA/FT, así como los
+conocimientos y recursos de sus evaluadores, que deberán ser los necesarios para supervisar de
+forma adecuada la forma en que los bancos enfrentan los riesgos de LA/FT y tomar medidas en caso
+de incumplimiento por parte de los bancos. Los países también deben tomar en cuenta la evidencia
+con que cuentan las autoridades competentes en cuanto al nivel de cumplimiento del sector
+bancario y el enfoque del sector para hacer frente al riesgo de LA/FT. Los países cuyos sectores de
+servicios financieros apenas están surgiendo o cuyo marco legal, normativo y de supervisión aún
+están en desarrollo, pueden determinar que los bancos no cuentan con las herramientas que se
+requieren para identificar y manejar el riesgo de LA/FT de forma eficaz y que por tanto, la
+flexibilidad que se les ha otorgado de acuerdo al enfoque basado en el riesgo, debe limitarse. En
+tales casos, una aplicación más normativa de los requisitos ALA/CFT podría ser apropiada hasta
+fortalecer la comprensión y experiencia del sector18.
+
+20. Las instituciones no deben quedar exentas de la supervisión en materia de ALA/CFT, incluso
+cuando su capacidad y observancia es buena. Sin embargo, el EBR podría dar lugar a que las
+autoridades competentes asignen más recursos de supervisión a instituciones de mayor riesgo.
+
+
+
+IDENTIFICACIÓN DEL RIESGO DE LA/FT
+
+
+
+17
+     R. 1
+18
+  Esto podría basarse en una combinación de elementos que se describen en la Sección II, así como en
+criterios objetivos tales como informes de evaluación mutua, informes de seguimiento o el PASF (Plan de
+Acción de Servicios Financieros).
+                                                                                                    10
+
+================ PÁGINA 11 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+21. El acceso a información precisa, oportuna y objetiva sobre los riesgos de LA/FT es un requisito
+previo para un EBR eficaz. La NI 1.3 requiere que los países cuenten con mecanismos que faciliten el
+intercambio de información apropiada sobre los resultados de las evaluaciones de riesgo a todas las
+autoridades competentes relevantes, instituciones financieras y otras partes interesadas. En caso de
+no contarse con esta información, por ejemplo, en los casos en los que las autoridades competentes
+dispongan de datos poco satisfactorios para evaluar los riesgos, no les sea permitido compartir
+información importante (por ejemplo, por su grado de sensibilidad) sobre riesgos y amenazas
+relacionadas con LA/FT, o porque el acceso a la información ha sido restringido por, por ejemplo,
+disposiciones de protección de datos o censura, los bancos tendrán dificultad para identificar de
+forma correcta (ejemplo; encontrar y registrar) el riesgo de LA/FT y por consiguiente, no podrán
+evaluar y mitigarlo de forma adecuada.
+
+EVALUACIÓN DEL RIESGO DE LA/FT
+22. La evaluación del riesgo de LA/FT implica que los países, autoridades competentes y bancos,
+deberán determinar cómo los afectarán las amenazas de LA/FT que han sido identificadas. Deben
+analizar la información obtenida con objeto de entender la probabilidad de que ocurran estos
+riesgos, y cuáles serían sus impactos en los bancos en lo individual, el sector bancario y,
+posiblemente, en la economía nacional de las instituciones financieras de importancia sistémica, en
+caso de ocurrir19. Como resultado de la evaluación de riesgos, a menudo los riesgos de LA/FT son
+situados en categorías de bajo, medio y alto, y posibles combinaciones entre las diferentes
+categorías (medio-alto; medio-bajo, etc.). La clasificación pretende ser de ayuda para entender los
+riesgos de LA/FT y para ayudar a organizarlos de de forma prioritaria. Por lo tanto, la evaluación de
+riesgos de LA/FT es mucho más que la mera recopilación de información cuantitativa y cualitativa:
+es la base para una mitigación eficaz del riesgo de LA/FT y debe mantenerse actualizado para no
+perder su relevancia.
+
+23.    La evaluación y comprensión de los riesgos significa que las autoridades competentes y los
+bancos deben contar con personal capacitado y de confianza que haya sido reclutado a partir de la
+aprobación de exámenes relativos adecuados. Lo anterior implica que deben contar con las
+herramientas técnicas y proporcionALAente necesarias para llevar a cabo este trabajo, dada la
+complejidad de las operaciones del banco.
+
+
+MITIGACIÓN DEL RIESGO DE LA/FT
+
+24. Las Recomendaciones del GAFI requieren que al aplicar un EBR, los bancos, países y autoridades
+competentes, establezcan cuál es la forma más eficaz de mitigar el riesgo de LA/FT que han
+identificado. Esto implica mejorar las medidas para manejar y mitigar las situaciones en las que el
+riesgo de LA/FT es superior; y de igual forma, en situaciones de bajo riesgo, se apliquen exenciones
+o medidas simplificadas20:
+                           
+                               Los países que buscan exonerar a determinadas instituciones, sectores o
+                               actividades de algunas de sus obligaciones en materia de ALA/CFT, deberán
+                               evaluar el riesgo de LA/FT de estas entidades financieras, Actividades y
+                               Profesiones no Financieras Designadas (APNFD), y demostrar que el riesgo
+                               es bajo, y que se cumplen las condiciones específicas que se requieren para
+
+
+19
+  No se requiere necesariamente que los bancos lleven a cabo cálculos de probabilidad, que podrían no ser
+significativos dado los volúmenes desconocidos de transacciones ilícitas.
+20
+     Sujeto al marco jurídico nacional que prevé la Debida Diligencia Simplificada.
+                                                                                                       11
+
+================ PÁGINA 12 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+                               alguna de las exenciones de la NI 1.6. La complejidad de la evaluación del
+                               riesgo dependerá del tipo de institución, sector o actividad, producto o
+                               servicios ofrecidos y el alcance geográfico de las actividades que se
+                                                           
+                               benefician con la exención.
+                           
+                               Los países y bancos que buscan aplicar medidas simplificadas deben realizar
+                               una evaluación de los riesgos relacionados con la categoría de los clientes o
+                               productos específicos y establecer el nivel más bajo de riesgo involucrado, y
+                               definir el alcance y la intensidad de las medidas requeridas de ALA/CFT. Las
+                               Recomendaciones específicas exponen con más detalle cómo este principio
+                                                                                  
+                               general se aplica a los requisitos particulares21.
+
+DESARROLLO DE UN ENTENDIMIENTO COMÚN DE EBR
+25.     La eficacia de un EBR depende de un entendimiento común de las autoridades competentes
+y los bancos en cuanto a qué es lo que implica el EBR, cómo debe aplicarse y la forma en que deben
+abordarse los riesgos de LA/FT. Además de un marco jurídico y normativo que explique en detalle el
+grado de discrecionalidad, los bancos deben hacer frente a los riesgos que identifican, y es
+importante que las autoridades competentes y los supervisores en particular, proporcionen Guía a
+los bancos en cuanto a la forma en que se espera que éstos cumplan sus obligaciones jurídicas y
+normativas con una percecpción de ALA/CFT adecuada. El fortalecimiento de los canales de
+comunicación constante y efectiva entre las autoridades competentes y los bancos es un requisito
+esencial para la aplicación exitosa de un EBR.
+
+26.     Es de suma importancia que las autoridades competentes estén conscientes de que en un
+régimen basado en el riesgo, no todos los bancos adoptarán controles iguales de ALA/CFT y que un
+sólo incidente aislado e insignificante de un riesgo materializado no necesariamente invalidará la
+integridad de los controles de ALA/CFT de un banco. Por otro lado, los bancos deben entender que
+un EBR flexible no los exime de una aplicación eficaz de controles en materia de ALA/CFT.
+
+27.     Los países y autoridades competentes deben tener en cuenta la necesidad de una
+supervisión eficaz de todas las entidades que deben cumplir con los requisitos de ALA/CFT. Esto
+apoyará la iguALAad de condiciones entre todos los proveedores de servicios bancarios y evitará el
+desplazamiento de las actividades de mayor riesgo hacia instituciones con un nivel de supervisión
+bajo o inadecuado.
+
+INCLUSIÓN FINANCIERA
+28.     Estar excluidos del sistema financiero no equivale automáticamente a menores riesgos de
+LA/FT; sino que más bien es un factor en una evaluación integral. La exclusión financiera puede
+afectar tanto a particulares como a empresas, y ocurre por diversas razones. En el caso de las
+personas, lo anterior puede incluir una mala calificación crediticia o antecedentes penales, y las
+instituciones no deben por tanto, aplicar medidas de debida diligencia simplificada o exenciones
+únicamente porque el cliente ha sido financieramente excluido.
+
+29.     Un EBR puede contribuir a la inclusión financiera, especialmente en el caso de personas de
+bajos ingresos que tienen dificultades para acceder al sistema financiero regulado. Al aplicar un
+EBR, los países pueden, por tanto, establecer los casos específicos en que se aplicarán las exenciones
+
+
+
+21
+     Por ejemplo, la R. 10 sobre Debida Diligencia del Cliente.
+                                                                                                         12
+
+================ PÁGINA 13 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+en las Recomendaciones del GAFI (basado en bajos riesgos comprobados22), o permitir que las
+instituciones financieras sean más flexibles en la aplicación de medidas de DDC en el caso de riesgos
+menores de LA/FT. En este contexto, la inclusión financiera contribuirá a una mayor transparencia y
+rastreo de los flujos financieros.
+
+
+
+
+22
+   Como norma general, las medidas de DDC, incluyendo la prohibición emitida a las instituciones financieras
+de mantener cuentas anónimas o cuentas bajo nombres obviamente ficticios, deben aplicar en todos los casos.
+Sin embargo, los Apartados 2 y 6 de la NI 1 establecen que: “Los países también pueden, en circunstancias
+estrictamente limitadas y donde existe un riesgo bajo comprobado de LA/FT, decidir no aplicar ciertas
+Recomendaciones a un determinado tipo de institución financiera o actividad, o APNFD" ... y "Los países pueden
+decidir no aplicar algunas de las Recomendaciones del GAFI que exigen a las instituciones financieras o a las
+APNFDs tomar ciertas acciones, siempre que: (a) exista un bajo riesgo de LA y FT comprobado; esto ocurra en
+circunstancias estrictamente limitadas y justificadas; y tenga que ver con un tipo particular de institución
+financiera o actividad, o profesión o negocio no financiero designado" (párrafo 6). Esta exención se ha
+implementado en diferentes países en interés de las políticas de inclusión financiera. Véanse también los
+párrafos 56 y 57 de la Guía del GAFI sobre Medidas Anti Lavado de Dinero y contra el Financiamiento y la
+Inclusión Financiera sobre los principales desafíos que enfrentan los países que desean hacer uso de la
+exención por bajo riesgo comprobado.
+                                                                                                           13
+
+================ PÁGINA 14 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+SECCIÓN II - GUÍA PARA SUPERVISORES
+30. El EBR en materia de ALA/CFT pretende desarrollar medidas de prevención o mitigación que
+sean proporcionales a los riesgos identificados de LA/FT. En el caso de la supervisión, incluye la
+forma en que las autoridades de supervisión asignan sus recursos. También tiene que ver con el
+hecho de que los supervisores desempeñen sus funciones de tal manera que fomente en los bancos
+la aplicación de un enfoque basado en el riesgo.
+
+A.       EL ENFOQUE BASADO EN EL RIESGO EN MATERIA DE SUPERVISIÓN
+
+31. La Recomendación 26 exige que los países sujeten a los bancos a una regulación y supervisión
+adecuadas de ALA/CFT. La NI 26 establece que los supervisores asignen recursos de supervisión a
+las áreas de mayor riesgo de LA/FT, partiendo de la base de que los supervisores comprenden el
+riesgo de LA/FT de sus países y cuentan con acceso, tanto in situ como extra situ del tipo de
+información relevante que contribuye a determinar el perfil de riesgo de un banco.
+
+
+
+                                          Caja 1. Fuentes de Información Adicionales
+
+               Reporte de las Autoridades Supervisoras Europeas
+
+  En Octubre de 2013, las Autoridades Supervisoras Europeas (Autoridad Europea de Seguros y Pensiones
+  Ocupacionales (EIOPA) para seguros y pensiones ocupacionales, Asociación Bancaria Europea (EBA) para
+  Autoridad de banca y Mercados de Valores Europeos (ESMA) para valores) publicó un Reporte Preliminar
+  sobre supervisión en base a riesgos de la prevención de lavado de dinero y financiamiento al terrorismo. Este
+  reporte se basa en los Estándares del GAFI y establece lo que representa la RBA en la supervisión de
+  ALA/CFT. También lista una serie de cuestionamientos de auto-evaluación que deben hacerse los
+  supervisores al revisar su enfoque.
+
+               Lineamientos de BCBS
+
+  En Enero de 2014, el Comité de Basilea en Supervisión Bancaria (BCBS) publicó un conjunto de
+  lineamientos para describir cómo los bancos deben incluir la administración de riesgos relaciondos con el
+  lavado de dinero y financiamiento al terrorismo dentro de su marco general de administración de riesgos.
+  "Administración eficiente de riesgos relacionados con el lavado de dinero y financiamiento al terrorismo".
+  Estos lineamientos tienen la intención de apoyar la implementación de Estándares Internacionales en el
+  Combate al Lavado de Dinero y el Financiamiento y Proliferación al Terrorismo emitido por el GAFI en
+  2012. De ninguna manera deben ser interpretados como de modificación a estándares de GAFI, ya sea para
+  robustecerlos o debilitarlos1. La pesente Guía del GAFI proporciona un marco general para la aplicación del
+  RBA, por supervisores y por el sector bancario. Lineamientos más detallados sobre la implementación del
+  RBA por supervisores pueden encontrarse en el documento BCBS.
+
+
+
+
+---------------------------------------------
+
+1 CSBB (2014a), par. 3.
+
+
+
+
+                                                                                                             14
+
+================ PÁGINA 15 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+COMPRENSIÓN DEL RIESGO DE LA/FT
+32.    Los supervisores deben entender los riesgos de LA/FT a los que está expuesto el sector
+bancario23, así como los riesgos de LA/FT asociados a los bancos y grupos bancarios. Los
+supervisores deben recurrir a una variedad de recursos para identificar y evaluar los riesgos de
+LA/FT.
+
+33.     En el caso de los riesgos sectoriales, pueden incluir, de forma no limitativa, las evaluaciones
+de riesgo de la jurisdicción nacional, las tipologías nacionales o internacionales y la experiencia de
+supervisión, así como la retroalimentación de la Unidad de Inteligencia Financiera (UIF).
+
+34.     En el caso de los bancos, los supervisores deben tomar en cuenta el nivel de riesgo inherente
+incluyendo la naturaleza y complejidad de los productos y servicios del banco, su tamaño, modelo de
+negocio, sistemas de gobierno corporativo, la información financiera y contable, los canales de
+distribución, los perfiles de los clientes, la localización geográfica y los países de operación. Los
+supervisores también deben tomar en cuenta los controles vigentes, incluyendo la calidad de la
+política de gestión de riesgos, el funcionamiento de las funciones de supervisión interna, etc.
+
+35. Una parte de esta información puede obtenerse a través de la supervisión prudencial. Otra
+tipo de información que puede ser relevante en el contexto de ALA/CFT, incluye la gestión apta y
+adecuada del manejo y función de cumplimiento24. Esto implica un intercambio de información y
+colaboración entre los supervisores prudenciales y los supervisores de ALA/CFT, en especial en el
+caso en que las responsabilidades pertenecen a dos agencias separadas.
+
+36.    La información de otros actores participantes del banco, como supervisores, la UIF y los
+organismos encargados de hacer cumplir la ley también puede ser útil para determinar el grado de
+capacidad con que cuenta el banco para gestionar el riesgo de LA/ FT al que está expuesto.
+
+37.     Los supervisores deben analizar su evaluación del riesgo de perfil en materia de LA/FT del
+sector y de los bancos periódicamente y, en todo momento, en caso de que las circunstancias del
+banco cambien o surjan nuevas amenazas relevantes.
+
+Algunos ejemplos de las diferentes maneras que utilizan los supervisores bancarios para evaluar
+riesgos de LA/FT en el sector bancario y en los bancos individuales pueden consultarse en el Anexo 1.
+
+MITIGACIÓN DEL RIESGO DE LA/FT
+38. Las Recomendaciones25 del GAFI requieren que los supervisores asignen más recursos de
+supervisión a las áreas de mayor riesgo de LA/ FT. Esto implica que los supervisores determinen la
+frecuencia e intensidad de las evaluaciones periódicas en función del nivel de riesgo de LA/FT al que
+el sector y los bancos individuales están expuestos. También significa que en aquellos casos en los
+que no sea factible una supervisión detallada de los bancos para identificar LA/CFT, los supervisores
+deben dar prioridad a las áreas de mayor riesgo ya sea en los bancos individuales o en bancos que
+operan en un determinado sector.
+
+39.       A continuación, se mencionan algunas formas en que las que los supervisores pueden ajustar
+          su enfoque:
+
+
+
+23
+     De acuerdo con los Principios Básicos de Basilea (PBB) 8 (CSBB, 2011).
+24
+     Tal como se establece en el PBB 5.
+25
+     De acuerdo con el PBB 9.
+                                                                                                    15
+
+================ PÁGINA 16 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+                 a)     Ajuste de la intensidad de los controles que se requieren para llevar a cabo su
+                        función de autorización: los supervisores pueden regular el nivel de información
+                        que necesitan cuando se trabaja para evitar que los delincuentes o sus cómplices
+                        cuenten con una parte significativa o mayoritaria de un banco. Por ejemplo, en
+                        los casos en los que el riesgo de LA/FT relacionado con el sector es bajo, las
+                        oportunidades de LA/FT relacionadas con una actividad de negocio en
+                        particular pueden ser limitadas y los supervisores, por tanto, pueden preferir
+                        basar sus decisiones de aprobación a partir de un examen de documentación
+                        pertinente. Si el riesgo de LA/FT relacionado con el sector es alto, los
+                        supervisores podrán solicitar información adicional.
+
+                 b)      Ajuste del tipo de supervisión en materia de ALA/CFT: los supervisores siempre
+                        deben contar con acceso tanto in situ como extra situ de toda la información
+                        pertinente relacionada con riesgos y cumplimiento de normas. Sin embargo, en
+                        la medida en que el régimen lo permita, los supervisores podrán determinar la
+                        combinación correcta de supervisión in situ y ex situ de los bancos. Puede ser
+                        que una supervisión extra situ por sí sola no sea apropiada en situaciones de
+                        mayor riesgo.
+
+                 c)     Ajuste de la frecuencia y naturaleza de una supervisión continua en materia de
+                        ALA/CFT: los supervisores deben ajustar la frecuencia de las supervisiones de
+                        ALA/CFT realizadas de acuerdo con los riesgos identificados, y combinar los
+                        exámenes periódicos con una supervisión de ALA/CFT realizada con fines
+                        específicos de acuerdo a indicadores que se vayan presentando, como por ejemplo, a
+                        causa de una denuncia de irregularidades, información de las autoridades, u otros
+                        hallazgos de supervisión resultantes de , por ejemplo, la supervisión prudencial
+                        general o la inclusión de un banco en muestras de revisión temáticas.
+
+                        El Anexo 1 ilustra algunas de las estrategias que utilizan los supervisores
+                        bancarios para ajustar la frecuencia de la supervisión de LA/FT conforme a los
+                        riesgos identificados.
+                 d)     Ajuste de la intensidad de la supervisión en materia de ALA/CFT: los
+                        supervisores deben determinar el alcance o nivel de evaluación apropiados en
+                        función de los riesgos identificados26, con el fin de evaluar la adecuación de las
+                        políticas y procedimientos que los bancos han diseñado para evitar ser objeto de
+                        abusos27. Algunos ejemplos de una supervisión más estricta podrían incluir: la
+                        realización de pruebas a fondo de los sistemas y archivos para verificar la
+                        implementación y adecuación de la evaluación de riesgos del banco, DDC,
+                        presentación de informes y políticas de mantenimiento de registros y procesos,
+                        auditoría interna, entrevistas con el personal operativo, la alta dirección y el
+                        consejo de administración y la evaluación de LA/CFT en áreas específicas del
+                        negocio.
+                        El Anexo 1 ilustra algunas de las estrategias que utilizan los supervisores
+                        bancarios para ajustar la intensidad de la supervisión de LA/FT conforme a los
+                        riesgos identificados.
+
+40.        Los supervisores deben utilizar los resultados obtenidos para revisar y actualizar sus
+
+26
+     El PBB 11 contempla la intervención temprana para corregir los problemas.
+27
+     De acuerdo con PBB 29.
+                                                                                                       16
+
+================ PÁGINA 17 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+evaluaciones de riesgo de LA/FT y, en su caso, considerar si su enfoque de supervisión de ALA/ CFT
+y sus normas y Guía en materia de ALA/CFT continúan siendo adecuadas. Cuando proceda, y en
+cumplimiento de los requisitos de confidencialidad pertinentes, estos resultados deben comunicarse
+a los bancos para que puedan mejorar su EBR.
+
+41.     De acuerdo con la Recomendación 26 y la aplicación de los Principios Básicos de Basilea
+relacionados con ALA/CFT28, los supervisores bancarios deben tener en cuenta los resultados de
+otros tipos de supervisión prudencial o financiera en sus actividades de supervisión de ALA/CFT.
+Del mismo modo, deben verificar que los resultados prudenciales más extensos que impulsan las
+estrategias generales de supervisión de los bancos sean dados a conocer, y aborden de forma
+adecuada los resultados del programa de supervisión en materia de ALA/CFT.
+
+
+B.        SUPERVISIÓN DEL ENFOQUE BASADO EN RIESGO
+ENFOQUE GENERAL
+42. Es importante que los supervisores desempeñen sus funciones de una manera que fomente
+en los bancos la adopción de un enfoque basado en el riesgo. Esto significa que los supervisores
+deben tomar medidas para verificar que su personal cuente con las herramientas necesarias para
+evaluar si las políticas, procedimientos y controles de un banco son los apropiados para los riesgos
+que han sido identificados a través de la evaluación de riesgos y su apetito por éstos29. Los
+supervisores deben verificar que el banco se apegue a sus propias políticas, procedimientos y
+controles, y que las decisiones se tomen usando su buen criterio. También implica que los
+supervisores articulan y comunican con claridad sus expectativas de las medidas que se han hecho
+necesarias para que los bancos cumplan con el marco legal y regulatorio correspondiente. El
+objetivo es que las acciones de supervisión sean previsibles, coherentes y proporcionales en la
+mayoría de los casos, y para ello, son clave la formación del personal de supervisión y la
+comunicación efectiva de las expectativas.
+
+43.     Con objeto de facilitar que los supervisores comprendan el poder que tienen las medidas en
+el sector bancario, debe considerarse realizar comparaciones entre los programas ALA/CFT de los
+bancos que proporcionarán un medio para hacerles ver la importancia de la calidad de los controles
+de un banco. Los supervisores deben, sin embargo, tener en cuenta que en el esquema de EBR,
+puede haber razones de peso que ocasionen que los controles de los bancos no sean siempre
+iguales: los supervisores deben contar con las herramientas necesarias que les permitan evaluar las
+diversas ventajas que implican estas diferencias, especiALAente cuando se comparan con bancos
+que utilizan diferentes niveles de complejidad operativa.
+
+44.    Los supervisores deben estar conscientes de los riesgos de LA/FT que enfrentan el sector y
+los bancos. Deben, en particular, contar con un conocimiento profundo de las áreas de actividad de
+mayor y menor riesgo, lo que dará lugar a mejores elementos de juicio en cuanto a la
+proporcionalidad y adecuación de los controles de ALA/CFT. Los supervisores deben entablar un
+diálogo con los bancos sobre sus puntos de vista sobre los controles en materia de ALAL/CFT
+establecidos por la institución.
+
+
+
+
+28
+     Comité de Supervisión Bancaria de Basilea (CSBB) Principios 1-3, 5-9, 11-15, 26 y 29, véase Anexo 2.
+29
+     Véase también Consejo de Estabilidad Financiera (2014).
+                                                                                                            17
+
+================ PÁGINA 18 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+45.     Los principios generales señalados con anterioridad en relación con bancos nacionales y
+grupos bancarios nacionales también se aplican a los grupos bancarios internacionales. La
+aplicación es, sin embargo, más compleja, ya que implica marcos jurídicos y riesgos de más de una
+jurisdicción, así como la supervisión de más de una autoridad nacional de control30. El documento
+denominado“Adecuado manejo de los riesgos relacionados con el lavado de dinero y el financiamiento
+del terrorismo" del Comité de Basilea contiene más información.31
+
+CAPACITACIÓN
+46.     La NI 26 establece que el personal de supervisión a cargo de vigilar que los bancos pongan
+en práctica el enfoque basado en el riesgo debe entender el grado de discrecionalidad con que un
+banco cuenta para la evaluación y mitigación de sus riesgos de LA/FT. En particular, los
+supervisores deben verificar que el personal ha sido capacitado para evaluar la calidad de las
+evaluaciones de riesgos de LA/FT de un banco y evaluar la idoneidad, proporcionalidad y eficacia de
+las políticas, procedimientos y controles internos de ALA/CFT desde la perspectiva de dichas
+evaluaciones.
+
+47.    La capacitación debe lograr que el personal de supervisión haga uso de su buen juicio para
+determinar si la idoneidad y proporcionalidad de los controles de ALA/CFT de un banco son los
+adecuados. También debe intentar lograr que el enfoque de supervisión llevado a cabo a nivel
+nacional sea el mismo, en caso de existir varias autoridades de control competentes, o por el modelo
+de supervisión nacional.
+
+GUÍA
+48.      Los supervisores deberán hacer del conocimiento de los bancos sus expectativas de
+cumplimiento con sus obligaciones legales y normativas32, después de considerar su participación
+en un proceso de consulta con las partes interesadas correspondientes. Esta Guía puede ser en la
+forma de requisitos de alto nivel basados en los resultados deseados, normas basadas en el riesgo,
+información sobre la forma en que los supervisores interpretan las leyes o las normas
+correspondientes, o una guía más detallada sobre la forma de aplicar de mejor manera algunos
+controles específicos de ALA/CFT. Los supervisores también deben considerar proporcionar
+servicios de Guía a los bancos sobre cómo cumplir con sus obligaciones jurídicas y normativas en
+cuanto a ALA/CFT en una manera que fomente la inclusión financiera.
+49.     Si dicha Guía de parte de los supervisores se basa en los principios de alto nivel, la guía
+elaborada por los sectores de la industria sobre la manera de cumplir con las obligaciones legales y
+normativas podría resultar útil para fines explicativos y operacionales. Sin embargo, los bancos
+deben tener en cuenta que la Guía del sector privado que tomen en consideración sea compatible
+con la legislación nacional y se fundamente en las normas y reglamentos internacionales emitidos
+por las autoridades competentes.
+El Anexo 1 ilustra algunos ejemplos de las diferentes formas de abordar la Guía sobre supervisión
+bancaria.
+
+50. Los supervisores deben considerar llevar a cabo esfuerzos de coordinación con otras
+
+
+30
+     Norma general de supervisión establecida en los PBB 12 y 13.
+
+31
+   Parte IV. Véase también CSBB (2010b), y el CSBB (2014A) (Documento de consulta) sobre la colaboración y
+el intercambio de información entre los supervisores de origen y de acogida.
+32
+     R.34
+                                                                                                       18
+
+================ PÁGINA 19 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+autoridades reguladoras y supervisoras nacionales pertinentes para asegurarse de que la
+interpretación de las obligaciones legales sea coherente, así como para minimizar disparidades. Esto
+es de especial importancia en el caso de existir más de un supervisor responsable de la supervisión
+(por ejemplo, cuando el supervisor prudencial y los supervisores de ALA/CFT colaboran en
+diferentes organismos, o en divisiones separadas del mismo organismo). La Guía de múltiple fuentes
+no debe ofrecer oportunidades de arbitraje regulatorio, lagunas o confusión innecesaria entre los
+bancos. Siempre que sea posible, las autoridades reguladoras y de supervisión correspondientes
+deben considerar la elaboración de un documento de Guía conjunta.
+
+
+
+
+                                                                                                 19
+
+================ PÁGINA 20 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+SECCIÓN III - GUÍA PARA BANCOS
+51.     El EBR en materia de ALA/CFT pretende impulsar el diseño de medidas de prevención o
+mitigación que sean proporcionales a los riesgos identificados de LA/FT. En el caso de los bancos,
+esto se aplica a la forma en que los bancos asignan sus recursos de cumplimiento, organizan sus
+controles y estructuras internas, e implementan políticas y procedimientos para prevenir y detectar
+el LA/FT, incluyendo metodologías a nivel de grupo cuando sea necesario.
+
+52.     La banca abarca una amplia gama de productos y servicios financieros que suponen
+diferentes riesgos de LA/FT. Estos incluyen, entre otros, los siguientes:
+                          
+                              La banca minorista, que es aquella en donde los bancos ofrecen sus
+                              productos y servicios directamente a los individuos y empresas (incluidos
+                              los acuerdos legales), como cuentas
+                                                                    corrientes, préstamos (incluyendo
+                             hipotecas) y servicios de ahorro;
+                          
+                              La banca corporativa y de inversión, en la que los bancos ofrecen
+                              financiamiento a empresas y productos bancarios corporativos   así como
+                             servicios de inversión a empresas, gobiernos e instituciones;
+                          
+                              Los servicios de inversión (o de administración patrimonial), son aquellos en
+                              los que los bancos ofrecen productos y servicios orientados a la
+                              administración del patrimonio de sus clientes (a veces conocidos como
+                             banca privada); y
+                          
+                              Servicios de corresponsalía, que son aquellos servicios bancarios
+                              proporcionados por un banco solicitante (el "banco
+                                                                               corresponsal") a otro
+                             banco (también llamado “banco corresponsal”)33.
+53.    Los bancos deben tener en cuenta esas diferencias al evaluar y mitigar el riesgo de LA/FT al
+que están expuestos.
+
+A.        EVALUACIÓN DE RIESGO
+
+54.     La evaluación del riesgo forma la base del EBR de un banco. Debe permitir que el banco
+entienda cómo y hasta qué punto es vulnerable a LA/FT. A menudo resultará en una categorización
+estilizada del riesgo que contribuirá a que los bancos determinen el grado de recursos en materia de
+ALA/CFT necesarios para mitigar ese riesgo. Siempre debe documentarse, guardarse y comunicarse
+debidamente al personal pertinente del banco.
+
+55.     La evaluación de riesgos de un banco no tiene por qué ser compleja, pero debe ser
+proporcional a la naturaleza y alcance de las actividades del banco. En el caso de bancos más
+pequeños o menos complejos, (por ejemplo, en los casos en que los clientes se sitúan en categorías
+similares y/o cuando la gama de productos y servicios que el banco ofrece son muy limitados), una
+evaluación de riesgos simple podría ser más que suficiente. Por el contrario, cuando los productos y
+servicios del banco son más complejos o cuando existen múltiples filiales o sucursales que ofrecen
+una amplia variedad de productos, y/o su base de clientes es más variada, se requerirá un proceso
+de evaluación de riesgo más sofisticado.
+
+56.        Al identificar y evaluar el riesgo de LA/FT al que están expuestos, los bancos deben
+
+
+33
+     Véase Glosario GAFI (GAFI, 2012).
+                                                                                                        20
+
+================ PÁGINA 21 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+considerar una serie de factores entre los que se incluyen los que se mencionan a continuación:
+
+                            La naturaleza, escala, diversidad y complejidad de su negocio;
+
+                            Los mercados a los que se dirige;
+
+                            El número de clientes que ya han sido identificados como de alto riesgo;
+
+                            Las jurisdicciones que regulan al banco, ya sea a través de sus propias
+                            actividades o las actividades de sus clientes, especiALAente aquellas
+                            jurisdicciones con niveles relativamente altos de corrupción o participación
+                            con el crimen organizado, y/o controles poco satisfactorios en cuanto a
+                            ALA/CFT así como los incluidos en el GAFI;
+
+                            Los canales de distribución, incluyendo la medida en que los bancos se
+                            ocupan directamente del cliente o el grado en que se permite a (o tiene
+                            permitido depender de) terceros para llevar a cabo la DDC y el uso de la
+                            tecnología;
+
+                            La auditoría interna y los resultados deregulación;
+
+                            El volumen y alcance de sus operaciones, teniendo en cuenta la actividad
+                            habitual del banco y el perfil de sus clientes.34
+
+
+57. Los bancos deben complementar esta información con la información obtenida de fuentes
+internas y externas pertinentes, como los son los directores de las empresas, gerentes de relaciones,
+evaluaciones nacionales de riesgo, las listas emitidas por organizaciones intergubernamentales
+internacionales y gobiernos nacionales, las evaluaciones mutuas en materia de ALA/CFT y los
+informes de seguimiento del GAFI o de organismos de evaluación relacionados así como el estudio y
+clasificación de las tipologías. Asimismo, los bancos deben revisar su evaluación periódicamente y
+también cuando sus circunstancias cambian o surgen nuevas amenazas relevantes.
+
+                 Caja 2. Ejemplos de riesgos de LA/FT asociados con diferentes actividades bancarias1:
+         
+                 Banca Minorista: Disposiciones de servicios a negocios de alto flujo de efectivo, volumen de
+                 transacciones, transacciones de alto valor, diversidad de servicios. 
+                 
+         
+                 Administración Patrimonial: Cultura de la confidencialidad, dificultad para identificar
+                 propietarios reales, encubrimiento (uso de fideicomisos offshore), secreto bancario,
+                 complejidad de servicios y productos financieros, PEPS, transacciones de alto valor,
+                 jurisdicciones múltiples.
+     
+         
+                 Banca de Inversión: Estratificación e integración, transferencia de activos entre partes
+                 en intercambio por efectivo u otros activos, naturaleza global de mercados. 
+     
+         
+                 Banca Corresposal: Transacciones de alto valor, información limitada con respecto del
+                 remitente y origen de los fondos especiALAente cuando se ejecutan transacciones con
+                 un banco localizado en una jurisdicción que no cumple lo suficiente con las
+                 Recomendaciones del GAFI, la posibilidad de que estén involucrados los PEPs con
+                 respecto a la propiedad de un banco
+
+
+1. La categorización propuesta de las actividades bancarias es puramente indicativa (véase párrafo 52) y la
+lista de los riesgos identificados es ilustrativa y no exhaustiva.
+
+
+
+
+34
+     NI 1 y 10
+                                                                                                              21
+
+================ PÁGINA 22 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+58. La evaluación de riesgos debe ser aprobada por la alta dirección y constituir la base del
+desarrollo de políticas y procedimientos de mitigación de riesgo de LA/FT además de reflejar el
+nivel de apetitopor el riesgo de la institución y establecer el nivel de riesgo que se considera
+aceptable. Debe revisarse y actualizarse de forma periódica. Las políticas, procedimientos, medidas
+y controles para mitigar los riesgos de LA/FT deben ser acordes con la evaluación del riesgo.
+
+
+B.     MITIGACIÓN DE RIESGOS
+
+IDENTIFICACIÓN, VERIFICACIÓN, PROPÓSITO E ÍNDOLE DE LA RELACIÓN COMERCIAL
+59.     Los bancos deben desarrollar e implementar políticas y procedimientos para mitigar los
+riesgos de LA/FT que han identificado a través de su propia evaluación de riesgos. Los procesos de
+Debida Diligencia del Cliente (DDC) deben diseñarse para ayudar a los bancos a entender quiénes
+son sus clientes mediante la recopilación de información sobre lo que hacen y la razón por la que
+requieren los servicios bancarios. Las etapas iniciales del proceso de DDC deben diseñarse para
+ayudar a los bancos a evaluar el riesgo de LA/FT asociado con una relación comercial propuesta,
+determinar el nivel de DDC que debe aplicarse y disuadir a los individuos de establecer una relación
+de negocios para llevar a cabo actividades ilícitas.
+
+60.     Con base en una visión integral de la información obtenida en el contexto de su aplicación de
+medidas de DDC, los bancos deberían poder preparar un perfil de riesgo del cliente. Esto
+determinará el nivel y tipo de monitoreo continuo y sustentará la decisión del banco de concertar,
+continuar o terminar la relación comercial. Los perfiles de riesgo se pueden aplicar a nivel de cliente
+individual o, en el caso de grupos de clientes que comparten ciertas características (por ejemplo,
+clientes con nivel de ingresos similares, o que realizan el mismo tipo de operaciones bancarias). Este
+enfoque es particularmente relevante para los clientes de banca minorista.
+61.    La DDC inicial comprende lo siguiente:
+                                                                                             
+                         La identificación del cliente y, en su caso, el propietario real;
+                      
+                          Verificación de la identidad del cliente a partir de información confiable e
+                          independiente, datos o documentación al menos  en la medida requerida
+                         por el marco legal y regulatorio aplicable; y
+                      
+                          Comprensión del propósito e índole prevista de la relación
+                                                                                   comercial y,
+                         en situaciones de mayor riesgo, obtener más información.
+
+62.    Además, los bancos deben tomar medidas para cumplir con las sanciones nacionales e
+internacionales mediante la verificación de los nombres del cliente y propietarios reales en el
+Consejo de Seguridad de la ONU y otras listas de sanciones pertinentes.
+
+63.     Como norma general, las medidas de DDC deben aplicarse en todos los casos. El alcance de
+estas medidas puede ajustarse, en la medida permitida o requerida por los requisitos
+reglamentarios, según el riesgo de LA/FT, de haberlo, en relación con la relación comercial
+individual tal como se estableció con anterioridad en Evaluación de Riesgos. Esto significa que la
+cantidad y tipo de información obtenida, y el grado en que se verifica esta información, deben
+aumentarse cuando el riesgo asociado con la relación comercial es mayor. También se podrá
+simplificar cuando el riesgo asociado a la relación comercial es menor. Por lo tanto, los bancos
+
+
+
+                                                                                                         22
+
+================ PÁGINA 23 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+deben elaborar y actualizar de forma periódica, los perfiles de riesgo del cliente35, que sirven para
+ayudar a los bancos a aplicar el nivel adecuado de DDC.
+
+
+ Caja 3. Ejemplos de Debida Diligencia Reforzada/Medidas de Debida Diligencia Simplificada
+                                     (ver también NI 10)
+       
+                 Debida Diligencia Reforzada (DDR) 
+ 
+
+                    obtener información adicional de identificación de una amplia variedad de fuentes
+                     más robustas y utilizando la información para informar la administración de
+                     riesgos al cliente individual.
+ 
+                    llevar a cabo búsquedas adicionales (ej. búsquedas adversas verificables en medios)
+                     para informar la evaluación de riesgos al cliente individual.
+ 
+                    comisionar un reporte de inteligencia sobre el cliente o propietario real para mayor
+                     comprensión del riesgo de que el cliente o propietario real puedan estar
+                     involucrados en actividades criminales.
+ 
+                    verificar el origen de los fondos o riqueza involucrada en la relación de negocios
+                     para garantizar que no constituyan actos criminales 
+ 
+                    buscar información adicional del cliente relativa al propósito naturaleza
+                     intencionada de la relación comercial.
+             
+        
+             Debida Diligencia Simplificada (DDS) 
+ 
+
+                    obtener menos información (ej. no se requiere información sobre el domicilio u
+                     ocupación de cliente potencial) y/o buscar una verificación menos robusta sobre la
+                     identidad del cliente y el propósito y naturaleza intencionada de la relación de
+                     negocios posponiendo la verificación de la identidad del cliente
+Caja 4. DDC y consideraciones de inclusión financera
+
+     La aplicación de RBA para DDC puede soportar apoyar los objetivos de inclusión financiera para
+     proporcionar una aplicación más flexible de medidas de DDC para ciertas categorías de productos
+     financieros o clientes quienes pudiesen de otra manera esforzarse para cumplir con los
+     requerimientos de DDC bancarios. Sin embargo, la exclusión financiera por sí misma no es un
+     indicador de bajo riesgo de LA/FT y los bancos deben tomar una decisión informada, con base en
+     una evaluación integral de los riesgos de LA/FT, ya sea que sean apropiadas exenciones o medidas
+     DDC.
+
+64.    En los casos en que los bancos no puedan aplicar el nivel apropiado de la DDC, la
+Recomendación 10 solicita a los bancos no participar en la relación comercial, o dar ésta por
+terminada.
+
+65.      La Guía del CSBB sobre la Gestión racional de los riesgos relacionados con el lavado de dinero
+y el financiamiento del terrorismo ofrece una Guía detallada a los bancos sobre la gestión del riesgo
+de lavado de dinero en la banca corresponsal y en situaciones en las que los bancos recurran a
+terceros para llevar a cabo la totalidad o parte, de su DDC inicial.
+
+
+
+DDC CONTINUA/MONITOREO
+66.         El monitoreo permanente significa el escrutinio de las operaciones para determinar si éstas
+35
+  basado en la propia evaluación de riesgo del banco y tomando en cuenta factores de riesgo como los
+indicados en las normas del GAFI, por ejemplo, en la NI 10 y Recomendaciones/ NI 12-16.
+                                                                                                            23
+
+================ PÁGINA 24 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+son consistentes con el conocimiento que el banco tiene del cliente y la naturaleza y propósito del
+producto bancario y de la relación comercial. El monitoreo también incluye la identificación de los
+cambios en el perfil del cliente (por ejemplo, su comportamiento, uso de los productos y cantidad de
+dinero involucrada), y mantener un registro actualizado de tales cambios, lo que puede requerir la
+aplicación de medidas nuevas o adicionales de DDC. El monitoreo de las operaciones es un
+componente clave para la identificación de operaciones que son potenciALAente sospechosas.
+
+67.     La vigilancia debe llevarse a cabo de forma continua o en función de operaciones específicas.
+También podría utilizarse para comparar la actividad de un cliente con el de un grupo de pares. No
+requiere de sistemas electrónicos, aunque para algunos tipos de actividad bancaria, donde se llevan
+a cabo grandes volúmenes de operaciones de forma regular, los sistemas automatizados podrían ser
+el único método realista de control de las operaciones. Sin embargo, en los casos en que se utilicen
+sistemas automatizados, los bancos deben estar conscientes de las normas que los rigen y deben
+verificar su fiabilidad con regularidad así como comprobar que abordan los riesgos de LA/FT
+identificados.
+
+68.     Los bancos deben ajustar el alcance y profundidad de vigilancia de acuerdo con su
+evaluación del riesgo institucional y los perfiles de riesgo de cada cliente. Debe aplicarse un sistema
+de monitoreo reforzado para situaciones de mayor riesgo, y al mismo tiempo, los bancos pueden
+optar por reducir la frecuencia e intensidad de los controles cuando los riesgos son menores. La
+adecuación de los sistemas de monitoreo y los factores que llevan a los bancos a ajustar el nivel de
+monitoreo debe revisarse periódicamente para continuar siendo relevantes con el programa de
+riesgo de ALA/CFT del banco.
+
+69.     Los bancos deben documentar y establecer claramente los criterios y parámetros utilizados
+para la segmentación de los clientes y para la asignación de un nivel de riesgo a cada uno de los
+grupos de clientes. Los criterios aplicados para determinar la frecuencia e intensidad de la vigilancia
+de los diferentes segmentos de clientes también deben ser transparentes.
+
+                    Caja 5. Ejemplos de monitoreo en situaciones de riesgo alto/bajo
+     
+          El monitoreo de situaciones de alto riesgo: monitoreo de operaciones diarias, monitoreo
+          de operacionesmanuales, análisis frecuente de información, considerar el destino de los
+          fondos, establecer banderas rojas con base en reportes de tipologías, reporteo de
+          resultados de monitoreo a alta dirección, etc.
+         
+     
+          El monitoreo de situaciones de bajo riesgo: umbrales, baja frecuencia, sistemas
+          automatizados.
+
+ La guía BCBS sobre la Buena Administración de riesgos con relación al lavado de dinero y
+ financiamiento al terrorismo establece en la Sección II 1 (d) lo que los bancos deben considerar
+ cuando evalúen lo adecuado del sistema de monitoreo. Enfatiza que un banco debe tener instalado
+ un sistema de monitoreo adecuado a su tamaño, actividades y complejidad así como a los riesgos
+ presentes en el banco. Para la mayoría de los bancos, especiALAente aquellos que se encuentran
+ intencionALAente activos, el monitoreo efectivo es probable que requiera de la automatización del
+ proceso de monitoreo.
+
+70. Con este fin, los bancos deberán documentar, conservar la información sobre los resultados del
+monitoreo y comunicarla de forma adecuada al personal involucrado, así como las dudas que se
+hubiesen planteado y la forma en que fueron resueltas.
+
+                                                                                                     24
+
+================ PÁGINA 25 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+INFORMES
+71. La Recomendación 20 demanda que los países exijan a sus bancos que si sospechan o cuentan
+con fundamentos razonables para sospechar que los fondos son producto de un delito o están
+relacionados con el financiamiento del terrorismo, éstos deberán informar de sus sospechas de
+inmediato a la UIF correspondiente. Los bancos podrán indicar mediante una señal distintiva
+cualquier movimiento inusual de fondos u operaciones para su posterior análisis. Los bancos
+deberán contar con sistemas adecuados de gestión de casos a fin de que dichos fondos u
+operaciones se analicen manera oportuna y se determine si los fondos o la operación son
+sospechosos.
+
+72. Los fondos u operaciones que son sospechosas deben reportarse inmediatamente a la UIF de
+la manera establecida por las autoridades competentes. Los procesos que los bancos utilizan para
+escalar las sospechas y, en última instancia, informar a la UIF, deben reflejar esto. Aunque las
+políticas y procesos que dan lugar a que los bancos emitan una alerta de sospecha pueden aplicarse
+según el tipo de riesgo, el banco deberá informar una vez que haya surgido la sospecha de LA/FT.
+
+
+C.      CONTROLES INTERNOS, GOBIERNO CORPORATIVO Y MONITOREO
+CONTROLES INTERNOS
+73. Contar con controles internos adecuados es una condición previa para la aplicación eficaz de
+las políticas y procesos para mitigar el riesgo de LA/FT. Los controles internos incluyen acuerdos de
+gobierno corporativo apropiados en los que es claro en quien recae la responsabilidad de en materia
+de ALA/CFT, así como de poner en práctica controles para monitorear la integridad del personal, de
+conformidad con la legislación local aplicable, en especial en situaciones transfronterizas y de
+evaluación nacional de riesgos, de cumplimiento y controles para comprobar la eficacia general de
+las políticas y procesos del banco para identificar, evaluar y controlar los riesgos.
+
+      74. Para grupos bancarios más grandes, deben existir en todo el grupo, controles con un enfoque
+          similar a los controles de ALA/CFT. El documento36 del CSBB titulado “Buena gestión de los
+          riesgos relacionados con el lavado de dinero y el financiamiento del terrorismo" es una guía
+          completa para los bancos sobre la gestión eficaz de los riesgos de LA/FT en un contexto37 de
+          grupo y transfronterizo.
+
+GOBIERNO CORPORATIVO
+75. La acertada aplicación y eficaz operación de un EBR en materia de ALA/CFT depende de un
+liderazgo sólido por parte de la alta dirección así como de la supervisión del desarrollo y aplicación
+del EBR en todo el banco.
+76.     La alta dirección debe considerar varias maneras de apoyar iniciativas en materia de
+        ALA/CFT:
+
+36
+   Véase parte III:
+37
+   Explica la razón de ser y los principios de la gestión integral de riesgos; cómo las políticas y procedimientos
+ALA/CFT a nivel de grupo deben aplicarse de manera coherente y bajo supervisión en todo el grupo, y, en en
+los casos en que se reflejen algunas consideraciones de negocios locales y requisitos de la jurisdicción
+anfitriona, deben ser coherentes y apoyar las políticas y procedimientos del grupo; la forma en que los bancos
+deben abordar las diferencias en los requisitos de origen/destino. Es importante destacar que también
+proporciona detalles sobre cómo los bancos que forman parte de un grupo deben compartir la información
+con los miembros del mismo grupo con el fin de informar y fortalecer la evaluación del riesgo a nivel de grupo
+y la implementación de políticas y procedimientos de ALA/CFT eficaces para todo el grupo.
+                                                                                                              25
+
+================ PÁGINA 26 DE 51 ================
+
+    GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+
+                              
+                                  promover el cumplimiento como un valor central del banco mediante la
+                                  distribución de un mensaje claro en el sentido de que el banco no celebrará
+                                  contratos o mantendrá relaciones comerciales que pudieran estar
+                                  relacionadas con riesgos excesivos relacionados con LA/FT que no podrían
+                                  ser mitigados con eficacia. La alta dirección, junto con los directivos, son
+                                  responsables de establecer sistemas de gestión y controles adecuados a la
+                                  sólida política de toma de riesgos del banco;
+                              
+                                  implementar mecanismos adecuados de comunicación interna en relación
+                                  con los riesgos reales o probables de LA/FT que enfrenta el banco. Estos
+                                  mecanismos deben interrelacionar al Consejo de Administración, al Oficial
+                                  de Cumplimiento de ALA/CFT, cualquier comité relacionado o
+                                  especializado del banco (por ejemplo, el Comité de Riesgos o el Comité de
+                                  Ética y Cumplimiento  de Normas) 38, el Departamento de TI y cada una de
+                                  las áreas comerciales;
+                              
+                                  decidir sobre las medidas que se requieren poner en práctica para mitigar
+                                  los riesgos de LA/FT identificados ysobre el grado de riesgo residual que
+                                  el banco está dispuesto a aceptar; y
+                              
+                                  conformar
+                                          de forma adecuada los recursos de la Unidad de ALA/CFT del
+                                  banco.
+              
+    Caja 6. Ejemplos de pasos tomados por la alta dirección de bancos para promover el
+    cumplimiento:
+     
+    
+    Llevar
+      a cabo el desarrollo de producto    y campañas comerciales en estricto cumplimiento con
+    la legislación nacional de ALA/CFT
+                                                                                         
+                Involucrar a la alta dirección en la capacitación del personal en ALA/CFT.
+
+
+    76. Esto implica que la alta dirección no debe únicamente conocer los riesgos de LA/FT a los
+    cuales está expuesto el banco sino también comprender como opera su marco de control de
+    ALA/CFT para mitigar dichos riesgos. Esto requiere que la alta dirección:
+
+                              
+                                  reciba información suficiente, regular y objetiva para tener una visión
+                                  exacta del riesgo de LA/FT a los cuales está expuesto el banco a través de
+                                  sus actividades y relaciones de negocio individuales;
+                              
+                                  recibe información suficiente y objetiva para comprender si los controles
+                                  de ALA/CFT del banco son efectivos (por ejemplo información del Director   
+                                  de Cumplimiento sobre la efectividad del control o reportes de auditoría);
+                              
+                                  y que los procesos se encuentra implementados para escalar decisiones
+                                  importantes que impacten
+                                                           directamente la habilidad de dar atención y
+                                  controlar los riesgos.
+                                  
+    78. Es importante que se designe la responsabilidad para la consistencia y efectividad de los
+    controles de ALA/CFT a un individuo con el suficiente nivel dentro del banco para que pueda
+    señalar la importancia de la administración y cumplimiento de los riesgos de LA/FT, y que los
+    asuntos de LA/FT sean presentados a la atención de la gerencia. Esto incluye sin limitación a, la
+
+    38
+         CSBB (2010a), párrafos 52 y 53
+                                                                                                            26
+
+================ PÁGINA 27 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+designación de un oficial de cumplimiento competente a nivel gerencial39.
+
+GARANTIZANDO EL MONITOREO DEL CUMPLIMIENTO
+79. Un ambiente de control interno del banco debe ser conducente para asegurar la integridad,
+competencia y cumplimiento del personal con las políticas y procedimientos relevantes. Las
+medidas relevantes de los controles de ALA/CFT deben ser consistentes con el más amplio conjunto
+de controles implementados para la atención de riesgos de negocios, financieros y operativos.
+                       
+INVESTIGACIÓN, RECLUTAMIENTO Y REMUNERACIÓN
+80. Los bancos deben verificar que el personal que empleen tenga la integridad y que es lo
+suficientemente capacitado con los conocimientos y experiencia suficientes para llevar a cabo sus
+funciones, en particular en situaciones dónde el personal sea responsable de la implementación de
+controles de ALA/CFT
+
+81.     El nivel de procedimientos de investigación del personal debe reflejar los riesgos de LA/FT a
+los que esté expuesto el personal individual y no enfocarse únicamente a roles de alta dirección. Se
+deben tomar pasos para el manejo de conflictos de interés potenciales para el personal con
+responsabilidades de ALA/CFT. Su remuneración debe estar alineada con los principios sobre la
+independencia de la función del cumplimiento en el documento CSBB sobre los principios del
+cumplimiento y la función del cumplimiento en bancos40
+
+
+CAPACITACIÓN Y SENSIBILIZACIÓN
+82.     La aplicación efectiva de las políticas y procedimientos de ALA/CFT depende de la
+comprensión del personal en bancos no únicamente de los procesos que se requieren que ellos
+realicen sino también de los riesgos que esos procesos están diseñados a mitigar, así como las
+posibles consecuencias de esos riesgos. Por lo tanto es importante que el personal del banco reciba
+capacitación de ALA/CFT, la cual debe ser:
+
+                     
+                         De alta calidad, relevante a los riesgos de LA/FT del banco, a sus
+                         actividades de negocio y actualizados con las últimas obligaciones legales
+                         y regulatorias, y controles internos;
+                                                                       
+                         Obligatoria para todo el personal relevante;
+                     
+                         A la medida para líneas de negocio particulares dentro del banco,
+                         equipando al personal con una comprensión adecuada de los riesgos de
+                         LA/FT especializados a los que muy probablemente
+                                                                         se enfrenten y sus
+                         obligaciones con respecto a esos riesgos;
+                     
+                         Efectiva: la capacitación debe proporcionar el efecto deseado, y esto puede
+                         ser verificado por ejemplo requiriendo al personal que pase pruebas o
+                         monitoreando los niveles de cumplimiento con los controles de ALA/CFT
+                         del banco y aplicando las medidas apropiadas donde      el personal no sea
+                         capaz de demostrar un nivel de conocimientos deseado;
+                     
+                         Continua: Alineada con la NI 18, la capacitación de ALA/CFT debe ser
+                         regular, relevante, y no únicamente un ejercicio de una sola vez en la
+
+39
+     NI 18.
+40
+     CSBB (2005).
+                                                                                                   27
+
+================ PÁGINA 28 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+                                                   
+                          contratación del personal;
+                      
+                          Complementada por información y actualizaciones     de ALA/CFT que son
+                          difundidas al personal relevante de forma apropiada.
+
+83.     Sobre todo, la capacitación también debe buscar construir un comportamiento de trabajo en
+el cual el cumplimiento se encuentre anidado en las actividades y decisiones de todo el personal
+bancario.
+
+
+EVALUACIÓN DE CONTROLES
+84. Los bancos deben tomar pasos para procurar que sus políticas y controles de ALA/CFT estén
+adheridas y sean efectivas. Con este propósito, sus controles deben ser monitoreados de forma
+continua por el oficial de cumplimiento del banco. adicionalmente, lo adecuado y el cumplimiento de
+los controles de ALA/CFT del banco deben ser revisados por una función de auditoría.
+
+85. La Recomendación 18, en su NI 18, requiere que los países soliciten a los bancos nombrar a
+un oficial de cumplimiento a un nivel gerencial. adicionalmente a proporcionar asesoría al personal
+relevante para el cumplimiento de sus obligaciones, su rol será de monitorear y asesorar los riesgos
+de LA/FT a través del banco así como de la aplicación adecuada y efectividad de las medidas
+implementadas por el banco para la mitigación de riesgos. El oficial de cumplimiento debe entonces
+tener la necesaria independencia, autoridad, nivel, recursos y experiencia para llevar a cabo estas
+funciones de forma efectiva, incluyendo la habilidad para tener acceso a toda la información interna
+(incluyendo a través de líneas de negocio, y sucursales bancarias y subsidiarias).
+
+
+
+
+
+                  Caja 7. Ejemplos de controles internos para incentivar el cumplimiento
+                                                         
+       Facilitar el reporteo de operaciones inusuales:
+              Definir la capacitación del personal con base en mecanismos para detectar
+              adecuadamente operaciones inusuales 
+              Establecer canales adecuados para permitir al personal reportar operaciones
+              inusuales al oficial de cumplimiento. 
+              Asegurar la confidencialidad al personal que reporta operaciones inusuales 
+    
+        Permitir al 
+                    personal reportar áreas de políticas o controles que no sean claras/útiles o
+        efectivas:
+              Establecer canales continuos de consulta para el personal con respecto a asuntos de
+              ALA/CFT
+              Asegurar la consistencia de las respuestas a preguntas del personal con respecto a
+               asuntos de ALA/CFT
+              Conducir actividades de ALA/CFT de tal manera que sean percibidas por todo el
+               personal como de apoyo para la calidad a los servicios bancarios proporcionados a
+               clientes y de la integridad del banco.
+
+
+
+86.     La Recomendación 18 también requiere que los países requieran a los bancos que tengan una
+                                                                                                 28
+
+================ PÁGINA 29 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+función de auditoría independiente para probar el programa de ALA/CFT del banco con una visión
+de establecer la efectividad de las políticas y procesos generales de ALA/CFT del banco y la calidad
+de su administración de riesgos a través de sus operaciones, departamentos, sucursales y
+subsidiarias, tanto domésticas, y cuando sea relevante, en el extranjero.
+Los hallazgos deben informar a la alta dirección la visión del diseño e implementación del marco de
+ALA/CFT del banco. La función de auditoría requiere examinar lo adecuado de todas las
+determinaciones de riesgos y por lo tanto no debe enfocarse exclusivamente en riesgos altos.
+
+87. Tanto las funciones de cumplimiento como de auditoría deben basar su evaluación en toda la
+información relevante a su tarea incluyendo, cuándo sea relevante y apropiado, información
+obtenida confidencialmente a través de mecanismos internos relevantes o líneas de denuncia. Otras
+fuentes de información pueden incluir tasas de aprobados de la capacitación, fallas de cumplimiento,
+y análisis de cuestionamientos recibidos por el personal.
+
+
+
+
+                                                                                                 29
+
+================ PÁGINA 30 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+ANEXO 1
+
+EJEMPLOS DE PRÁCTICAS DE SUPERVISIÓN DE PAÍSES PARA LA
+IMPLEMENTACIÓN DE UN ENFOQUE EN BASE A RIESGOS PARA EL
+SECTOR BANCARIO
+
+Este anexo comparte prácticas de supervisión de países que buscan ilustrar la implementación del
+EBR. Son presentados únicamente como ejemplos. Al momento de la publicación de esta guía, los
+esfuerzos individuales no han sido evaluados según su cumplimiento con las Recomendaciones del
+GAFI como parte de la Cuarta Ronda de evaluaciones mutuas. Por lo tanto, su presentación aquí no
+debe ser considerada como un respALAo del GAFI.
+
+
+Ejemplos de diferentes maneras de evaluar por parte de supervisores bancarios los riesgos
+                  de LA/FT en el sector bancario en bancos individuales
+
+
+AUSTRALIA
+El regulador de ALA/CFT y especialista de la unidad de inteligencia financiera, AUSTRAC, aplica un
+enfoque en base en riesgos para la supervisión del sector bancario a un nivel de grupo corporativo,
+Bajo este enfoque AUSTRAC aplica un mayor esfuerzo sobre las entidades de supervisión dentro de
+los grupos corporativos que proporcionan servicios y productos identificados como de mayor
+exposición y vulnerabilidad a riesgos de LA/FT
+
+Se toman en cuenta cuatro factores para determinar el perfil de riesgos de LA/FT:
+
+                     
+                         Si el grupo de la entidad reportadora (Grupo ER) opera dentro de un tipo
+                         de industria identificado como de un canal mayor o significativo para el
+                         lavado de dinero (como se establece en la Evaluación de Amenazas
+                         Nacionales de Australia en lavado de dinero. Los Grupos ER dentro de estos
+                         tipos de industria
+                                            están sujetos a mayores niveles de supervisión por
+                         AUSTRAC.
+                     
+                         La exposición de un Grupo ER a los riesgos de LA/FT. Las medidas
+                         similares a las utilizadas por AUSTRAC para determinar la exposición de un
+                         Grupo ER a actividades de LA/FT son el tamaño de la entidad y/o el
+                         volumen y valor de los reportes de operaciones de AUSTRAC. Los Grupos
+                         ER mayores por lo general tienen más clientes y típicamente proporcionan
+                         productos mucho más complejos utilizando múltiples canales de
+                         distribución en múltiples jurisdicciones. Adicionalmente, los Grupos ER
+                         mayores tienen un mayor impacto en la integridad general del sistema
+                         financiero de Australia. Los Grupos ER mayores, particularmente los que
+                         ALAacenan cantidades significativas de reportes de      operaciones con
+                         AUSTRAC, están sujetos a mayores niveles de supervisión.
+                     
+                         Interés específico de las operaciones de inteligencia de AUSTRAC    en
+                         relación con los Grupos ER particulares o sectores de la industria.
+                     
+                         Interés específico de autoridades competentes (orden público, inteligencia,
+                                                                                                 
+                         fiscales o agencias reguladoras) en relación con Grupos ER particulares.
+
+
+ALEMANIA
+                                                                                                  30
+
+================ PÁGINA 31 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+La clasificación de riesgos de BaFin de instituciones financieras es una combinación de:
+
+                                     
+                                           La evaluación de una situación de riesgo individual abstracta, basada en 5
+                                           criterios esenciales de riesgos (ubicación, enfoque del negocio, estructura
+                                           del producto, estructura del cliente y estructura de distribución). Se califica
+                                           cada uno de los 5 elementos. La calificación lograda en la estructura del
+                                           cliente tiene mayor ponderación en la calificación total, ya que el LA es un
+                                           delito cometido por clientes. Si la institución financiera logra una
+                                           calificación total la cual es el límite mayor para instituciones de bajo riesgo,
+                                           o el límite inferior para instituciones con mayores riesgos, el supervisor
+                                           tiene la facultad de decidir discrecionalmente en cuál categoría de riesgos
+                                                                                                            
+                                          colocará a la institución, con base en su historial de ALA/CFT.
+
+                                     
+                                           La evaluación de la calidad de las medidas preventivas de ALA/CFT (tarea
+                                           realizada por el oficial de cumplimiento de ALA, monitoreo de TI, medidas
+                                           de Conoce-a-tu-Cliente (KYC), etc.) implementadas por la institución
+                                           financiera, incluyendo los aspectos de cumplimiento a nivel grupo cuando
+                                           sean relevantes. Las calificaciones están basadas en información de los
+                                           reportes de auditoría anuales y las evaluaciones adicionales de auditores
+                                           externos. La importancia y alcance de las deficiencias identificadas
+                                           impactará en el nivel de la calidad y la calificación de medidas preventivas.
+
+El resultado final es una matriz de 12 ceLAas, la cual será utilizada para determinar la intensidad de
+la supervisión de ALA/CFT requerida.
+
+
+                                                                      Calidad de la prevención ALA/CFT
+
+                                                         A               B                   C                 D
+                                                       (alta)        (media-alta)       (media-baja)         (baja)
+
+
+                                3 (alta)                                                     3C                3D
+     Amenaza potencial LA/FT
+
+
+
+
+                                                        3A                3B
+
+
+                               2 (media)                                                     2C                2D
+                                                        2A                2B
+
+
+                               1 (baja)
+                                                        1A                1B                 1C                1D
+
+
+
+
+                                                                                                                         31
+
+================ PÁGINA 32 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+MÉXICO
+La Comisión Nacional Bancaria y de Valores (CNBV), con base en los riesgos inherentes identificados
+por la información obtenida de parte de las instituciones financieras y otras fuentes, establece las
+estrategias de monitoreo. La estrategia para el monitoreo efectivo toma en cuenta cuales productos
+o servicios son ofrecidos por las entidades financieras, sus tipos de usuarios o clientes, sus flujos de
+fondos, y el área geográfica de su operación, entre otros. Considerando estos factores, la CNBV
+determina cuales instituciones financieras representan un riesgo mayor para poder decidir cuales
+instituciones financieras deben visitarse durante el año (programa anual). Subsecuentemente, se
+realiza un diagnóstico de cada entidad que será visitada, en las actividades más significativas
+(productos con riesgos inherentes) y se revisa la acción correspondiente de mitigación de riesgos
+que han aplicado las instituciones financieras. Como resultado de la visita de inspección, se
+determina una calificación de riesgo para la entidad, la cual al mismo tiempo proporciona la
+información necesaria para determinar la periodicidad de las visitas de inspección de ALA/CFT
+posteriores.
+
+
+HOLANDA
+El Banco Central de Holanda (DNB) es responsable de la supervisión y aplicación de medidas de
+ALA/CFT en los bancos. El DNB aplica un enfoque en base a riesgos a la supervisión de ALA/CFT al
+enfocarse en instituciones que representan el mayor riesgo. Para lograr lo anterior, se requiere
+tener un comprensión muy completa de los riesgos. El DNB analiza la integridad de riesgos en
+diferentes niveles, como son a nivel macro, medio y micro. En un nivel macro el DNB toma en cuenta
+los desarrollos del país y globales que son de importancia para el sector financiero holandés. En un
+nivel medio, el DNB distingue entre los diferentes sectores y en la manera en la cual podrían
+impactar diferentes desarrollos/riesgos en esos sectores. En un nivel micro, el DNB toma en cuenta
+los factores de instituciones específicas las cuales podrían incrementar la vulnerabilidad de esas
+instituciones.
+
+El primer paso en el enfoque en base a riesgos es identificar los riesgos de ALA/CFT a través de
+varias fuentes, tales como las tipologías, inteligencia, comités internacionales y nacionales y otros
+supervisores extranjeros que estén involucrados en la ALA/CFT (i.e. GAFI, CSBB, Autoridades
+Supervisoras Europeas, IAIS).El DNB también toma en cuenta la información recibida de las visitas
+de supervisión. El DNB envía un cuestionario a un grupo de instituciones seleccionadas para tener
+un pulso del nivel de riesgo y medidas de control implementadas. Adicionalmente, el DNB realiza
+una función de análisis de tendencias para monitorear fuentes abiertas de información y detectar
+nuevas tendencias y señales con respecto a la supervisión de ALA/CFT.
+
+Una vez identificados los riesgos, el DNB analiza estos riesgos con base en diferentes criterios tales
+como el impacto potencial en la sociedad y las instituciones y la estabilidad del sector financiero. El
+perfil de riesgo de una institución es determinado con base en dos dimensiones principales, el nivel
+de riesgo de ALA/CFT y el nivel de control. Los factores para la calificación de riesgo inherente que
+toma en cuenta el DNB son el enfoque geográfico, la base de clientes de la institución, los productos
+y servicios y el canal de distribución de la institución. Para el nivel de control el DNB consulta los
+procedimientos de gobierno corporativo y control de una institución, lo adecuado de la función de
+cumplimiento, el historial de cumplimiento, los incidentes y la calidad de las medidas preventivas de
+la institución.
+
+
+
+                                                                                                     32
+
+================ PÁGINA 33 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+SINGAPUR
+La Autoridad Monetaria de Singapur (MAS) adopta un enfoque en base a riesgos en su supervisión
+de Instituciones Financieras (IFs). Este enfoque se encuentra articulado en la monografía pública de
+la MAS denominada “Marco para el Impacto de la Evaluación de Riesgos de Instituciones Financieras”
+En el núcleo de este marco se encuentra el modelo de impacto y riesgos el cual es utilizado para
+evaluar las IFs anuALAente en dos aspectos principales:
+
+                      
+                          Impacto (importancia sistémica relativa): la evaluación del impacto
+                          considera el impacto potencial que la IF puede tener in el sistema financiero
+                          de Singapur y en la economía y reputación de manera general, en presencia
+                          de alguna contingencia. Las instituciones afines son agrupadas de manera
+                          conjunta para una evaluación de su impacto agregado. GenerALAente, entre
+                          mayor sea el rol intermediario de la IF en los mercados financieros críticos
+                          o en la economía, o mayor
+                                                   sea su alcance a clientes minoristas, mayor es la
+                         evaluación del impacto.
+
+                      
+                          Riesgo (perfil de riesgo relativo): la evaluación de riesgo examina los
+                          riesgos inherentes de las actividades comerciales de las IFs, incluyendo
+                          ALA/CFT y la proliferación de riesgos financieros, su habilidad de manejo y
+                          control de esos riesgos, la efectividad de su supervisión y estructura de
+                          gobierno corporativo y lo adecuado de sus recursos financieros para
+                          absorber las pérdidas y permanecer solvente. La evaluación también toma
+                          en consideración vínculos intergrupales, según aplique, entre la IF y sus
+                          entidades afines, y los riesgos que representan otras entidades del grupo
+                          (ej., para un grupo bancario local, los riesgos que implican las subsidiarias
+                          significativas serán agregadas a la entidad bancaria principal y monitoreada
+                          de forma consolidada). Para asegurar robustez y consistencia, la evaluación
+                          de riesgos de IFs de manera individual está sujeta a un proceso de
+                          comparación entre similares, ser desafiado y revisado por otros
+                          supervisores, paneles de personal gerencial o especializado
+                                                                     
+                          experimentados para el caso de IFs clave.
+
+Con base en las evaluaciones combinadas de impacto y riesgo (con el componente del impacto de
+acuerdo con su mayor ponderación), se le asigna a la IF una de cuatro categorías de significancia de
+supervisión, siendo la Categoría 1 la supervisada con mayor intensidad. Las IFs en Categorías 1 y 2
+son supervisadas más detenidamente con recursos destinados de parte de la MAS, estando sujetas a
+inspecciones más frecuentes, y su evaluación de riesgos es aprobada por miembros de mayor nivel
+administrativo.
+
+El enfoque en base a riesgos de la MAS contempla tanto supervisiones in situ como extra situ. La
+supervisión extra situ. de la MAS involucra un monitoreo continuo de bienestar financiero e
+indicadores de riesgos de las IFs, desarrollos de negocios en su país de origen, y toma en cuenta las
+tendencias en el sector financiero. La MAS también revisa los reportes regulatorios y de auditoría de
+las IFs, y lleva a cabo reuniones regulares con la alta dirección de las IFs, auditores y supervisores
+domésticos. Las preocupaciones que impacten la seguridad y sana operación de las IFs son
+atendidas de forma expedita.
+
+
+
+
+                                                                                                    33
+
+================ PÁGINA 34 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+SUDÁFRICA
+Departamento de Supervisión Bancaria del Proceso de Supervisión de SARB - enfoque en
+base a riesgos a inspecciones in situ.
+Debido a la limitación de recursos, en la práctica no es posible ampliar el enfoque de las
+inspecciones de ALA/CFT para cubrir todas las áreas dentro de un banco, ni tampoco es posible
+inspeccionar todos los bancos dentro de un año calendario. Por lo tanto, el Equipo de Revisión de
+ALA, en la ejecución de sus tareas de supervisión, ha adoptado un enfoque en base a riesgos en la
+programación y conducción de inspecciones de ALA/CFT de las instituciones responsables (bancos)
+que supervisan.
+
+
+Metodología en base a riesgos:
+
+                     
+                         El equipo de Revisión de ALA siempre solicitará la propia evaluación
+                                                                                             de
+                         riesgos de ALA del banco por motivos de inspección y revisión;
+                     
+                         Como parte de los elementos de revisión de la evaluación de riesgos del
+                         banco, se debe solicitar una lista de productos
+                                                                      y servicios ofrecidos por el
+                         banco, alineadas con cada unidad de negocio.
+                     
+                         El equipo de Revisión de ALA debe evaluar el proceso de evaluación de
+                         riesgos de ALA del banco para determinar si el   banco ha identificado
+                         adecuadamente el nivel de riesgos que ha asumido;
+                     
+                         En la ausencia de una evaluación de riesgos de LA de un banco en
+                         particular, el equipo de Revisión de ALA debe realizar su propia evaluación
+                         de riesgos con base en la estructura proporcionada porel banco y los
+                         factores de riesgo inherentes de las actividades del banco;
+                     
+                         Si la evaluación de riesgos del banco fuese inadecuada, el Equipo de
+                         Revisión de ALA debe completar
+                                                        su propia evaluación de riesgos como se
+                         menciona anteriormente;
+                     
+                         La prueba de adecuación de la evaluación de riesgos del banco o completar
+                         la evaluación de riesgos del banco propia del equipo
+                                                                                  debe realizarse
+                         específicamente para una inspección en particular.
+                     
+                         Los factores utilizados en la compilación de la evaluación de riesgos deben
+                         compararse contra las Recomendaciones del GAFI, los Principios
+                         Fundamentales de Basilea para la Supervisión Bancaria Efectiva, así como
+                         con las tipologías de lavado de dinero y financiamiento
+                                                                                   al terrorismo de
+                         conocidas por parte de autoridades competentes.
+                     
+                         Las actividades de instituciones bancarias, productos, ubicaciones
+                         geográficas y tipos
+                                        de clientes deben ser segmentadas como de riesgo alto,
+                         medio y bajo.
+                     
+                         Con base en la evaluación de riesgos (alto, medio y bajo), el Equipo de
+                         Revisión de ALA debe, posteriormente, desarrollar un enfoque de la
+                         inspección tomando en cuenta las actividades
+                                                                        de ALA de alto riesgo
+                         identificadas de la evaluación de riesgos.
+                                                                                                 
+                       GAFI requiere que los países tomen medidas apropiadas para identificar y
+                       evaluar los riesgos de lavadode dinero y terrorismo para todo el país en
+                       una base permanente para:
+                                                                                          
+                       informar de cambios potenciales del régimen de ALA/CFT del país,
+                                                                                                 34
+
+================ PÁGINA 35 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+                                                                                
+                          incluyendo cambios a leyes, regulaciones y medidas;
+                      
+                          dar asistencia en localizar y priorizar
+                                                                 los recursos de ALA/CFT por parte de
+                          autoridades competentes; y
+                     
+                          poner la información
+                                              disponible para evaluaciones de ALA/CFT conducidas
+                          por bancos.
+
+REINO UNIDO
+La Autoridad de Conducción Financiera (FCA) clasifica a todas las entidades de acuerdo con el riesgo
+que representan para los objetivos de operación y estatutarios de la FCA. También clasifica a todas
+las entidades que están sujetas a la legislación de ALA del Reino Unido de acuerdo con su riesgo de
+lavado de dinero. Lo anterior tomando en cuenta que el riesgo de lavado de dinero no se
+correlaciona necesariamente con el tamaño de una entidad. Como resultado, una entidad en una
+categoría menor de conducción de riesgos puede recibir relativamente mayor atención de
+supervisión desde una perspectiva de ALA/CFT.
+Al clasificar a las entidades de acuerdo al riesgo de lavado de dinero, la FCA considera un número de
+factores.
+Estos incluyen la naturaleza del negocio de la entidad, los productos y servicios que ofrece y las
+jurisdicciones dónde está localizada y opera.
+
+La evaluación de riesgos y el criterio que utiliza la FCA para informar, son revisados periódicamente
+y las entidades pueden ser reclasificadas sin mayor retraso según corresponda.
+
+ESTADOS UNIDOS
+Los procesos de supervisión de las Agencias Bancarias Federales (FBAs) evalúan si las instituciones
+depositarias han establecido adecuadamente sus políticas, procedimientos y procesos con base en
+sus riesgos de la Ley del Secreto Bancario (LSB) y/ALA para identificar y reportar actividades
+inusuales y para que proporcionen reportes en suficiente detalle para remitir a las agencias de
+orden público y que éstas utilicen la información en su investigación de operaciones inusuales
+reportadas. Para asegurar la consistencia en la aplicación de requerimientos de la LSB/ALA, las
+FBAs aplican los procedimientos de examinación determinados por el Consejo de Examinación de
+Instituciones Financieras Federales (FFIEC) contenidos en el Manual de Examinación de Prevención
+de Lavado de Dinero/Ley de Secreto Bancario. Para aplicar con efectividad los recursos y asegurar el
+cumplimiento con los requerimientos de la LSB, el Manual está estructurado para permitir a los
+examinadores preparar el enfoque y los procedimientos de la examinación de LSB/ALA de acuerdo
+al perfil de riesgos específico de la institución depositaria. También proporciona al sector privado
+un "mapa" claro de las expectativas de supervisión de la FBA con respecto a los procedimientos que
+aplicarán los examinadores en la evaluación de la efectividad del programa de cumplimiento. Los
+FBAs comunican sus expectativas informALAente al sector privado por medio de un diálogo
+continuo con los consejos de administración y altas direcciones y formALAente a través del Manual
+de Examinación FFIEC LSB/ALA, guías e interacción en talleres y seminarios para bancos basados en
+su tamaño, ubicación, tipo de producto y otros factores y por medio de encuentros verbales
+patrocinados por instituciones comerciales y
+
+asociaciones industriales. El Manual de Examinación FFIEC LSB/ALA contiene secciones de riesgos
+identificados asociados con productos y servicios y personas y entidades que incorporan
+información del orden público de reportes tales como el de Estrategia Nacional de E.U. en
+
+
+                                                                                                    35
+
+================ PÁGINA 36 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+Prevención al Lavado de Dinero y la Evaluación de E.U. de Amenazas del Lavado de Dinero; el
+diálogo continuo con los representantes del orden público a nivel nacional, estatal y local y los
+riesgos identificados por los examinadores FBA con base en la información proporcionada por los
+responsables del orden público. Esta información es utilizada también para preparar y proporcionar
+una guía detallando las expectativas de supervisión para la administración de riesgos relacionada
+con las vulnerabilidades identificadas en la jurisdicción y dar un enfoque en la planeación de
+exámenes.
+
+
+ Ejemplos de diferentes enfoques utilizados por supervisores bancarios in situ y extra situ
+            para la supervisión de LA/FT en línea con los riesgos identificados
+
+
+AUSTRALIA
+La fase actual de supervisión de AUSTRAC incluye la detección de entidades de alto riesgo para
+actividades de supervisión, y para probar la efectividad de los sistemas y controles implementados
+por las entidades. AUSTRAC ha desarrollado técnicas de minería de datos que escanean la totalidad
+de las entidades reguladas para traer a la luz asuntos y vulnerabilidades que afecten la eficiencia de
+las tareas de reporteo de las entidades. Por medio de estas técnicas, AUSTRAC es capaz de
+identificar entidades de reporteo individual cuyas características de comportamiento son atípicas a
+las de sus similares. AUSTRAC utiliza esta información para identificar entidades que requieran un
+mayor esfuerzo de supervisión, particularmente en sectores de bajo riesgo.
+
+Una vez que AUSTRAC identifique el riesgo y significado de los riesgos de LA/FT, determina el nivel
+y el tipo de compromiso requerido con un Grupo ER con base en una evaluación de sus riesgos de
+cumplimiento. (El riesgo de cumplimiento se define como el riesgo de que un Grupo ER no cumpla
+con sus obligaciones regulatorias, y es una medida diferente al riesgo de LA/FT de una entidad. Una
+entidad puede tener un riesgo alto de LA/FT pero tener un enfoque fuerte en sus obligaciones
+regulatorias, o sea que su calificación de riesgo de cumplimiento será bajo).
+
+AUSTRAC utiliza un rango de técnicas de cumplimiento para evaluar lo adecuado de las políticas,
+prácticas, sistemas y controles de Grupos ER para cumplir con los requerimientos de la Ley de
+ALA/CFT, incluyendo:
+
+                      
+                          Actividades de bajo impacto o “compromiso”, como procesos de
+                          reclutamiento, envíos de correos electrónicos, cartas electrónicas,
+                                                                                             foros,
+                          talleres y el desarrollo y distribución de materiales de guía.
+                      
+                          Actividades de intensidad moderada o “elevada” tales como procesos
+                          asociados con el registro de remitentes, evaluación de comportamientos,
+                          exámenes preliminares, revisiones temáticas, y monitoreo de operaciones
+                          dirigidas a comportamientos
+                                                      específicos de grupos de edades de entidades
+                          reportadoras.
+                      
+                          Actividades de alta intensidad o “escalada” tales como evaluaciones in
+                          situ y enfoque de administración dedicado. AUSTRAC delinea estas
+                          actividades para las entidades reportadoras individuales. Están diseñadas
+                          para tener un impacto directo en el mejoramiento de los resultados de
+                          cumplimiento.
+
+
+
+
+                                                                                                      36
+
+================ PÁGINA 37 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+ALEMANIA
+Las inspecciones in situ contienen:
+                      
+                          Inspecciones
+                                      regulares anuales, llevadas a cabo in situ por auditores
+                          externos, e
+                      
+                          Inspecciones especiales/dirigidas, en una base regular o respecto a
+                          circunstancias específicas realizadas por auditores externos
+                                                                                      (o en
+                          representación del supervisor) o por el mismo supervisor.
+
+Los empleados de la autoridad supervisora acompañan a los auditores externos en todas las
+inspecciones especiales/dirigidas y en algunas inspecciones anuales regulares.
+
+De acuerdo con la Ley Bancaria, la autoridad supervisora es capaz de decretar prioridades temáticas
+durante el curso de inspecciones regulares in situ. Esto se puede hacer para verificar la
+implementación de nuevas disposiciones de la ley ALA o cuando sean detectados cierto tipo de
+deficiencias en una universo de reportes anuales de diferentes instituciones financieras.
+Supervisión extra situ:
+                      
+                          El reporte anual contiene un anexo en dónde se resaltan los resultados
+                          principales en uno o dos párrafos breves, con respecto a una calificación.
+                          Dependiendo de la clasificación individual de riesgos de una institución
+                          financiera, en ciertos casos de bajo riesgo se realiza una "revisión expedita" de
+                          este anexo y el reporte anual completo es evaluado únicamente
+                                                                                             ("verificación
+                          intensiva") en caso de malas puntuaciones en este anexo.
+                      
+                          Después de realizar la evaluación de reportes de inspecciones in situ y
+                          dependiendo de los hallazgos, se conduciráel procedimiento de
+                          seguimiento con un nivel diferente de intensidad.
+                      
+                          Se puede solicitar información detallada por escrito sobre las medidas de
+                          ALA aplicadas a grupos específicos de clientes /productos, o se puede
+                          organizar una consulta
+                                              con el oficial de cumplimiento bancario responsable
+                          del cumplimiento.
+                      
+                          Se puede solicitar una presentación de las medidas internas de seguridad
+                          implementadas; dependiendo de la importancia del sistema y las
+                          limitaciones analizadas, un experto externo puede ser asignado   para la
+                          verificación de la operación correcta del sistema implementado.
+MÉXICO
+La supervisión de ALA/CFT en México se compone de las siguientes etapas:
+
+                      
+                          A las instituciones financieras se les asigna una calificación de riesgo
+                          utilizando el modelo de EBR. La información es solicitada periódicamente a
+                          instituciones financieras para elaborar un reporte regulatorio y el análisis
+                          extra situ se realiza con base en esta información. La información obtenida
+                          es consolidada en la misma matriz de riesgos utilizada para determinar el
+                          nivel de riesgos de la entidad. Con base en estos resultados, la CNBV
+                          determina la frecuencia con la cual una institución bancaria será visitada
+                          para supervisar su cumplimiento con la legislación y regulaciones de
+                          ALA/CFT; incluyendo la implementación de medidas de mitigación de
+                                      
+                          riesgos de
+
+
+                                                                                                          37
+
+================ PÁGINA 38 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+                         ALA/CFT.
+
+
+
+                       Con base en la calificación de riesgos de una institución financiera, se
+                         determina una estrategia de monitoreo para la supervisión in situ
+                         enfocándose en los factores de riesgo más altos identificados en la fase
+                         anterior. Lo anterior se robustece con un diagnóstico que permite acotar
+                         actividades significativas (productos y servicios) determinadas como de
+                         mayor riesgo y la efectividad de mitigantes específicos implementados por
+                         la institución financiera para dichas actividades.
+
+                     
+                         Durante las inspecciones in situ, los supervisores solicitan información y
+                         documentación para confirmar si el nivel de riesgos asignados
+                         previamente a la institución bancaria es adecuado, y conducir sus
+                         inspecciones de forma adecuada. Los supervisores ponenmayor énfasis
+                         en aquellos aspectos considerados como de mayor riesgo.
+                     
+                         De acuerdo con los resultados de las inspecciones, se pueden llevar a
+                         cabo varios actos de autoridad, incluyendo la emisión de observaciones y
+                         recomendaciones,
+                                         así como la implementación de acciones correctivas
+                         y/o sanciones.
+
+FinALAente, los resultados de la inspección son tomados en cuenta para ya sea confirmar el nivel de
+riesgo o asignar uno nuevo a la entidad bajo supervisión. Esta nueva información es agregada a la
+matriz de supervisión extra situ, lo cual ayuda a determinar la programación el siguiente monitoreo
+de la entidad (estrategia de supervisión).
+
+HONG KONG, CHINA
+La Autoridad Monetaria de Hong Kong (HKMA) supervisa los sistemas de ALA/CFT de los bancos
+por medio de una combinación de examinaciones in situ y revisiones extra situ, los cuales se integran
+como parte de un proceso más amplio de supervisión bancaria. La supervisión de ALA/CFT es con
+base en riesgos, y la frecuencia, intensidad y enfoque de las actividades de supervisión son
+vinculadas al perfil de ALA/CFT de bancos de manera individual, tomando en cuenta tanto el
+impacto al sistema financiero como el nivel de riesgos. Las examinaciones in situcomprenden
+examinaciones enfocadas a riesgos y examinaciones temáticas, las cuales son parte de un ciclo,
+culminando en mejores prácticas proporcionadas a los bancos en foros de capacitación, los cuales
+son conducidos anuALAente.
+
+Para ilustrar el enfoque en la práctica, en el año 2012, la HKMA condujo revisiones temáticas para 9
+bancos sobre reporteo de operaciones inusuales (STR). Como resultado de las observaciones
+realizadas, en el primer y segundo trimestre de 2013 otros 107 bancos fueron sujetos a revisiones
+de gabinete de algo nivel por STRs, con un enfoque de mitigación de riesgos en post-reporteo. Con
+base en los riesgos identificados, 26 bancos fueron seleccionados para revisiones de gabinete
+posteriores más intensivas, incluyendo de políticas y procedimientos y acciones realizadas para la
+mitigación de riesgos de LA/FT. Se determinaron acciones de supervisión de seguimiento en base a
+riesgos, incluyendo el requerimiento de acciones adicionales por parte de los bancos, revisiones de
+auditores externos y otras 4 examinaciones temáticas in situlos cuales incluyen entrevistas con
+personal operativo clave y revisiones de procesos de STRs. Los hallazgos de esta iniciativa de
+supervisión fueron comunicados a los bancos en seminarios de capacitación celebrados en Octubre
+de 2012 y Abril de 2013, y fueron tema de un caso para guía, desarrollado en colaboración con la
+Unidad de
+
+                                                                                                    38
+
+================ PÁGINA 39 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+Inteligencia Financiera Conjunta, emitida el 16 de Diciembre del 2013.
+
+
+ITALIA
+El Banco de Italia utiliza una combinación de supervisión in situy extra situ. El análisis extra situes
+sistemático, llevado a cabo en intervalos preestablecidos, con base en el análisis de datos e
+información que los bancos reportan al Banco de Italia (BI) (reporte anual de función de
+cumplimiento de ALA; reportes de organismos de control sobre irregularidades específicas, reportes
+de seguimiento post-inspección, etc.). Más aún, cuando resulta necesario, el BI lleva a cabo
+reuniones dedicadas a asuntos de ALA con miembros del consejo directivo u oficiales de
+cumplimiento de ALA para recabar información relevante y discutir iniciativas.
+Con base en los resultados del análisis extra situ, se planean y llevan a cabo inspecciones. Las
+inspecciones pueden ser de: alcance total, direccionadas (áreas de negocio, riesgos específicos,
+perfiles operacionales, seguimiento a acciones correctivas) y temáticas. Después de la entrada en
+vigor de la Ley de ALA Italiana en el año 2008, el Banco de Italia revisó sus procedimientos de
+control in situ: Los controles de ALA pueden ser conducidos en el marco de inspecciones generales
+in situo por medio de inspecciones temáticas sobre el cumplimiento de ALA.
+
+En el año 2008, el Banco de Italia inauguró ciclos anuales de inspecciones de ALA in situ para
+sucursales de bancos en áreas de alto riesgo para conducir una evaluación de la implementación de
+reglas de ALA en las operaciones día a día. La evaluación consiste en la realización de visitas cortas
+in situ (3/5 días) a un número preseleccionado de sucursales localizadas en áreas rurales donde
+presumiblemente hayan actividades que representen riesgos criminales específicos (crimen
+organizado, evasión de impuestos, contrabando de tabaco, agiotismo, etc.). Las visitas son
+conducidas utilizando un cuestionario sobre las obligaciones de ALA (DDC, registro, reporteo y
+capacitación) para verificar el cumplimiento del personal de la sucursal con respecto a las
+leyes/regulaciones de ALA y las regulaciones internas de los bancos; también se realiza una prueba
+de muestras de posiciones de clientes individuales. Cuando los hallazgos de las visitas indiquen
+deficiencias mayores, se solicita que se realicen acciones correctivas.
+
+La UIF Italiana también verifica el cumplimiento de las instituciones financieras, tanto in situcomo
+fuera extra situcon respecto a las tareas de reporteo de operaciones inusuales y casos de omisión de
+reportes de STRs principALAente en una base a EBR. Las áreas de riesgo se reconocen por la
+información transmitida por las autoridades que ejecutan el cumplimiento de la ley, , autoridades
+supervisoras del sector financiero, asociaciones profesionales y otras UIFs. En caso de infracciones o
+desórdenes organizacionales mayores en la institución financiera, la coordinación cercana con el
+Banco de Italia y otras autoridades de supervisión es asegurada por Memorandos de Entendimiento
+(MoUs). Se garantiza también la retroalimentación a las intermediarias sobre acciones correctivas
+en caso de que la detección y valuación de STRs resulte crítica.
+
+FRANCIA
+El supervisor financiero Francés (Autorité de Contrôle Prudentiel et de Résolution, APCR) implementa
+un enfoque multinivel para la evaluación de riesgos de LA/FT, y de la supervisión de ALA/CFT del
+sector financiero:
+
+                      
+                          Cuestionario anual de ALA/CFT: las respuestas al cuestionario son
+                          estudiadas sistemáticamente por los servicios de control extra situ. Se
+                          definen varios niveles de prioridad. La naturaleza y límite de tiempo para
+                                                                                                    39
+
+================ PÁGINA 40 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+                           
+                          establecer
+
+                          acciones correctivas depende de   la seriedad y de las deficiencias reveladas
+                          en las respuestas al cuestionario.
+
+                          El cuestionario para instituciones de crédito, sociedades de inversión, e
+                          instituciones de seguros de vida reflejan las Recomendaciones revisadas del
+                          GAFI, y resaltan los asuntos clave tales como el EBR. También toma en
+                          cuenta los resultados del análisis de inspecciones temáticas de ALA/CFT (ej.
+                          servicios de administración patrimonial). Se agregan preguntas específicas
+                          para los grupos financieros, así como preguntas   sectoriales dirigidas a los
+                          sectores bancarios y de seguros respectivamente.
+                                                                                           
+                          Se utilizan diferentes herramientas para el control extra situ:
+                                   o    Reportes internos de auditoría
+                                   o    Reportes de inspección in situ.
+
+                                   o   La información obtenida durante las reuniones (reuniones
+                                       anuales y otras reuniones relevantes)
+
+                                   o   Reportes anuales de control interno, con un resumen del
+                                       negocio conducido y los riesgos incurridos por la institución;
+                                       cambios significativos realizados en el sistema de control
+                                       interno; gobierno corporativo; riesgos de lavado de dinero y
+                                       financiamiento al terrorismo.
+HOLANDA
+El DNB realiza tanto la supervisión in situcomo extra situen base a riesgos. Adicionalmente a los
+ciclos de supervisión vigentes, el DNB realiza revisiones temáticas las cuales son revisiones
+profundas de una área de riesgos específica de una selección de instituciones. Las revisiones
+temáticas permiten las prácticas de comparación del DNB, identifica prácticas atípicas y mejores
+prácticas. El proceso de supervisión temática inicia con la selección de temas basados en análisis de
+riesgos, revisiones de años previos o asuntos de incidentes/cumplimiento reconocidos como
+resultado de la supervisión en curso.
+
+Las entidades que serán visitadas son seleccionadas con base en un número de criterios tales como
+el tamaño del negocio, el perfil de riesgos, experiencias previas en faltas a cumplimiento, etc. Previo
+a las visitas in situ, se solicita información a las instituciones que serán revisadas (tales como
+políticas y procesos, operaciones, reportes de operaciones inusuales, información de clientes, etc.).
+Durante la visita in situ, se realizan y analizan discusiones con la dirección, muestreo de expedientes
+de clientes u operaciones según sea conducente y una examinación de la evaluación de riesgos de la
+institución y procedimientos de administración de riesgos.
+
+
+REINO UNIDO
+La Autoridad de Conducta Financiera (FCA) asigna recursos de especialistas supervisores de
+acuerdo con el nivel de riesgo de lavado de dinero asociado con una entidad y según se
+
+requiera dependiendo del nivel de riesgos. Esto involucra tanto las evaluaciones in situcomo extra
+situde lo adecuado de los sistemas y controles de ALA/CFT de las entidades.
+
+Las evaluaciones incluyen el análisis de los retornos regulatorios (los cuales incluyen
+                                                                                                     40
+
+================ PÁGINA 41 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+cuestionamientos sobre delitos financieros específicos), políticas y procedimientos, reportes de
+auditoría, minutas de reuniones, reportes de visitas previas de supervisión y, cuándo sea relevante,
+la inteligencia obtenida por medio de fuentes externas.
+Las visitas in situincluyen entrevistas con personal clave, probando los controles de ALA/CFT de la
+entidad y revisiones de archivos.
+
+El enfoque y detalle de tanto las revisiones in situcomo extra situson determinadas por los motivos
+de la revisión, ej. revisiones planeadas como parte del programa de supervisión en curso de las FCAs
+o sugerencias de que un riesgo se ha cristalizado.
+
+
+      Ejemplos de frecuencia diferida de supervisión en línea de LA/FT con identificación de
+                                             riesgos
+
+AUSTRALIA
+La frecuencia de supervisión de AUSTRAC se correlaciona con el riesgo de cumplimiento asociado
+con el Grupo RE. Un indicador clave del desempeño para AUSTRAC es llevar a cabo una evaluación
+de cada Grupo ER de alto riesgo dentro de un periodo de tres años. En paralelo, AUSTRAC ha
+desarrollado técnicas de minería de datos que escanean la totalidad de la población regulada para
+traer a la luz asuntos y vulnerabilidades que afecten la eficiencia de las tareas de reporteo de las
+entidades. Por medio de estas técnicas, AUSTRAC es capaz de identificar entidades de reporteo
+individual cuyas características de comportamiento son atípicas a las de sus similares. AUSTRAC
+utiliza esta información para identificar entidades que requieran un mayor esfuerzo de supervisión,
+particularmente en sectores de bajo riesgo.
+
+ALEMANIA
+Los aspectos de frecuencia para inspecciones in situson entre otras:
+
+                      
+                          Instituciones de crédito con el balance general total debajo de un umbral
+                          específico requieren ser evaluadas en basebianual, excepto si ciertos
+                          factores de riesgo indicasen un riesgo mayor.
+                      
+                          Las inspecciones especiales son conducidas con mayor frecuencia con respecto
+                          a "grandes jugadores" en el mercado financiero, dada la complejidad de su
+                          negocio el cual requiere que suinformación sea actualizada con mayor
+                          frecuencia de parte del supervisor.
+                      
+                          Se pueden conducir inspecciones especiales de forma regular si la institución
+                          financiera
+                                   presenta una clasificación de riesgos alta, independientemente de su
+                          tamaño.
+                      
+                          En el caso de haber evidencias de deficiencias serias en reportes previos en
+                          algunas ocasiones
+                                           se llevarán a cabo inspecciones adicionales o de enfoque
+                          especial.
+                      
+                          Las inspecciones especiales podrán ser conducidas según sean requeridas
+                          en caso de que se revelen "malas noticias" con respecto de LA/FT por medio
+                          investigaciones de carácter oficial, , periódicos, denunciantes, consultas en
+                          internet. etc.
+MÉXICO
+La frecuencia de la supervisión de ALA/CFT es determinada tomando en cuenta las calificaciones de
+riesgo proporcionadas a las instituciones financieras, así como de los siguientes factores, entre
+
+                                                                                                     41
+
+================ PÁGINA 42 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+otros:
+                      
+                          Incrementos inusuales en el   número y umbral de operaciones realizadas
+                          por las entidades financieras.
+                      
+                          Incrementos en los STRs   o reportes de operaciones relavantes CTRs, y
+                          otros tipos de reportes.
+                                                                                       
+                          Cambio del perfil de negocios de la institución financiera.
+                                                                                       
+                          Nuevos productos financieros o nuevas líneas de negocio
+                      
+                          El nivel de cumplimiento de las instituciones financieras con sus
+                          obligaciones regulatorias (entrega de programa de ALA/CFT
+                                                                                   a la autoridad
+                          y remisión de reportes de forma oportuna, entre otros).
+
+La frecuencia de la supervisión de ALA/CFT también está sujeta a las medidas de seguimiento
+correctivas, incluyendo planes y fechas de cumplimiento específicas.
+
+HOLANDA
+Con base en los riesgos percibidos el DNB destina sus recursos de supervisión a través de la
+supervisión continua y revisiones temáticas. Esto aplica tanto a la frecuencia como a la intensidad de
+las supervisiones de ALA/CFT En las revisiones en curso el DNB asigna más recursos a instituciones
+con un perfil de mayor riesgo (con base en su tamaño, actividades, historial de cumplimiento, etc.).
+En las revisiones temáticas se examina un área de alto riesgo/sujeto específico para una selección de
+instituciones.
+
+
+REINO UNIDO
+La Autoridad de Conducción Financiera del Reino Unido (FCA) categoriza a las entidades de acuerdo
+con su riesgo de lavado de dinero:
+
+                      
+                          Las entidades con el umbral más alta son cubiertas por el Programa de ALA
+                          Sistemático El programa opera en un ciclo de cuatro años y cada programa
+                          tiene varios meses de duración.
+                      
+                          Las entidades en la segunda categoría son sujetas a un programa de inspección   
+                          regular in situ consistente en visitas in situde dos o tres días cada dos años.
+                      
+                          Las entidades con el menor riesgo son visitadas con base en la ocurrencia
+                                                                                            
+                          de eventos o cuando son parte de una muestra o revisión temática.
+
+Todas las firmas están sujetas e supervisión a causa de eventos y forman parte de las revisiones
+temáticas.
+
+ESTADOS UNIDOS
+Se requiere por ley que las Agencias Bancarias Federales (FBAs) conduzcan examinaciones de la Ley
+de Secreto Bancario (LSB) de instituciones depositarias aseguradas como parte de su funciones
+
+supervisoras prudenciales generales. Dichas revisiones son conducidas durante examinaciones
+regulares de sus instituciones depositarias en ciclos de 12 a18 meses, lo cual es requerido por
+estatuto (12 U.S.C. §§ 1820(d) y 1784). La supervisión y regulación de instituciones depositarias en
+cumplimiento con el BSA son conducidas a través de una combinación de examinaciones in situ y
+                                                                                                         42
+
+================ PÁGINA 43 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+revisiones extra situ. Las políticas y procedimientos de examinaciones BSA de FBA son establecidas
+en el Manual de Examinación de Prevención de Lavado de Dinero/Ley de Secreto Bancario del Consejo
+de Examinación de Instituciones Financieras Federales (FFIEC). Se requiere que las FBAs conduzcan
+los procedimientos principales de examinación en la evaluación del cumplimiento con el programa
+de cumplimiento de LSB/ALA, requerimientos regulatorios y temas relacionados. Se requieren
+procedimientos ampliados para productos, servicios personas y entidades dependiendo del riesgo.
+Se requiere realizar pruebas de operaciones durante cada examinación independientemente del
+nivel y naturaleza del riesgo presente en la institución. Para instituciones mayores más complejas,
+algunas FBAs mantienen examinadores residentes in situquienes proporciones supervisión continua
+de la institución y obtienen cuando menos actualizaciones trimestrales de la condición de la
+institución y su evaluación de riesgos.
+
+
+
+
+                                                                                                43
+
+================ PÁGINA 44 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+
+   Ejemplos de ajustes en la intensidad de la supervisión de LA/FT en línea con los riesgos
+                                        identificados
+
+
+AUSTRALIA
+Como se describió anteriormente, AUSTRAC utiliza un rango de técnicas de cumplimiento para
+evaluar lo adecuado de las políticas, prácticas, sistemas y controles del Grupo ER para cumplir con
+los requerimientos de la Ley de ALA/CFT, incluyendo:
+
+                      
+                          Actividades de bajo impacto o “compromisos”, como procesos de
+                          reclutamiento, envíos de correos electrónicos, boletines informativos
+                          electrónicos,
+                                       foros, talleres y el desarrollo y distribución de materiales de
+                          guía.
+                      
+                          Actividades de intensidad moderada o “elevada” tales como procesos
+                          asociados con el registro de remitentes, evaluación de comportamientos,
+                          exámenes preliminares, revisiones temáticas, y monitoreo de operaciones
+                          dirigidas a comportamientos
+                                                      específicos de grupos similares de entidades
+                          reportadoras.
+                      
+                          Actividades de alta intensidad o “escalada” tales como evaluaciones in situ
+                          y enfoque de administración dedicado. AUSTRAC delinea estas
+                          actividades para las entidades reportadoras individuales. Están diseñadas
+                          para tener un impacto directo en el mejoramiento de los resultados de
+                          cumplimiento.
+
+Cuando se realice la evaluación de una entidad con riesgo alto inherente de LA/FT y que muestre
+tener políticas, prácticas, sistemas y controles implementados inadecuados para atender su
+cumplimiento del riesgo, estas entidades son priorizadas para acciones de remediación y/o
+ejecución.
+
+Los procesos de remediación se realizan mediante la emisión de un reporte de evaluación de
+cumplimiento a una entidad, y requiere que dicha entidad tome acciones específicas para la
+remediación del incumplimiento en tiempos específicos. Posteriormente AUSTRAC monitorea la
+entidad contra esos requerimientos.
+
+ALEMANIA
+BaFin ha establecido una matriz de riesgos para instituciones de crédito (ver punto anterior),
+seguida por la intensidad de la supervisión después de la clasificación de riesgos de cada institución.
+Las razones principales para este enfoque son la necesidad de concentración en las áreas de riesgo
+mayores y la necesidad de destinar recursos en donde sean mayormente requeridos.
+Las diferencias en los niveles de intensidad supervisora incluyen:
+
+                      
+                          Las inspecciones in situ siempre incluyen pruebas de muestreo. Si
+                          apareciesen muchas deficiencias en un cierto campo (ej. proceso de
+                          identificación de clientes), esto puede conducir a lo que se conoce como
+                          "verificación total" (i.e. se verifica el proceso de identificación
+                                                                                             de todos los
+                          nuevos clientes adquiridos en los últimos 6 meses)
+                      
+                          Se pueden tomar pasos de escalado en el procedimiento de seguimiento
+                          en las inspecciones in situ. Las instituciones son tomadas
+                                                                                 en cuenta de
+                          forma individual cuando ocurren eventos específicos.
+                                                                                                         44
+
+================ PÁGINA 45 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+MÉXICO
+La CNBV aplica la metodología establecida en el Manual Institucional de Supervisión, el cual
+contiene una descripción detallada de todos los procedimientos que deben ser llevados a cabo para
+evaluar actividades significativas (productos y servicios) de mayor riesgo que son determinados por
+el área de supervisión EXTRA situ, así como la efectividad de las acciones mitigantes implementadas
+por la institución financiera.
+
+Durante las inspecciones, si el supervisor a cargo determina que algunas acciones de mitigación de
+riesgos que no fueron cubiertas originALAente en el programa de supervisión correspondiente
+deben der revisadas en virtud de tener evidencia de debilidad en su implementación o efectividad,
+tendrá la facultad de conducir una revisión más profunda y comprensiva. Ej, si con base al reporte
+de operaciones, se detecta una deficiencia en el sistema automatizado del banco, el supervisor debe
+proceder a verificar el sistema para detectar la causa real de la deficiencia.
+
+
+HOLANDA
+DNB destina sus recursos de supervisión a través de la supervisión continua y revisiones temáticas.
+Esto aplica tanto a la frecuencia como a la intensidad de las supervisiones de ALA/CFT El enfoque
+del DNB con respecto a la supervisión hace una distinción entre los diferentes regímenes, por
+ejemplo bajo, neutral, alto y urgente. A cada institución se le asigna un régimen de supervisión
+específico, con base en una evaluación de la probabilidad de que el riesgo identificado dentro de una
+institución pueda dañar los objetivos de supervisión. El perfil de riesgos de una institución es la base
+para esto. Los regímenes de supervisión establecen el tono para las actividades de mitigación de
+riesgos cuyos rangos varían desde no intervención sustancial hasta intervención inmediata en
+dónde son aplicadas todas las medidas posibles para la mitigación del riesgo.
+
+
+REINO UNIDO
+La Autoridad de Conducción Financiera del Reino Unido (FCA) categoriza a las firmas de acuerdo
+con su riesgo de lavado de dinero. Esta categorización determina la intensidad y frecuencia de la
+supervisión de ALA/CFT.
+
+                      
+                          Las firmas con el umbral más alto son cubiertas por el Programa de ALA
+                          Sistemático (SALAP). Estas firmas están sujetas a la supervisión más
+                          intensiva de ALA/CFT, la cual consiste en entrevistas extensivas con el
+                          personal clave, incluyendo la alta dirección, oficinas de cumplimiento y
+                          atención al cliente tanto en el Reino Unido como en cualquier otro lado, así
+                          como realizar pruebas detalladas de los sistemas y controles de ALA/CFT
+                          de la entidad. Un SALAP  típico tiene una duración de varios meses y se
+                          repite cada cuatro años.
+                      
+                          Las entidades en el segundo umbral o categoría son sujetas a un programa
+                          de inspección
+                                     regular consistente en visitas in situde dos o tres días cada
+                          dos años.
+                      
+                          Las entidades en las categorías menores son supervisadas principALAente a
+                          través de revisiones temáticas y supervisiones reactivas por evento. Las
+                          revisiones temáticas típicamente involucran una evaluación extra situ de las
+                          políticas y procedimientos de la entidad
+                                                                  y pruebas detalladas y entrevistas
+                          durante la visita in situ que tienen
+
+                          una duración entre dos y tres días, dependiendo del tamaño de la entidad y
+                                                                                                   45
+
+================ PÁGINA 46 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+                         la complejidad de sus operaciones. La intensidad de una supervisión
+                                                                                            por
+                         evento depende de la naturaleza del incumplimiento sospechado.
+
+
+                  Ejemplos de diferentes enfoques a guías de supervisión
+
+
+
+AUSTRALIA
+Se encuentra disponible un amplio rango de Información sobre las obligaciones de reporteo de
+ALA/CFT en Australia en el sitio web (www.austrac.gov.au), incluyendo:
+
+Notas de Ayuda
+Las notas de ayuda de AUSTRAC contienen información sobre las disposiciones legislativas para
+proporcionar asistencia a las entidades reportadoras en el cumplimiento de sus obligaciones. Las
+notas    de    lineamientos      vigentes    pueden     encontrarse    en    el    sitio    web
+www.austrac.ov.au/guidance_notes.htLA.
+
+Guías
+AUSTRAC ha publicado las siguientes Guías para ALA/CFT, las cuales están disponibles en
+www.austrac.ov.au/guides.htLA.
+
+                     
+                         La guía de cumplimiento de ALA/CFT para pubs y clubs, para dar asistencia a
+                         clubs que tengan licencia para operar máquinas electrónicas de juegos,
+                         para cumplir
+                                    con sus requerimientos bajo la Ley y Reglamento de
+                         ALA/CFT.
+                     
+                         La guía para cumplimiento de ALA/CFT para operadores independientes de
+                         remesas, para asistir a los proveedores de servicios de remesas en
+                         determinar si es que son requeridos para registrarse como agentes    
+                         independientes de remesas cómo llevar a cabo el proceso de registro.
+                     
+                         La guía para cumplimiento de ALA/CFT de contadores, para asistir a
+                         contadores en la
+                                         comprensión y cumplimiento de sus obligaciones bajo la
+                         Ley de ALA/CFT.
+                     
+                         La guía explicativa del formato de perfil de negocios de AUSTRAC, para
+                         asistir a las
+                                     entidades en el uso del formato de perfil de negocios de
+                        AUSTRAC.
+
+Lineamientos
+Los lineamientos de AUSTRAC contienen información relacionada con los aspectos de la Ley de
+Reportes de Transacciones Financieras y cubre aspectos de los requerimientos de reportes para
+agentes monetarios. Por ejemplo, La Guía de Reportes de Transacciones Significativas en Efectivo
+para Solicitantes, disponible en:
+www.austrac.ov.au/files/guideline_no6.pdf.
+
+Guía de Cumplimiento
+La Guía de Cumplimiento de AUSTRAC consolida un rango de material guía de AUSTRAC. Esta guía
+delinea y explica las obligaciones bajo la Ley, Reglas y regulaciones de ALA/CFT y presenta ejemplos
+de cómo operan y proporcionar asistencia a las entidades reportadoras en el diseño,
+
+desarrollo e implementación de sistemas y controles necesarios para la mitigación de riesgos de
+                                                                                             46
+
+================ PÁGINA 47 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+lavado de dinero y financiamiento al terrorismo.
+
+La guía vigente puede encontrarla en:
+www.austrac.ov.au/business/obligations-and-compliance/austrac-compliance-guide
+
+CANADÁ
+FINTRAC ha publicado una serie de lineamientos para asegurar que las entidades reportadoras
+comprendan y cumplan con sus obligaciones de ALA/CFT regulatorias y legislativas. Todos los
+lineamientos de FINTRAC pueden encontrarse en la siguiente liga:
+www.fintrac-canafe.gc.ca/publications/guide/guide-eng.asp, FINTRAC ha emitido recientemente su
+nueva guía (Guía 4) sobre cómo implementar un régimen de cumplimiento, incluyendo aspectos del
+enfoque en base a riesgos (ver www.fintrac-canafe.gc.ca/publications/guide/Guide4/4-eng.asp).
+La Oficina del Superintendente de Instituciones Financieras también ha emitido una guía para la
+asistencia a entidades reportadoras que son Instituciones FederALAente Reguladas en el
+cumplimiento de los requerimientos de ALA/CFT aplicables www.osfi-bsif.gc.ca/Eng/fi-if/rg-
+ro/gdn-ort/gl-LA/Pages/b8.aspx).
+
+ITALIA
+El Banco de Italia proporciona con regularidad retroalimentación general a entidades supervisadas
+sobre actividades de control y guía en riesgos de ALA/CFT encontrados en el ejercicio de las tareas
+de supervisión, así como las medidas de ALA/CFT recomendadas a solicitud de un nivel
+internacional (i.e. lista negra del GAFI, sanciones de las NU). La guía también contiene instrucciones
+sobre los procedimientos apropiados para cumplir con las obligaciones de prevención de lavado de
+dinero y el cumplimiento de las reglas.
+Adicionalmente, la UIF Italiana, para facilitar la detección de los STRs , prepara guías sobre patrones
+de conductas anómalas económicas o financieras que puedan ser vinculados con el lavado de dinero
+o financiamiento al terrorismo (ej. patrones de conducta con respecto a estafadores prestamistas
+emitida en 2011, en riesgos de LA o factoraje emitido en 2012, y en apuestas emitido en 2013). En
+algunos casos la UIF Italiana emite "notas de alerta" para fomentar la concientización de las
+instituciones financieras en como ciertos instrumentos pueden ser explotados para propósitos de
+LA/FT (ej. nota de alerta en tarjetas de prepago en 2012). A menudo este tipo de guías van
+acompañadas de mesas redondas o de reuniones formales e informales con oficiales reportadores
+de LA con el propósito de reducir interpretaciones equivocadas con respecto a los STRs. Dichos
+contactos son utilizados por las entidades reportadoras para la implementación de un enfoque
+eficiente de EBR y mejorar los procedimientos internos, debido a la cercana relación que existe
+entre los STRs y las políticas generales de ALA y CFT.
+
+HOLANDA
+
+La DNB ha publicado varios documentos guía para dar apoyo a instituciones en la implementación
+de requerimientos de ALA/CFT. Después de realizar las actividades in situy extra situ, los resultados
+son comparados para determinar prácticas atípicas y buenas prácticas. Las instituciones reciben
+retroalimentación individual para proseguir con acciones potenciales. La industria también recibe
+retroalimentación más generalizada (mesas redondas, seminarios, reuniones formales e informales)
+y revisiones de buenas prácticas/guías. Se mantiene informado a los sectores con respecto a las
+examinaciones temáticas a través de publicaciones anuales sobre estos temas y actualizaciones
+regulares a través de comunicados escritos.
+
+REINO UNIDO
+Guía Regulatoria
+La Autoridad de Conducción Financiera (FCA) publica guías regulatorias en un amplio rango de
+temas de delitos financieros. Esta guía establece las expectativas del FCA con respecto a los sistemas
+
+                                                                                                    47
+
+================ PÁGINA 48 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+y controles de delitos financieros de las entidades. También incluye cuestionamientos que pueden
+
+utilizar las entidades para probar lo adecuado de sus sistemas y controles y lista ejemplos de buenas
+y malas prácticas observadas durante visitas in situ para ayudar a las entidades a comprender cómo
+pueden cumplir con sus obligaciones contra delitos financieros.
+
+Esta guía no es vinculante y la FCA no puede inferir que la separación de la entidad con respecto a
+estas guías constituya una violación de las reglas. Pero se espera que las entidades tomen nota de lo
+que se indica en las guías y lo utlicen de forma proporcional y sensible a riesgos para informar sus
+propios sistemas y controles contra delitos financieros.
+
+La FCA actualiza con regularidad su guía para tomar en cuenta nuevos hallazgos y clarificar
+expectativas en áreas dónde existan debilidades en muchas entidades. Todos los cambios están
+sujetos a consulta publica antes de concluirse. La guía de FCA, delitos Financieros y guía para
+entidades se encuentran en: http://media.fshandbook.info/Handbook/FC1_FCA_20140401.pdf
+
+Guía para la Industria
+Al estar evaluando lo adecuado de los sistemas y controles de ALA/CFT para firmas, la FCA también
+considera la guía del Grupo de Dirección Conjunta de Lavado de Dinero (JLASG) Esta es una
+guía escrita por un grupo de asociaciones de intercambio de servicios financieros del Reino Unido y
+establece los lineamientos para que las entidades cumplan con sus obligaciones legales y
+regulatorias de ALA/CFT Está aprobada formALAente por el Gobierno del Reino Unido y es referida
+en el manual de reglas y guía de la FCA. La FCA trabaja en coordinación con el JLASG durante la
+revisión de la guía.
+
+
+ESTADOS UNIDOS
+Las FBAs emiten las guías bajo la jurisdicción de sus propias autoridades supervisoras y en conjunto
+con las instituciones financieras reguladas por la UIF (FinCEN) para comunicar y clarificar sus
+expectativas de supervisión con respecto al manejo de los riesgos de LA/FT y cumplimiento con las
+regulaciones de ALA/CFT. Como miembros del Consejo de Examinación de Instituciones Financieras
+Federales (FFIEC), las FBAs han emitido el Manual de Examinación de Ley del Secreto
+Bancario/Prevención de Lavado de Dinero el cual indica los requerimientos que deben aplicar los
+examinadores de FBA en la conducción de exámenes del BSA. Los procedimientos contenidos en el
+Manual de Examen de LSB/ALA contemplan el cumplimiento tanto de las expectativas de
+supervisión de FBA como de los requerimientos regulatorios del BSA para asegurar la transparencia
+en el proceso de examinación. También asegura que los procedimientos del examen sean integrales
+y se apliquen con consistencia a través de todas las instituciones reguladas por las FBAs. La FFIEC
+actualiza con regularidad el Manual para incorporar cambios en las regulaciones y expectativas de
+supervisión que reflejen los riesgos emergentes de LA/FT y de cualquier cambio significativo que
+surja.
+
+
+
+
+                                                                                                   48
+
+================ PÁGINA 49 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+
+
+ANEXO 2
+PRINCIPIOS BÁSICOS DE BASILEA ASIGNADOS POR GAFI COMO
+RELEVANTES PARA LA SUPERVISÓN DE ALA/CFT (R. 26)
+Principios Básicos de                              Elemento de Supervisión
+       Basilea
+     Principio 1        Responsabilidades, objetivos y poderes: Un sistema efectivo de supervisión
+                        bancaria tiene responsabilidades y objetivos claros para cada autoridad
+                        involucrada en la supervisión de bancos y grupos bancarios. Se tiene
+                        implementado un marco legal adecuado para la supervisión bancaria para
+                        proporcionarle a cada autoridad responsable con poderes legales necesarios
+                        para autorizar bancos, conducir supervisiones en curso, verificar cumplimiento
+                        conforme a ley y aplicar acciones correctivas oportunas en la atención de
+                        preocupaciones de seguridad.
+    Principio 2         Independencia, responsabilidad, asignación de recursos y protección legal a
+                        supervisores: El supervisor tiene independencia operativa, procesos
+                        transparentes, gobernabilidad adecuada, procesos presupuestales que no minan
+                        la autonomía y los recursos adecuados, y es responsable del desempeño de sus
+                        tareas y el uso de sus recursos. El marco legal para la supervisión bancaria
+                        incluye protección legal para el supervisor.
+    Principio 3         Cooperación y colaboración: Leyes, regulaciones u otros instrumentos
+                        proporcionan un marco para la cooperación y colaboración con autoridades
+                        domésticas relevantes y supervisores extranjeros. Estos acuerdos reflejan la
+                        necesidad de proteger la información confidencial.
+    Principio 5         Criterios de Licenciamiento: La autoridad de licencias tiene el poder de
+                        establecer criterios y rechazar aplicaciones para establecimientos que no
+                        cumplan con los criterios. Como mínimo, el proceso de licenciamiento consiste
+                        de una evaluación de la estructura de propiedad y gobierno corporativo
+                        (incluyendo la forma y propiedad de los miembros del Consejo y Alta
+                        Dirección) del banco y su grupo, y de su plan estratégico y operativo, controles
+                        internos, administración de riesgos y condición financiera proyectada
+                        (incluyendo base capital). En donde el propietario propuesto u organización
+                        matriz sea un banco extranjero, se obtiene el consentimiento previo de su
+                        supervisor interno.
+
+
+
+Principios Básicos de                              Elemento de Supervisión
+       Basilea
+     Principio 6        Transferencia de propiedad significativa: El supervisor tiene el poder de
+                        revisar, rechazar e imponer condiciones prudenciales a cualquier propuesta de
+                        transferencia de propiedad significativa o control de intereses manejados
+                        directa o indirectamente en bancos existentes o por otros organismos.
+    Principio 7         Adquisiciones mayores: El supervisor tiene el poder de aprobar o rechazar (o
+                        recomendar a la autoridad responsable la aprobación o rechazo de), e imponer
+                        condiciones prudenciales en, adquisiciones o inversiones mayores por un
+                        banco, en contra del criterio establecido, incluyendo el establecimiento de
+                        operaciones transfronterizas, y para determinar que las afiliaciones corporativas
+                        o estructuras no expongan al banco ante riesgos no atendidos o impedir la
+                        supervisión efectiva.
+    Principio 8         Enfoque de Supervisión: Un sistema efectivo de supervisión bancaria requiere
+                        que el supervisor desarrolle y mantenga una evaluación propositiva del perfil de
+
+                                                                                                        49
+
+================ PÁGINA 50 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+                        riesgos de bancos individuales y grupos de bancos, que sea de acuerdo a su
+                        importancia sistémica; identificar, evaluar y atender riesgos que emanen de
+                        bancos y del sistema bancario como un todo; tener un marco implementado
+                        para la intervención temprana; y contar con planes implementados, en sociedad
+                        con otras autoridades relevantes, para tomar acciones en bancos que se tornen
+                        no viables de una manera ordenada.
+    Principio 9         Técnicas y herramientas de supervisión: El supervisor utiliza un rango
+                        apropiado de técnicas herramientas para implementar el enfoque de supervisión
+                        y utiliza recursos de supervisión en una base proporcionada, tomando en cuenta
+                        el perfil de riesgos e importancia sistémica de los bancos.
+    Principio 11        Poderes correctivos y de aplicación de sanciones de supervisores: El
+                        supervisor actúa en una etapa temprana para dar atención a prácticas o
+                        actividades deficientes que puedan representar riesgos a bancos o al sistema
+                        bancario. El supervisor tiene a su disposición un rango adecuado de
+                        herramientas de supervisión para dar atención a acciones correctivas. Esto
+                        incluye la habilidad de revocar la licencia bancaria o recomendar su
+                        revocación..
+    Principio 12        Supervisión consolidada: Un elemento esencial de la supervisión bancaria es
+                        que el supervisor supervise al grupo bancario en una base consolidada, con un
+                        monitoreo adecuado y, según sea apropiado, aplique los estándares
+                        prudenciales a todos los aspectos del negocio conducidos por el grupo bancario
+                        a nivel mundial.
+
+
+
+Principios Básicos de                              Elemento de Supervisión
+       Basilea
+    Principio 13        Relaciones bilaterales: Los supervisores bilaterales de grupos bancarios
+                        transfronterizos comparten información y cooperan para una supervisión
+                        efectiva del grupo y entidades del grupo, y el manejo eficiente de las
+                        situaciones de crisis. Los supervisores requieren que las operaciones locales de
+                        bancos extranjeros sean conducidas con los mismos estándares que aquellos
+                        requeridos para bancos domésticos.
+    Principio 14        Gobierno corporativo: El supervisor determina que los bancos y grupos
+                        bancarios tienen políticas y procesos robustos de gobierno corporativo
+                        cubriendo por ejemplo, dirección estratégica, estructura organizacional y de
+                        grupo, control ambiental, responsabilidades de los Consejos y Alta Dirección
+                        de los bancos, y compensaciones. Estas políticas y procesos son conmensuradas
+                        con el perfil de riesgos y la importancia sistémica del banco
+    Principio 15        Proceso de Administración de Riesgos: El supervisor determina que los bancos
+                        tienen procesos de administración de riesgos integrales (incluyendo la
+                        supervisión efectiva del Consejo de Administración y Alta Dirección) para
+                        identificar, medir, evaluar, monitorear, reportar y controlar o mitigar todos los
+                        riesgos materiales de forma oportuna y para evaluar lo adecuado de su capital y
+                        liquidez con relación a su perfil de riesgos y condiciones de mercado y
+                        macroeconómicas. Esto se extiende al desarrollo y revisión de arreglos de
+                        contingencia (incluyendo planes de recuperación robustos y viables cuando se
+                        requieran) que tomen en cuenta las circunstancias específicas del banco, El
+                        proceso de administración de riesgos debe ser proporcional con el perfil de
+                        riesgos e importancia sistémica del banco.
+    Principio 26        Control y auditorías internas: El supervisor determina que los bancos tienen
+                        marcos de control interno adecuados para establecer y mantener un ambiente de
+                        operaciones controlado apropiadamente para la conducción de su negocio
+                        tomando en cuenta su perfil de riesgos. Esto incluye arreglos claros para la
+                        delegación de autoridad y responsabilidad; separación de funciones que
+                        involucren compromisos del banco, pago de sus fondos, y tomar
+                        responsabilidad de sus activos y pasivos; conciliación de estos procesos,
+                                                                                                        50
+
+================ PÁGINA 51 DE 51 ================
+
+GUÍA DEL ENFOQUE BASADO EN EL RIESGO PARA EL SECTOR BANCARIO
+                              salvaguardar los activos del banco; y auditorías internas y funciones de
+                              cumplimiento independientes apropiadas.
+    Principio 29              Abuso de servicios bancarios. El supervisor determina que los bancos tienen
+                              políticas y procesos adecuados, incluyendo reglas estrictas de debida diligencia
+                              de clientes para promover altos estándares de ética y profesionales en el sector
+                              financiero y prevenir al banco de ser utilizado intencionALAente o no
+                              intencionALAente para actividades criminales.
+
+
+BIBLIOGRAFÍA
+GAFI (2012), Estándares Internacionales en el Combate al Lavado de Dinero y el Financiamiento y
+  Proliferación del Terrorismo - Recomendaciones del GAFI, GAFI, Paris. www.faft-
+   gafi.org/recommendations
+
+GAFI (2013a), Guía Nacional del GAFI para la Evaluación de Riesgos de Lavado de Dinero y
+  Financiamiento        al         Terrorismo,        GAFI,         París,       www.faft-
+   gafi.org/topics/methodsandtrends/documents/nationALAoneylaunderingandterrorisftinancingriskassessment.htLA
+
+GAFI (2013b), Metodología del GAFI para la Evaluación de Recomendaciones del GAFI y la
+  efectividad  de     los     sistemas    de    ALA/CFT,     GAFI,    París    www.faft-
+   gafi.org/media/faft/documents/methodology/FATF%20Methodology%2022%20Feb%202013.pdf
+
+GAFI (2013c), Guía del GAFI dePersonas Políticamente Expuestas (Recomendaciones 12 y 22),
+  GAFI, París
+   www.faft-gafi.org/topics/faftrecommendations/documents/peps-r12-r22.htLA
+
+GAFI (2013d), Guía Revisada en ALA/CFT e Inclusión Financiera, GAFI, París www.faft-
+   gafi.org/topics/financialinclusion/documents/revisedguidanceonalacftandfinancialinclusion.htLA
+
+Consejo de Estabilidad Financiera (2014), Guía sobre la interacción supervisora con las
+  instituciones financieras sobre cultura del riesgo, Un Marco para la Evaluación de la Cultura del
+  Riesgo, Basilea, Suiza, https://www.financialstabilityboard.org/publications/140407.pdf
+
+CSBB (2005), Cumplimiento y la función del cumplimiento en bancos, BIS, Basilea, Suiza,
+   www.bis.org/publ/CSBB113.pdf
+
+CSBB (2010a), Principios para la mejora de gobierno corporativo BIS, Basilea, Suiza,
+   www.bis.org/publ/CSBB176.pdf
+
+CSBB (2010b), Principios de Buenas Prácticas en Colegios de Supervisores, BIS, Basilea, Suiza,
+   www.bis.org/publ/CSBB177.pdf
+
+CSBB (2011), Principios Básicos para la Supervisión Efectiva de Banca, Basilea, Suiza,
+   www.bis.org/publ/CSBB213.pdf
+
+CSBB (2014a), Buena Administración de los riesgos relacionados con el lavado de dinero y
+  financiamiento al terrorismo, BIS, Basilea, Suiza
+   www.bis.org/publ/CSBB275.pdf
+
+CSBB (2014b), Principios de Buenas Prácticas Revisada en Colegios de Supervisores,(documento
+  de consulta), BIS, Basilea, Suiza, https://www.bis.org/publ/CSBB276.pdf
+ESMA, EBA, EIOPA y autoridades del Comité Conjunto de Supervisión Europea (2013),
+   Reporte preliminar de la Supervisión Base a Riesgos del lavado de dinero y financiamiento al
+   terrorismo, www.eba.europa.eu/documents/10180/16145/JC-2013-72+%28Report+on+Risk+Based+Supervision%29.pdf
+
+
+
+                                                                                                                51

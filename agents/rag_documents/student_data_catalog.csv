@@ -1,7 +1,0 @@
-field_name,description,classification,owner,approved_use,retention
-student_id,Internal unique student identifier,Confidential,Registrar,Academic administration and approved analytics,7 years after last enrollment
-student_gpa,Current cumulative grade point average,Confidential,Academic Records Office,Academic advising and approved institutional research,7 years after last enrollment
-student_email,Institutional student email address,Personal,IT Services,Academic communication and authenticated services,2 years after graduation
-student_location,Approximate campus location derived from institutional systems,Sensitive,Campus Services,Safety and explicitly approved operational analytics,90 days
-face_embedding,Biometric template derived from facial characteristics,Highly Sensitive,Information Security,Identity verification only with explicit approval,30 days after purpose ends
-financial_aid_amount,Amount of institutional financial aid awarded,Sensitive Financial,Financial Aid Office,Financial aid administration and approved reporting,7 years

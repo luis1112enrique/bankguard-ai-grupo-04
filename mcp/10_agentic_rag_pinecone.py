@@ -8,20 +8,25 @@ It decides when to search Pinecone and uses the retrieved evidence to answer.
 """
 
 import os
+from pathlib import Path
 
 from dotenv import load_dotenv
 from langchain.agents import create_agent
 from langchain_core.tools import tool
-from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_ollama import OllamaEmbeddings
+from langchain_ollama import ChatOllama, OllamaEmbeddings
 from langchain_pinecone import PineconeVectorStore
 
+PROJECT_DIR = Path(__file__).resolve().parent.parent
+load_dotenv(PROJECT_DIR / ".env")
 
-load_dotenv()
+# Keep this local course example quiet unless tracing is explicitly requested.
+os.environ["LANGSMITH_TRACING"] = os.getenv("AGENTIC_RAG_TRACING", "false")
 
 INDEX_NAME = os.environ["INDEX_NAME"]
+EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "bge-large")
+CHAT_MODEL = os.getenv("OLLAMA_CHAT_MODEL", "qwen3.5:4b")
 
-embeddings = OllamaEmbeddings(model="bge-large")
+embeddings = OllamaEmbeddings(model=EMBEDDING_MODEL)
 
 vector_store = PineconeVectorStore(
     index_name=INDEX_NAME,
@@ -55,17 +60,15 @@ def search_governance_knowledge(query: str) -> str:
         if row is not None:
             location += f", row {row}"
 
-        evidence.append(
-            f"SOURCE: {location}\n"
-            f"{doc.page_content}"
-        )
+        evidence.append(f"SOURCE: {location}\n" f"{doc.page_content}")
 
     return "\n\n---\n\n".join(evidence)
 
 
-llm = ChatGoogleGenerativeAI(
-    model="gemini-3.8-flash",
+llm = ChatOllama(
+    model=CHAT_MODEL,
     temperature=0,
+    reasoning=False,
 )
 
 agent = create_agent(
@@ -89,6 +92,10 @@ when the source information makes that distinction clear.
 If the retrieved evidence is insufficient, conflicting, or does not authorize
 the proposed use, say so. Do not invent permission.
 
+Answer only student-data-governance questions. If all or part of a request is
+unrelated, explain briefly that part is outside your role instead of presenting
+an unsupported opinion.
+
 When possible, mention the source filename that supports the answer.
 """,
 )
@@ -106,27 +113,52 @@ def print_final_text(result):
             print(block.get("text", ""))
 
 
+def ask_question(question: str, conversation: list) -> list:
+    """Run one question through the agent and print its final answer."""
+    result = agent.invoke(
+        {
+            "messages": [
+                *conversation,
+                {
+                    "role": "user",
+                    "content": question,
+                },
+            ]
+        }
+    )
+
+    print("\nANSWER:")
+    print_final_text(result)
+    return result["messages"]
+
+
+def main() -> None:
+    """Run an interactive governance question-and-answer loop."""
+    print("Student Data Governance Agent")
+    print("Ask a question, or type 'salir' to finish.")
+    conversation = []
+
+    while True:
+        try:
+            question = input("\nQUESTION: ").strip()
+        except EOFError:
+            print("\nGoodbye.")
+            return
+
+        if not question:
+            continue
+        if question.casefold() in {"exit", "quit", "salir"}:
+            print("Goodbye.")
+            return
+
+        try:
+            conversation = ask_question(question, conversation)
+        except Exception as error:
+            print(f"\nERROR: {error}")
+
+
 if __name__ == "__main__":
-    questions = [
-        "Can we use face embeddings to personalize student marketing?",
-        "Who owns student_gpa and how long should it be retained?",
-        "Can student location data be used to train an attendance prediction model?",
-    ]
-
-    for question in questions:
-        print("\n" + "=" * 80)
-        print("QUESTION:", question)
-
-        result = agent.invoke(
-            {
-                "messages": [
-                    {
-                        "role": "user",
-                        "content": question,
-                    }
-                ]
-            }
-        )
-
-        print("\nANSWER:")
-        print_final_text(result)
+    try:
+        main()
+    except KeyboardInterrupt:
+        print("\nGoodbye.")
