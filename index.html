@@ -1,0 +1,1543 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="BankGuard AI, asistente inteligente de análisis de datos financieros.">
+  <title>BankGuard AI | Asistente inteligente de análisis de datos</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --navy-950: #071526;
+      --navy-900: #0b1d33;
+      --navy-800: #102944;
+      --navy-700: #183a5c;
+      --blue-600: #1769aa;
+      --blue-100: #eaf3fb;
+      --red-600: #c81d32;
+      --red-500: #df3047;
+      --red-100: #fff0f2;
+      --slate-900: #172230;
+      --slate-800: #263648;
+      --slate-700: #465568;
+      --slate-500: #718096;
+      --slate-300: #cdd6e1;
+      --slate-200: #e4eaf0;
+      --slate-100: #f3f6f9;
+      --white: #ffffff;
+      --success: #138a62;
+      --warning: #c47a13;
+      --shadow-lg: 0 28px 70px rgba(5, 21, 39, 0.18);
+      --shadow-sm: 0 8px 24px rgba(5, 21, 39, 0.08);
+      --radius-xl: 24px;
+      --radius-lg: 18px;
+      --radius-md: 13px;
+      --font: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    [hidden] {
+      display: none !important;
+    }
+
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+    }
+
+    body {
+      min-width: 320px;
+      overflow: hidden;
+      color: var(--slate-900);
+      background:
+        radial-gradient(circle at 88% 8%, rgba(23, 105, 170, 0.12), transparent 28rem),
+        linear-gradient(145deg, #edf2f7 0%, #f8fafc 48%, #eef3f8 100%);
+      font-family: var(--font);
+      -webkit-font-smoothing: antialiased;
+    }
+
+    button,
+    textarea {
+      font: inherit;
+    }
+
+    button {
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .app-shell {
+      display: grid;
+      grid-template-columns: 292px minmax(0, 1fr);
+      width: 100%;
+      height: 100dvh;
+    }
+
+    .sidebar {
+      position: relative;
+      z-index: 4;
+      display: flex;
+      flex-direction: column;
+      min-height: 0;
+      padding: 26px 22px 22px;
+      overflow: hidden;
+      color: var(--white);
+      background:
+        linear-gradient(160deg, rgba(255, 255, 255, 0.055), transparent 36%),
+        var(--navy-950);
+      box-shadow: 12px 0 40px rgba(5, 20, 37, 0.14);
+    }
+
+    .sidebar::after {
+      position: absolute;
+      right: -90px;
+      bottom: -130px;
+      width: 260px;
+      height: 260px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 50%;
+      box-shadow:
+        0 0 0 34px rgba(255, 255, 255, 0.025),
+        0 0 0 72px rgba(255, 255, 255, 0.018);
+      content: "";
+      pointer-events: none;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 13px;
+      min-width: 0;
+    }
+
+    .brand-mark {
+      position: relative;
+      display: grid;
+      flex: 0 0 auto;
+      width: 45px;
+      height: 45px;
+      place-items: center;
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      border-radius: 14px;
+      overflow: hidden;
+      color: var(--white);
+      background: linear-gradient(145deg, var(--red-500), #a90f25);
+      box-shadow: 0 10px 28px rgba(200, 29, 50, 0.28);
+      font-size: 0.84rem;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+    }
+
+    .brand-mark::before,
+    .brand-mark::after {
+      position: absolute;
+      width: 4px;
+      height: 18px;
+      border-radius: 4px;
+      background: rgba(255, 255, 255, 0.32);
+      content: "";
+      transform: rotate(34deg);
+    }
+
+    .brand-mark::before {
+      left: 8px;
+      bottom: -3px;
+    }
+
+    .brand-mark::after {
+      right: 7px;
+      top: -4px;
+    }
+
+    .brand-copy {
+      min-width: 0;
+    }
+
+    .brand-copy strong {
+      display: block;
+      overflow: hidden;
+      font-size: 1.05rem;
+      font-weight: 760;
+      letter-spacing: -0.025em;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .brand-copy span {
+      display: block;
+      margin-top: 3px;
+      color: rgba(255, 255, 255, 0.6);
+      font-size: 0.73rem;
+      letter-spacing: 0.03em;
+    }
+
+    .new-chat {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 9px;
+      width: 100%;
+      min-height: 46px;
+      margin-top: 28px;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: var(--radius-md);
+      color: var(--white);
+      background: rgba(255, 255, 255, 0.075);
+      cursor: pointer;
+      transition: background 160ms ease, border-color 160ms ease, transform 160ms ease;
+    }
+
+    .new-chat:hover {
+      border-color: rgba(255, 255, 255, 0.34);
+      background: rgba(255, 255, 255, 0.12);
+      transform: translateY(-1px);
+    }
+
+    .new-chat:focus-visible,
+    .mode-button:focus-visible,
+    .suggestion:focus-visible,
+    .send-button:focus-visible,
+    .composer textarea:focus-visible {
+      outline: 3px solid rgba(71, 163, 232, 0.5);
+      outline-offset: 2px;
+    }
+
+    .plus-icon {
+      width: 18px;
+      height: 18px;
+    }
+
+    .sidebar-section {
+      position: relative;
+      z-index: 1;
+      margin-top: 28px;
+    }
+
+    .sidebar-label {
+      margin: 0 0 10px;
+      color: rgba(255, 255, 255, 0.48);
+      font-size: 0.68rem;
+      font-weight: 750;
+      letter-spacing: 0.13em;
+      text-transform: uppercase;
+    }
+
+    .mode-switch {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 4px;
+      padding: 4px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      background: rgba(0, 0, 0, 0.14);
+    }
+
+    .mode-button {
+      min-height: 37px;
+      border: 0;
+      border-radius: 9px;
+      color: rgba(255, 255, 255, 0.62);
+      background: transparent;
+      cursor: pointer;
+      font-size: 0.75rem;
+      font-weight: 700;
+      transition: color 160ms ease, background 160ms ease;
+    }
+
+    .mode-button[aria-pressed="true"] {
+      color: var(--white);
+      background: rgba(255, 255, 255, 0.13);
+      box-shadow: 0 5px 14px rgba(0, 0, 0, 0.12);
+    }
+
+    .mode-description {
+      min-height: 54px;
+      margin: 11px 2px 0;
+      color: rgba(255, 255, 255, 0.55);
+      font-size: 0.72rem;
+      line-height: 1.5;
+    }
+
+    .privacy-card {
+      display: grid;
+      gap: 9px;
+      padding: 14px;
+      border: 1px solid rgba(255, 255, 255, 0.09);
+      border-radius: 14px;
+      background: rgba(255, 255, 255, 0.045);
+    }
+
+    .privacy-row {
+      display: flex;
+      align-items: center;
+      gap: 9px;
+      color: rgba(255, 255, 255, 0.68);
+      font-size: 0.72rem;
+      line-height: 1.35;
+    }
+
+    .privacy-row svg {
+      flex: 0 0 auto;
+      width: 15px;
+      height: 15px;
+      color: #78b7e6;
+    }
+
+    .sidebar-footer {
+      position: relative;
+      z-index: 1;
+      margin-top: auto;
+      padding-top: 24px;
+    }
+
+    .local-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 10px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 999px;
+      color: rgba(255, 255, 255, 0.68);
+      background: rgba(255, 255, 255, 0.045);
+      font-size: 0.69rem;
+      white-space: nowrap;
+    }
+
+    .local-badge::before {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: #56c99a;
+      box-shadow: 0 0 0 4px rgba(86, 201, 154, 0.12);
+      content: "";
+    }
+
+    .main-panel {
+      display: grid;
+      grid-template-rows: auto minmax(0, 1fr) auto;
+      min-width: 0;
+      min-height: 0;
+      background: rgba(255, 255, 255, 0.55);
+      backdrop-filter: blur(18px);
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      min-height: 78px;
+      padding: 18px clamp(24px, 4vw, 56px);
+      border-bottom: 1px solid rgba(160, 174, 192, 0.3);
+      background: rgba(255, 255, 255, 0.76);
+      backdrop-filter: blur(16px);
+    }
+
+    .topbar-title {
+      min-width: 0;
+    }
+
+    .topbar-title h1 {
+      margin: 0;
+      color: var(--navy-900);
+      font-size: clamp(1.03rem, 1.5vw, 1.25rem);
+      font-weight: 760;
+      letter-spacing: -0.025em;
+    }
+
+    .topbar-title p {
+      margin: 4px 0 0;
+      color: var(--slate-500);
+      font-size: 0.78rem;
+    }
+
+    .status-pill {
+      display: inline-flex;
+      flex: 0 0 auto;
+      align-items: center;
+      gap: 8px;
+      padding: 9px 12px;
+      border: 1px solid var(--slate-200);
+      border-radius: 999px;
+      color: var(--slate-700);
+      background: var(--white);
+      box-shadow: var(--shadow-sm);
+      font-size: 0.72rem;
+      font-weight: 720;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--success);
+      box-shadow: 0 0 0 4px rgba(19, 138, 98, 0.1);
+    }
+
+    .status-pill[data-mode="connected"] .status-dot {
+      background: var(--blue-600);
+      box-shadow: 0 0 0 4px rgba(23, 105, 170, 0.1);
+    }
+
+    .conversation {
+      min-height: 0;
+      overflow-y: auto;
+      scroll-behavior: smooth;
+      scrollbar-color: var(--slate-300) transparent;
+    }
+
+    .conversation-inner {
+      width: min(900px, calc(100% - 40px));
+      min-height: 100%;
+      margin: 0 auto;
+      padding: 42px 0 34px;
+    }
+
+    .welcome {
+      display: grid;
+      min-height: 100%;
+      align-content: center;
+      padding: 16px 0 42px;
+      animation: rise-in 420ms ease both;
+    }
+
+    .welcome-kicker {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      width: max-content;
+      margin-bottom: 15px;
+      color: var(--red-600);
+      font-size: 0.72rem;
+      font-weight: 780;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .welcome-kicker::before {
+      width: 22px;
+      height: 2px;
+      border-radius: 3px;
+      background: var(--red-600);
+      content: "";
+    }
+
+    .welcome h2 {
+      max-width: 720px;
+      margin: 0;
+      color: var(--navy-900);
+      font-size: clamp(2.1rem, 5vw, 4.2rem);
+      font-weight: 780;
+      letter-spacing: -0.055em;
+      line-height: 0.98;
+    }
+
+    .welcome h2 span {
+      color: var(--blue-600);
+    }
+
+    .welcome > p {
+      max-width: 680px;
+      margin: 22px 0 0;
+      color: var(--slate-700);
+      font-size: clamp(0.94rem, 1.4vw, 1.08rem);
+      line-height: 1.7;
+    }
+
+    .suggestions {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 13px;
+      margin-top: 32px;
+    }
+
+    .suggestion {
+      display: flex;
+      min-height: 132px;
+      padding: 18px;
+      border: 1px solid rgba(171, 184, 198, 0.55);
+      border-radius: var(--radius-lg);
+      color: var(--slate-900);
+      background: rgba(255, 255, 255, 0.83);
+      box-shadow: 0 12px 34px rgba(27, 48, 73, 0.06);
+      cursor: pointer;
+      text-align: left;
+      transition: transform 170ms ease, border-color 170ms ease, box-shadow 170ms ease;
+    }
+
+    .suggestion:hover {
+      border-color: rgba(23, 105, 170, 0.42);
+      box-shadow: 0 16px 38px rgba(27, 48, 73, 0.11);
+      transform: translateY(-3px);
+    }
+
+    .suggestion-number {
+      display: grid;
+      flex: 0 0 auto;
+      width: 30px;
+      height: 30px;
+      margin-right: 12px;
+      place-items: center;
+      border-radius: 9px;
+      color: var(--blue-600);
+      background: var(--blue-100);
+      font-size: 0.7rem;
+      font-weight: 800;
+    }
+
+    .suggestion-copy {
+      align-self: center;
+      font-size: 0.86rem;
+      font-weight: 680;
+      line-height: 1.45;
+    }
+
+    .messages {
+      display: grid;
+      gap: 23px;
+    }
+
+    .message {
+      display: flex;
+      gap: 13px;
+      width: 100%;
+      animation: rise-in 260ms ease both;
+    }
+
+    .message.user {
+      justify-content: flex-end;
+    }
+
+    .avatar {
+      display: grid;
+      flex: 0 0 auto;
+      width: 34px;
+      height: 34px;
+      place-items: center;
+      border-radius: 11px;
+      color: var(--white);
+      background: var(--navy-900);
+      font-size: 0.67rem;
+      font-weight: 820;
+      box-shadow: 0 8px 20px rgba(11, 29, 51, 0.16);
+    }
+
+    .message.user .avatar {
+      order: 2;
+      color: var(--navy-700);
+      background: var(--blue-100);
+      box-shadow: none;
+    }
+
+    .message-card {
+      max-width: min(730px, calc(100% - 52px));
+      padding: 16px 18px;
+      border: 1px solid var(--slate-200);
+      border-radius: 8px 18px 18px 18px;
+      background: rgba(255, 255, 255, 0.94);
+      box-shadow: 0 10px 28px rgba(35, 54, 76, 0.055);
+    }
+
+    .message.user .message-card {
+      border-color: var(--navy-800);
+      border-radius: 18px 8px 18px 18px;
+      color: var(--white);
+      background: var(--navy-800);
+    }
+
+    .message.error .message-card {
+      border-color: rgba(200, 29, 50, 0.24);
+      background: var(--red-100);
+    }
+
+    .message-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 7px;
+      color: var(--slate-500);
+      font-size: 0.67rem;
+      font-weight: 740;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    .message.user .message-meta {
+      color: rgba(255, 255, 255, 0.58);
+    }
+
+    .message-body {
+      overflow-wrap: anywhere;
+      color: var(--slate-800);
+      font-size: 0.91rem;
+      line-height: 1.68;
+    }
+
+    .message.user .message-body {
+      color: var(--white);
+    }
+
+    .message-body p {
+      margin: 0 0 10px;
+    }
+
+    .message-body p:last-child {
+      margin-bottom: 0;
+    }
+
+    .message-body ul,
+    .message-body ol {
+      margin: 8px 0 10px;
+      padding-left: 22px;
+    }
+
+    .message-body li + li {
+      margin-top: 5px;
+    }
+
+    .message-body code,
+    .detail-block pre {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+    }
+
+    .message-body code {
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: var(--navy-800);
+      background: var(--slate-100);
+      font-size: 0.82em;
+    }
+
+    .response-details {
+      margin-top: 13px;
+      border-top: 1px solid var(--slate-200);
+      padding-top: 11px;
+    }
+
+    .response-details summary {
+      width: max-content;
+      color: var(--blue-600);
+      cursor: pointer;
+      font-size: 0.76rem;
+      font-weight: 740;
+      list-style-position: outside;
+    }
+
+    .detail-block {
+      margin-top: 10px;
+      padding: 12px;
+      border-radius: 10px;
+      overflow: auto;
+      color: var(--slate-700);
+      background: var(--slate-100);
+      font-size: 0.75rem;
+      line-height: 1.55;
+    }
+
+    .detail-block strong {
+      display: block;
+      margin-bottom: 5px;
+      color: var(--navy-800);
+    }
+
+    .detail-block pre {
+      margin: 0;
+      white-space: pre-wrap;
+    }
+
+    .typing-card {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      min-height: 51px;
+    }
+
+    .typing-dots {
+      display: inline-flex;
+      gap: 4px;
+    }
+
+    .typing-dots span {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--blue-600);
+      animation: pulse-dot 1s infinite ease-in-out;
+    }
+
+    .typing-dots span:nth-child(2) {
+      animation-delay: 120ms;
+    }
+
+    .typing-dots span:nth-child(3) {
+      animation-delay: 240ms;
+    }
+
+    .typing-copy {
+      color: var(--slate-500);
+      font-size: 0.8rem;
+    }
+
+    .composer-wrap {
+      position: relative;
+      z-index: 3;
+      padding: 14px clamp(20px, 4vw, 56px) 20px;
+      border-top: 1px solid rgba(160, 174, 192, 0.26);
+      background: linear-gradient(to top, #f5f8fb 72%, rgba(245, 248, 251, 0.88));
+    }
+
+    .composer-container {
+      width: min(900px, 100%);
+      margin: 0 auto;
+    }
+
+    .composer {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      align-items: end;
+      gap: 12px;
+      padding: 8px 8px 8px 18px;
+      border: 1px solid var(--slate-300);
+      border-radius: 20px;
+      background: var(--white);
+      box-shadow: 0 15px 38px rgba(17, 39, 63, 0.09);
+      transition: border-color 160ms ease, box-shadow 160ms ease;
+    }
+
+    .composer:focus-within {
+      border-color: rgba(23, 105, 170, 0.65);
+      box-shadow: 0 16px 42px rgba(17, 69, 112, 0.13);
+    }
+
+    .composer textarea {
+      width: 100%;
+      min-height: 46px;
+      max-height: 132px;
+      padding: 12px 0 8px;
+      resize: none;
+      overflow-y: auto;
+      border: 0;
+      outline: 0;
+      color: var(--slate-900);
+      background: transparent;
+      font-size: 0.91rem;
+      line-height: 1.45;
+    }
+
+    .composer textarea::placeholder {
+      color: #8a98aa;
+    }
+
+    .composer textarea:disabled {
+      cursor: not-allowed;
+    }
+
+    .send-button {
+      display: grid;
+      width: 44px;
+      height: 44px;
+      place-items: center;
+      border: 0;
+      border-radius: 14px;
+      color: var(--white);
+      background: var(--red-600);
+      box-shadow: 0 8px 18px rgba(200, 29, 50, 0.22);
+      cursor: pointer;
+      transition: transform 160ms ease, background 160ms ease, opacity 160ms ease;
+    }
+
+    .send-button:hover:not(:disabled) {
+      background: #ad1228;
+      transform: translateY(-1px);
+    }
+
+    .send-button:disabled {
+      opacity: 0.42;
+      cursor: not-allowed;
+      box-shadow: none;
+    }
+
+    .send-button svg {
+      width: 19px;
+      height: 19px;
+    }
+
+    .composer-notes {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      min-height: 24px;
+      padding: 7px 5px 0;
+      color: var(--slate-500);
+      font-size: 0.67rem;
+    }
+
+    .composer-notes strong {
+      color: var(--slate-700);
+      font-weight: 680;
+    }
+
+    .char-count[data-warning="true"] {
+      color: var(--red-600);
+      font-weight: 740;
+    }
+
+    .sr-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+
+    @keyframes rise-in {
+      from {
+        opacity: 0;
+        transform: translateY(8px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes pulse-dot {
+      0%, 60%, 100% {
+        opacity: 0.35;
+        transform: translateY(0);
+      }
+      30% {
+        opacity: 1;
+        transform: translateY(-3px);
+      }
+    }
+
+    @media (max-width: 920px) {
+      .app-shell {
+        grid-template-columns: 238px minmax(0, 1fr);
+      }
+
+      .sidebar {
+        padding-inline: 17px;
+      }
+
+      .suggestions {
+        grid-template-columns: 1fr;
+      }
+
+      .suggestion {
+        min-height: 82px;
+      }
+    }
+
+    @media (max-width: 720px) {
+      body {
+        overflow: auto;
+      }
+
+      .app-shell {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto minmax(0, 1fr);
+        min-height: 100dvh;
+      }
+
+      .sidebar {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        align-items: center;
+        gap: 12px;
+        padding: 14px 16px;
+        overflow: visible;
+      }
+
+      .brand-copy span,
+      .privacy-section,
+      .sidebar-footer {
+        display: none;
+      }
+
+      .mode-section {
+        grid-column: 1 / -1;
+        margin-top: 0;
+      }
+
+      .mode-description {
+        display: none;
+      }
+
+      .brand-mark {
+        width: 40px;
+        height: 40px;
+      }
+
+      .new-chat {
+        width: auto;
+        min-height: 41px;
+        margin: 0;
+        padding: 0 13px;
+      }
+
+      .main-panel {
+        min-height: 0;
+      }
+
+      .topbar {
+        min-height: 67px;
+        padding: 13px 18px;
+      }
+
+      .topbar-title p {
+        display: none;
+      }
+
+      .status-pill {
+        padding: 8px 10px;
+      }
+
+      .conversation-inner {
+        width: min(100% - 28px, 900px);
+        padding-top: 30px;
+      }
+
+      .welcome {
+        align-content: start;
+        padding-top: 22px;
+      }
+
+      .welcome h2 {
+        font-size: clamp(2.2rem, 13vw, 3.6rem);
+      }
+
+      .suggestions {
+        margin-top: 25px;
+      }
+
+      .composer-wrap {
+        padding: 10px 14px 13px;
+      }
+
+      .composer-notes > span:first-child {
+        display: none;
+      }
+
+      .composer-notes {
+        justify-content: flex-end;
+      }
+    }
+
+    @media (max-height: 720px) and (min-width: 721px) {
+      .sidebar-section {
+        margin-top: 18px;
+      }
+
+      .privacy-card {
+        padding: 10px;
+      }
+
+      .welcome {
+        align-content: start;
+      }
+
+      .welcome h2 {
+        font-size: 3rem;
+      }
+
+      .suggestion {
+        min-height: 104px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *,
+      *::before,
+      *::after {
+        scroll-behavior: auto !important;
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Navegación de BankGuard AI">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">BG</div>
+        <div class="brand-copy">
+          <strong>BankGuard AI</strong>
+          <span>Inteligencia financiera local</span>
+        </div>
+      </div>
+
+      <button class="new-chat" id="newChatButton" type="button">
+        <svg class="plus-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+          <path d="M12 5v14M5 12h14" stroke-linecap="round"/>
+        </svg>
+        Nueva conversación
+      </button>
+
+      <section class="sidebar-section mode-section" aria-labelledby="modeLabel">
+        <p class="sidebar-label" id="modeLabel">Modo de operación</p>
+        <div class="mode-switch" role="group" aria-label="Seleccionar modo de operación">
+          <button class="mode-button" id="demoModeButton" type="button" aria-pressed="true">Demostración</button>
+          <button class="mode-button" id="connectedModeButton" type="button" aria-pressed="false">Conectado</button>
+        </div>
+        <p class="mode-description" id="modeDescription">
+          Respuestas predefinidas para presentar el diseño sin iniciar el backend.
+        </p>
+      </section>
+
+      <section class="sidebar-section privacy-section" aria-labelledby="privacyLabel">
+        <p class="sidebar-label" id="privacyLabel">Uso responsable</p>
+        <div class="privacy-card">
+          <div class="privacy-row">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+              <path d="M12 3 5 6v5c0 4.7 2.8 8.2 7 10 4.2-1.8 7-5.3 7-10V6l-7-3Z"/><path d="m9 12 2 2 4-5"/>
+            </svg>
+            Sin credenciales ni datos sensibles en el navegador.
+          </div>
+          <div class="privacy-row">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+              <path d="M4 6h16M4 12h10M4 18h7" stroke-linecap="round"/>
+            </svg>
+            Máximo 4 mensajes de contexto por consulta.
+          </div>
+          <div class="privacy-row">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+              <circle cx="12" cy="12" r="8"/><path d="M12 8v4l3 2" stroke-linecap="round"/>
+            </svg>
+            Timeout único, sin reintentos automáticos.
+          </div>
+        </div>
+      </section>
+
+      <div class="sidebar-footer">
+        <span class="local-badge">Prototipo de demostración · IA local</span>
+      </div>
+    </aside>
+
+    <main class="main-panel">
+      <header class="topbar">
+        <div class="topbar-title">
+          <h1>Asistente inteligente de análisis de datos</h1>
+          <p>Consultas claras, contexto mínimo y respuestas orientadas a evidencia.</p>
+        </div>
+        <div class="status-pill" id="statusPill" data-mode="demo" aria-live="polite">
+          <span class="status-dot" aria-hidden="true"></span>
+          <span id="statusText">Modo demostración</span>
+        </div>
+      </header>
+
+      <section class="conversation" id="conversation" aria-label="Conversación">
+        <div class="conversation-inner">
+          <section class="welcome" id="welcomePanel">
+            <span class="welcome-kicker">Conversación asistida</span>
+            <h2>Hola, soy <span>BankGuard AI.</span></h2>
+            <p>
+              Puedo ayudarte a explicar conceptos de gobierno y modelado de datos.
+              Elige una pregunta para iniciar la demostración o escribe la tuya.
+            </p>
+            <div class="suggestions" aria-label="Preguntas sugeridas">
+              <button class="suggestion" type="button" data-question="¿Qué es Data Stewardship?">
+                <span class="suggestion-number">01</span>
+                <span class="suggestion-copy">¿Qué es Data Stewardship?</span>
+              </button>
+              <button class="suggestion" type="button" data-question="¿Cuál es la diferencia entre una tabla de hechos y una dimensión?">
+                <span class="suggestion-number">02</span>
+                <span class="suggestion-copy">¿Cuál es la diferencia entre una tabla de hechos y una dimensión?</span>
+              </button>
+              <button class="suggestion" type="button" data-question="¿Cómo se relacionan clientes, cuentas y transacciones?">
+                <span class="suggestion-number">03</span>
+                <span class="suggestion-copy">¿Cómo se relacionan clientes, cuentas y transacciones?</span>
+              </button>
+            </div>
+          </section>
+          <div class="messages" id="messages" aria-live="polite" aria-relevant="additions"></div>
+        </div>
+      </section>
+
+      <footer class="composer-wrap">
+        <div class="composer-container">
+          <form class="composer" id="chatForm">
+            <label class="sr-only" for="messageInput">Escribe tu pregunta</label>
+            <textarea
+              id="messageInput"
+              name="message"
+              rows="1"
+              maxlength="500"
+              autocomplete="off"
+              placeholder="Pregunta sobre datos, gobierno o modelos financieros..."
+              required
+            ></textarea>
+            <button class="send-button" id="sendButton" type="submit" aria-label="Enviar pregunta" disabled>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="m5 12 14-7-4 14-3-6-7-1Z" stroke-linejoin="round"/>
+              </svg>
+            </button>
+          </form>
+          <div class="composer-notes">
+            <span>Respuestas breves por defecto. Puedes pedir: <strong>“Explícalo con más detalle”.</strong></span>
+            <span class="char-count" id="charCount">0 / 500</span>
+          </div>
+        </div>
+      </footer>
+    </main>
+  </div>
+
+  <script>
+    "use strict";
+
+    const API_URL = "http://127.0.0.1:8000/chat";
+    const MAX_HISTORY_MESSAGES = 4;
+    const MAX_OUTPUT_TOKENS = 300;
+    const REQUEST_TIMEOUT_MS = 120000;
+
+    const demoAnswers = {
+      stewardship: {
+        short: [
+          "Data Stewardship es la práctica de cuidar los datos durante todo su ciclo de vida para que sean confiables, comprensibles, seguros y útiles.",
+          "Un Data Steward define y aplica criterios de calidad, documenta significados y responsables, revisa accesos y ayuda a que el uso de los datos cumpla las políticas de la organización.",
+          "En pocas palabras: convierte los datos en un activo gobernado, no solo almacenado."
+        ],
+        detailed: [
+          "Data Stewardship reúne las responsabilidades operativas de gobierno de datos. Su objetivo es que cada conjunto de datos tenga significado, calidad, propietario, controles y un propósito de uso claramente documentados.",
+          "Sus actividades habituales incluyen mantener catálogos y glosarios, acordar reglas de calidad, documentar linaje, clasificar sensibilidad, coordinar correcciones y validar que el acceso corresponda a un propósito autorizado.",
+          "El Data Steward no sustituye al dueño del dato ni al área jurídica. Funciona como enlace entre negocio, tecnología, seguridad y cumplimiento para que las decisiones sobre datos sean trazables."
+        ]
+      },
+      dimensional: {
+        short: [
+          "Una tabla de hechos registra eventos medibles del negocio, por ejemplo una transacción, e incluye métricas y llaves hacia otras tablas.",
+          "Una dimensión describe el contexto de esos eventos: cliente, cuenta, producto, fecha, canal o ubicación.",
+          "Hechos responde “qué ocurrió y cuánto”; dimensiones responde “quién, cuándo, dónde y cómo”."
+        ],
+        detailed: [
+          "En un modelo dimensional, la tabla de hechos representa el proceso que se quiere analizar. Su granularidad define qué significa cada fila y suele contener medidas numéricas, como monto, saldo o cantidad, además de llaves foráneas.",
+          "Las dimensiones aportan atributos descriptivos para filtrar, agrupar y explicar los hechos. Una dimensión de cliente puede contener segmento y región; una dimensión de fecha puede contener mes, trimestre y año.",
+          "La relación típica es de muchas filas de hechos hacia una fila de dimensión. Definir la granularidad antes de diseñar las métricas evita duplicidades y agregaciones incorrectas."
+        ]
+      },
+      relationships: {
+        short: [
+          "Un cliente puede tener una o varias cuentas; cada cuenta pertenece a un cliente o a una relación de titulares definida por el modelo.",
+          "Una cuenta puede registrar muchas transacciones, mientras que cada transacción se asocia con una cuenta y una fecha concretas.",
+          "La cadena básica es: cliente → cuenta → transacción. Las llaves y reglas de integridad mantienen esa relación consistente."
+        ],
+        detailed: [
+          "El cliente representa a la persona o entidad; la cuenta representa el contrato o producto financiero; la transacción representa un movimiento ocurrido sobre esa cuenta.",
+          "En el caso simple, cliente y cuenta tienen una relación uno a muchos, y cuenta y transacción también. Si una cuenta admite varios titulares, conviene usar una tabla intermedia cliente_cuenta para representar la relación muchos a muchos y sus fechas de vigencia.",
+          "Las transacciones deben conservar una llave de cuenta, fecha, monto, moneda, tipo y canal. La integridad referencial evita movimientos huérfanos y el historial de vigencia permite explicar cambios sin reescribir el pasado."
+        ]
+      }
+    };
+
+    const elements = {
+      chatForm: document.getElementById("chatForm"),
+      input: document.getElementById("messageInput"),
+      sendButton: document.getElementById("sendButton"),
+      charCount: document.getElementById("charCount"),
+      conversation: document.getElementById("conversation"),
+      messages: document.getElementById("messages"),
+      welcome: document.getElementById("welcomePanel"),
+      newChat: document.getElementById("newChatButton"),
+      demoMode: document.getElementById("demoModeButton"),
+      connectedMode: document.getElementById("connectedModeButton"),
+      modeDescription: document.getElementById("modeDescription"),
+      statusPill: document.getElementById("statusPill"),
+      statusText: document.getElementById("statusText")
+    };
+
+    let mode = "demo";
+    let isProcessing = false;
+    let conversationHistory = [];
+
+    function normalizeText(value) {
+      return value
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLowerCase()
+        .replace(/\s+/g, " ")
+        .trim();
+    }
+
+    function selectDemoTopic(question) {
+      const normalized = normalizeText(question);
+      if (normalized.includes("steward")) return "stewardship";
+      if (normalized.includes("tabla de hechos") || normalized.includes("dimension")) return "dimensional";
+      if (
+        normalized.includes("clientes, cuentas") ||
+        (normalized.includes("cliente") && normalized.includes("cuenta") && normalized.includes("transaccion"))
+      ) return "relationships";
+      return null;
+    }
+
+    function wantsDetail(question) {
+      const normalized = normalizeText(question);
+      return ["detalle", "detalla", "amplia", "profundiza", "explica mas"].some((term) => normalized.includes(term));
+    }
+
+    function getDemoResponse(question) {
+      let topic = selectDemoTopic(question);
+      if (!topic && wantsDetail(question)) {
+        const priorUserMessage = [...conversationHistory]
+          .reverse()
+          .find((item) => item.role === "user" && selectDemoTopic(item.content));
+        topic = priorUserMessage ? selectDemoTopic(priorUserMessage.content) : null;
+      }
+
+      if (!topic) {
+        return {
+          response: [
+            "Esta pregunta no tiene una respuesta predefinida en el modo demostración.",
+            "Prueba una de las tres sugerencias iniciales o cambia a Modo conectado para consultar el backend RAG."
+          ],
+          sources: [],
+          sql: null
+        };
+      }
+
+      const variant = wantsDetail(question) ? "detailed" : "short";
+      return {
+        response: demoAnswers[topic][variant],
+        sources: [],
+        sql: null
+      };
+    }
+
+    function getRelevantHistory() {
+      return conversationHistory
+        .filter((item) => item.role === "user" || item.role === "assistant")
+        .slice(-MAX_HISTORY_MESSAGES)
+        .map((item) => ({ role: item.role, content: item.content }));
+    }
+
+    function createMessageElement(role, content, options = {}) {
+      const article = document.createElement("article");
+      article.className = `message ${role}${options.error ? " error" : ""}`;
+
+      const avatar = document.createElement("div");
+      avatar.className = "avatar";
+      avatar.setAttribute("aria-hidden", "true");
+      avatar.textContent = role === "user" ? "TÚ" : "BG";
+
+      const card = document.createElement("div");
+      card.className = "message-card";
+
+      const meta = document.createElement("div");
+      meta.className = "message-meta";
+      meta.textContent = role === "user" ? "Tu pregunta" : options.error ? "Conexión" : "BankGuard AI";
+
+      const body = document.createElement("div");
+      body.className = "message-body";
+      appendFormattedContent(body, content);
+
+      card.append(meta, body);
+      if (role === "assistant" && (hasSources(options.sources) || options.sql)) {
+        card.appendChild(createDetails(options.sources, options.sql));
+      }
+
+      article.append(avatar, card);
+      return article;
+    }
+
+    function appendFormattedContent(container, content) {
+      const blocks = Array.isArray(content) ? content : String(content || "").split(/\n{2,}/);
+      blocks.filter(Boolean).forEach((block) => {
+        const text = String(block).trim();
+        if (!text) return;
+
+        const lines = text.split("\n").map((line) => line.trim()).filter(Boolean);
+        const isList = lines.length > 0 && lines.every((line) => /^[-•]\s+/.test(line));
+        if (isList) {
+          const list = document.createElement("ul");
+          lines.forEach((line) => {
+            const item = document.createElement("li");
+            item.textContent = line.replace(/^[-•]\s+/, "");
+            list.appendChild(item);
+          });
+          container.appendChild(list);
+          return;
+        }
+
+        const paragraph = document.createElement("p");
+        paragraph.textContent = text;
+        container.appendChild(paragraph);
+      });
+    }
+
+    function hasSources(sources) {
+      return Array.isArray(sources) && sources.length > 0;
+    }
+
+    function createDetails(sources, sql) {
+      const details = document.createElement("details");
+      details.className = "response-details";
+
+      const summary = document.createElement("summary");
+      summary.textContent = "Ver fuentes y detalles técnicos";
+      details.appendChild(summary);
+
+      if (hasSources(sources)) {
+        const sourceBlock = document.createElement("div");
+        sourceBlock.className = "detail-block";
+        const title = document.createElement("strong");
+        title.textContent = "Fuentes";
+        sourceBlock.appendChild(title);
+
+        const list = document.createElement("ol");
+        sources.forEach((source) => {
+          const item = document.createElement("li");
+          item.textContent = typeof source === "string" ? source : JSON.stringify(source);
+          list.appendChild(item);
+        });
+        sourceBlock.appendChild(list);
+        details.appendChild(sourceBlock);
+      }
+
+      if (sql) {
+        const sqlBlock = document.createElement("div");
+        sqlBlock.className = "detail-block";
+        const title = document.createElement("strong");
+        title.textContent = "SQL proporcionado por el backend";
+        const pre = document.createElement("pre");
+        pre.textContent = String(sql);
+        sqlBlock.append(title, pre);
+        details.appendChild(sqlBlock);
+      }
+
+      return details;
+    }
+
+    function addMessage(role, content, options = {}) {
+      elements.welcome.hidden = true;
+      const message = createMessageElement(role, content, options);
+      elements.messages.appendChild(message);
+      scrollToLatest();
+      return message;
+    }
+
+    function addTypingIndicator() {
+      const article = document.createElement("article");
+      article.className = "message assistant";
+      article.id = "typingIndicator";
+
+      const avatar = document.createElement("div");
+      avatar.className = "avatar";
+      avatar.setAttribute("aria-hidden", "true");
+      avatar.textContent = "BG";
+
+      const card = document.createElement("div");
+      card.className = "message-card typing-card";
+
+      const dots = document.createElement("span");
+      dots.className = "typing-dots";
+      dots.setAttribute("aria-hidden", "true");
+      dots.append(document.createElement("span"), document.createElement("span"), document.createElement("span"));
+
+      const copy = document.createElement("span");
+      copy.className = "typing-copy";
+      copy.textContent = mode === "demo" ? "Preparando respuesta de demostración..." : "Consultando el asistente local...";
+
+      card.append(dots, copy);
+      article.append(avatar, card);
+      elements.messages.appendChild(article);
+      scrollToLatest();
+      return article;
+    }
+
+    function scrollToLatest() {
+      requestAnimationFrame(() => {
+        elements.conversation.scrollTop = elements.conversation.scrollHeight;
+      });
+    }
+
+    function setProcessing(value) {
+      isProcessing = value;
+      elements.input.disabled = value;
+      elements.demoMode.disabled = value;
+      elements.connectedMode.disabled = value;
+      elements.newChat.disabled = value;
+      updateSendState();
+    }
+
+    function updateSendState() {
+      const length = elements.input.value.trim().length;
+      elements.sendButton.disabled = isProcessing || length === 0 || length > 500;
+    }
+
+    function updateCharacterCount() {
+      const length = elements.input.value.length;
+      elements.charCount.textContent = `${length} / 500`;
+      elements.charCount.dataset.warning = String(length >= 460);
+      updateSendState();
+    }
+
+    function resizeInput() {
+      elements.input.style.height = "auto";
+      elements.input.style.height = `${Math.min(elements.input.scrollHeight, 132)}px`;
+    }
+
+    function setMode(nextMode) {
+      if (isProcessing || nextMode === mode) return;
+      mode = nextMode;
+      const isDemo = mode === "demo";
+      elements.demoMode.setAttribute("aria-pressed", String(isDemo));
+      elements.connectedMode.setAttribute("aria-pressed", String(!isDemo));
+      elements.statusPill.dataset.mode = mode;
+      elements.statusText.textContent = isDemo ? "Modo demostración" : "Modo conectado";
+      elements.modeDescription.textContent = isDemo
+        ? "Respuestas predefinidas para presentar el diseño sin iniciar el backend."
+        : `Una petición POST por mensaje a ${API_URL}. El backend debe permitir CORS.`;
+      elements.input.placeholder = isDemo
+        ? "Prueba una pregunta sugerida..."
+        : "Escribe una pregunta para el backend RAG...";
+      elements.input.focus();
+    }
+
+    function resetConversation() {
+      if (isProcessing) return;
+      conversationHistory = [];
+      elements.messages.replaceChildren();
+      elements.welcome.hidden = false;
+      elements.input.value = "";
+      elements.input.style.height = "auto";
+      updateCharacterCount();
+      elements.conversation.scrollTop = 0;
+      elements.input.focus();
+    }
+
+    async function requestConnectedResponse(message, history) {
+      const controller = new AbortController();
+      const timeoutId = window.setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
+
+      try {
+        const response = await fetch(API_URL, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            message,
+            history,
+            max_output_tokens: MAX_OUTPUT_TOKENS
+          }),
+          signal: controller.signal
+        });
+
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+
+        const data = await response.json();
+        if (!data || typeof data.response !== "string" || !data.response.trim()) {
+          throw new Error("Respuesta inválida del servidor");
+        }
+
+        return {
+          response: data.response.trim(),
+          sources: Array.isArray(data.sources) ? data.sources : [],
+          sql: data.sql ?? null
+        };
+      } finally {
+        window.clearTimeout(timeoutId);
+      }
+    }
+
+    function friendlyConnectionError(error) {
+      if (error && error.name === "AbortError") {
+        return [
+          "La consulta tardó más de 120 segundos y fue cancelada para evitar que la presentación quedara bloqueada.",
+          "Verifica que el backend local y Ollama estén disponibles antes de intentarlo nuevamente."
+        ];
+      }
+      return [
+        "No fue posible conectar con el backend local.",
+        `Comprueba que el servicio esté activo en ${API_URL} y permita solicitudes CORS desde esta página. No se realizaron reintentos automáticos.`
+      ];
+    }
+
+    async function handleQuestion(rawQuestion) {
+      const question = rawQuestion.trim();
+      if (!question || isProcessing) return;
+      if (question.length > 500) {
+        addMessage("assistant", "La pregunta supera el límite de 500 caracteres.", { error: true });
+        return;
+      }
+
+      const outboundHistory = getRelevantHistory();
+      addMessage("user", question);
+      conversationHistory.push({ role: "user", content: question });
+      elements.input.value = "";
+      elements.input.style.height = "auto";
+      updateCharacterCount();
+      setProcessing(true);
+      const typing = addTypingIndicator();
+
+      try {
+        let result;
+        if (mode === "demo") {
+          await new Promise((resolve) => window.setTimeout(resolve, 520));
+          result = getDemoResponse(question);
+        } else {
+          result = await requestConnectedResponse(question, outboundHistory);
+        }
+
+        typing.remove();
+        addMessage("assistant", result.response, {
+          sources: result.sources,
+          sql: result.sql
+        });
+
+        const plainResponse = Array.isArray(result.response)
+          ? result.response.join("\n\n")
+          : String(result.response);
+        conversationHistory.push({ role: "assistant", content: plainResponse });
+      } catch (error) {
+        typing.remove();
+        addMessage("assistant", friendlyConnectionError(error), { error: true });
+      } finally {
+        setProcessing(false);
+        elements.input.focus();
+      }
+    }
+
+    elements.chatForm.addEventListener("submit", (event) => {
+      event.preventDefault();
+      handleQuestion(elements.input.value);
+    });
+
+    elements.input.addEventListener("input", () => {
+      updateCharacterCount();
+      resizeInput();
+    });
+
+    elements.input.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" && !event.shiftKey && !event.isComposing) {
+        event.preventDefault();
+        if (!elements.sendButton.disabled) {
+          elements.chatForm.requestSubmit();
+        }
+      }
+    });
+
+    document.querySelectorAll(".suggestion").forEach((button) => {
+      button.addEventListener("click", () => {
+        if (!isProcessing) handleQuestion(button.dataset.question || "");
+      });
+    });
+
+    elements.newChat.addEventListener("click", resetConversation);
+    elements.demoMode.addEventListener("click", () => setMode("demo"));
+    elements.connectedMode.addEventListener("click", () => setMode("connected"));
+
+    updateCharacterCount();
+  </script>
+</body>
+</html>
